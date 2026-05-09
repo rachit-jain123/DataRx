@@ -1,0 +1,4677 @@
+feature,method,score,leak_risk
+PC1,Pearson,0.702,Low
+PC4,Pearson,0.4747,Low
+city_Cupertino,Pearson,0.4579,Low
+CEO_Timothy D. Cook,Pearson,0.4579,Low
+Website_www.apple.com,Pearson,0.4579,Low
+prev_rank_3.0,Pearson,0.4579,Low
+company_Apple,Pearson,0.4579,Low
+Ticker_AAPL,Pearson,0.4579,Low
+prev_rank_6.0,Pearson,0.4337,Low
+CEO_Warren E. Buffett,Pearson,0.4337,Low
+Website_www.berkshirehathaway.com,Pearson,0.4337,Low
+Ticker_BRKA,Pearson,0.4337,Low
+company_Berkshire Hathaway,Pearson,0.4337,Low
+Website_https://www.abc.xyz,Pearson,0.3656,Low
+CEO_Sundar Pichai,Pearson,0.3656,Low
+Ticker_GOOGL,Pearson,0.3656,Low
+company_Alphabet,Pearson,0.3656,Low
+prev_rank_9.0,Pearson,0.3656,Low
+city_Redmond,Pearson,0.2927,Low
+Ticker_MSFT,Pearson,0.2927,Low
+company_Microsoft,Pearson,0.2927,Low
+Website_www.microsoft.com,Pearson,0.2927,Low
+CEO_Satya Nadella,Pearson,0.2927,Low
+prev_rank_15.0,Pearson,0.2927,Low
+Ticker_JPM,Pearson,0.2287,Low
+CEO_James Dimon,Pearson,0.2287,Low
+Website_www.jpmorganchase.com,Pearson,0.2287,Low
+company_JPMorgan Chase,Pearson,0.2287,Low
+prev_rank_19.0,Pearson,0.2287,Low
+state_NE,Pearson,0.1912,Low
+city_Omaha,Pearson,0.1912,Low
+Website_https://investor.fb.com,Pearson,0.1844,Low
+prev_rank_34.0,Pearson,0.1844,Low
+CEO_Mark Zuckerberg,Pearson,0.1844,Low
+Ticker_META,Pearson,0.1844,Low
+company_Meta Platforms,Pearson,0.1844,Low
+city_Mountain View,Pearson,0.1742,Low
+CEO_Andrew R. Jassy,Pearson,0.1547,Low
+prev_rank_2.0,Pearson,0.1547,Low
+company_Amazon,Pearson,0.1547,Low
+Website_www.amazon.com,Pearson,0.1547,Low
+Ticker_AMZN,Pearson,0.1547,Low
+Ticker_BAC,Pearson,0.1478,Low
+Website_www.bankofamerica.com,Pearson,0.1478,Low
+company_Bank of America,Pearson,0.1478,Low
+CEO_Brian T. Moynihan,Pearson,0.1478,Low
+prev_rank_29.0,Pearson,0.1478,Low
+profitable_yes,Pearson,0.1439,Low
+PC3,Pearson,0.1271,Low
+city_Menlo Park,Pearson,0.1252,Low
+sector_Financials,Pearson,0.113,Low
+company_Exxon Mobil,Pearson,0.1036,Low
+prev_rank_10.0,Pearson,0.1036,Low
+CEO_Darren W. Woods,Pearson,0.1036,Low
+Website_www.exxonmobil.com,Pearson,0.1036,Low
+Ticker_XOM,Pearson,0.1036,Low
+sector_Technology,Pearson,0.1009,Low
+Website_www.fanniemae.com,Pearson,0.0993,Low
+company_Fannie Mae,Pearson,0.0993,Low
+Ticker_FNMA,Pearson,0.0993,Low
+CEO_David C. Benson,Pearson,0.0993,Low
+prev_rank_25.0,Pearson,0.0993,Low
+CEO_Hans E. Vestberg,Pearson,0.0988,Low
+prev_rank_20.0,Pearson,0.0988,Low
+company_Verizon Communications,Pearson,0.0988,Low
+Website_www.verizon.com,Pearson,0.0988,Low
+Ticker_VZ,Pearson,0.0988,Low
+company_Pfizer,Pearson,0.0984,Low
+prev_rank_77.0,Pearson,0.0984,Low
+Website_www.pfizer.com,Pearson,0.0984,Low
+CEO_Albert Bourla,Pearson,0.0984,Low
+Ticker_PFE,Pearson,0.0984,Low
+Website_www.citigroup.com,Pearson,0.0982,Low
+Ticker_C,Pearson,0.0982,Low
+company_Citigroup,Pearson,0.0982,Low
+CEO_Jane Fraser,Pearson,0.0982,Low
+prev_rank_33.0,Pearson,0.0982,Low
+state_WA,Pearson,0.0978,Low
+Website_www.goldmansachs.com,Pearson,0.0967,Low
+prev_rank_59.0,Pearson,0.0967,Low
+company_Goldman Sachs Group,Pearson,0.0967,Low
+Ticker_GS,Pearson,0.0967,Low
+CEO_David M. Solomon,Pearson,0.0967,Low
+company_Wells Fargo,Pearson,0.0962,Low
+prev_rank_37.0,Pearson,0.0962,Low
+Website_www.wellsfargo.com,Pearson,0.0962,Low
+CEO_Charles W. Scharf,Pearson,0.0962,Low
+Ticker_WFC,Pearson,0.0962,Low
+prev_rank_36.0,Pearson,0.0929,Low
+company_Johnson & Johnson,Pearson,0.0929,Low
+city_New Brunswick,Pearson,0.0929,Low
+Website_www.jnj.com,Pearson,0.0929,Low
+Ticker_JNJ,Pearson,0.0929,Low
+CEO_Joaquin Duato,Pearson,0.0929,Low
+CEO_John T. Stankey,Pearson,0.089,Low
+company_AT&T,Pearson,0.089,Low
+Website_www.att.com,Pearson,0.089,Low
+Ticker_T,Pearson,0.089,Low
+prev_rank_11.0,Pearson,0.089,Low
+CEO_Patrick P. Gelsinger,Pearson,0.0879,Low
+prev_rank_40.0,Pearson,0.0879,Low
+Ticker_INTC,Pearson,0.0879,Low
+Website_www.intel.com,Pearson,0.0879,Low
+company_Intel,Pearson,0.0879,Low
+sector_Telecommunications,Pearson,0.0874,Low
+city_New York,Pearson,0.0816,Low
+state_CA,Pearson,0.0816,Low
+prev_rank_21.0,Pearson,0.0784,Low
+city_Dearborn,Pearson,0.0784,Low
+Website_www.ford.com,Pearson,0.0784,Low
+Ticker_F,Pearson,0.0784,Low
+CEO_James D. Farley Jr.,Pearson,0.0784,Low
+company_Ford Motor,Pearson,0.0784,Low
+Ticker_UNH,Pearson,0.0751,Low
+prev_rank_5.0,Pearson,0.0751,Low
+Website_www.unitedhealthgroup.com,Pearson,0.0751,Low
+CEO_Andrew P. Witty,Pearson,0.0751,Low
+city_Minnetonka,Pearson,0.0751,Low
+company_UnitedHealth Group,Pearson,0.0751,Low
+state_NY,Pearson,0.0729,Low
+CEO_Edward P. Decker,Pearson,0.0709,Low
+Website_www.homedepot.com,Pearson,0.0709,Low
+prev_rank_18.0,Pearson,0.0709,Low
+Ticker_HD,Pearson,0.0709,Low
+company_Home Depot,Pearson,0.0709,Low
+CEO_Michael K. Wirth,Pearson,0.0669,Low
+Ticker_CVX,Pearson,0.0669,Low
+Website_www.chevron.com,Pearson,0.0669,Low
+prev_rank_27.0,Pearson,0.0669,Low
+company_Chevron,Pearson,0.0669,Low
+company_Morgan Stanley,Pearson,0.064,Low
+prev_rank_61.0,Pearson,0.064,Low
+Website_www.morganstanley.com,Pearson,0.064,Low
+Ticker_MS,Pearson,0.064,Low
+CEO_James P. Gorman,Pearson,0.064,Low
+Ticker_PG,Pearson,0.0604,Low
+prev_rank_43.0,Pearson,0.0604,Low
+CEO_Jon R. Moeller,Pearson,0.0604,Low
+company_Procter & Gamble,Pearson,0.0604,Low
+Website_www.pg.com,Pearson,0.0604,Low
+prev_rank_26.0,Pearson,0.0597,Low
+Website_www.comcastcorporation.com,Pearson,0.0597,Low
+company_Comcast,Pearson,0.0597,Low
+Ticker_CMCSA,Pearson,0.0597,Low
+CEO_Brian L. Roberts,Pearson,0.0597,Low
+Ticker_ORCL,Pearson,0.0576,Low
+CEO_Safra A. Catz,Pearson,0.0576,Low
+prev_rank_80.0,Pearson,0.0576,Low
+company_Oracle,Pearson,0.0576,Low
+Website_www.oracle.com,Pearson,0.0576,Low
+CEO_C. Douglas McMillon,Pearson,0.0573,Low
+prev_rank_1.0,Pearson,0.0573,Low
+company_Walmart,Pearson,0.0573,Low
+Ticker_WMT,Pearson,0.0573,Low
+city_Bentonville,Pearson,0.0573,Low
+Website_https://www.stock.walmart.com,Pearson,0.0573,Low
+company_eBay,Pearson,0.057,Low
+CEO_Jamie Iannone,Pearson,0.057,Low
+prev_rank_276.0,Pearson,0.057,Low
+Ticker_EBAY,Pearson,0.057,Low
+Website_https://www.ebay.com,Pearson,0.057,Low
+Ticker_MRK,Pearson,0.0542,Low
+Website_https://www.merck.com,Pearson,0.0542,Low
+city_Kenilworth,Pearson,0.0542,Low
+CEO_Robert Davis,Pearson,0.0542,Low
+prev_rank_65.0,Pearson,0.0542,Low
+company_Merck,Pearson,0.0542,Low
+Website_www.ups.com,Pearson,0.0534,Low
+Ticker_UPS,Pearson,0.0534,Low
+CEO_Carol B. Tomé,Pearson,0.0534,Low
+company_United Parcel Service,Pearson,0.0534,Low
+prev_rank_35.0,Pearson,0.0534,Low
+Ticker_COF,Pearson,0.0509,Low
+company_Capital One Financial,Pearson,0.0509,Low
+Website_www.capitalone.com,Pearson,0.0509,Low
+prev_rank_99.0,Pearson,0.0509,Low
+CEO_Richard D. Fairbank,Pearson,0.0509,Low
+Website_https://www.visa.com,Pearson,0.0505,Low
+Ticker_V,Pearson,0.0505,Low
+prev_rank_133.0,Pearson,0.0505,Low
+company_Visa,Pearson,0.0505,Low
+CEO_Alfred F. Kelly Jr.,Pearson,0.0505,Low
+city_San Ramon,Pearson,0.0503,Low
+CEO_Stephane Bancel,Pearson,0.05,Low
+Website_https://www.modernatx.com,Pearson,0.05,Low
+Ticker_MRNA,Pearson,0.05,Low
+company_Moderna,Pearson,0.05,Low
+prev_rank_47.0,Pearson,0.0495,Low
+Ticker_FMCC,Pearson,0.0495,Low
+company_Freddie Mac,Pearson,0.0495,Low
+Website_www.freddiemac.com,Pearson,0.0495,Low
+CEO_Michael J. DeVito,Pearson,0.0495,Low
+city_Washington,Pearson,0.0483,Low
+state_DC,Pearson,0.0483,Low
+sector_Wholesalers,Pearson,0.0472,Low
+city_North Chicago,Pearson,0.0467,Low
+company_AbbVie,Pearson,0.0467,Low
+Ticker_ABBV,Pearson,0.0467,Low
+CEO_Richard A. Gonzalez,Pearson,0.0467,Low
+prev_rank_68.0,Pearson,0.0467,Low
+Website_www.abbvie.com,Pearson,0.0467,Low
+city_Charlotte,Pearson,0.0449,Low
+sector_Industrials,Pearson,0.0441,Low
+prev_rank_38.0,Pearson,0.0426,Low
+Ticker_GE,Pearson,0.0426,Low
+company_General Electric,Pearson,0.0426,Low
+Website_www.ge.com,Pearson,0.0426,Low
+CEO_H. Lawrence Culp Jr.,Pearson,0.0426,Low
+CEO_Charles H. Robbins,Pearson,0.042,Low
+Website_www.cisco.com,Pearson,0.042,Low
+prev_rank_63.0,Pearson,0.042,Low
+company_Cisco Systems,Pearson,0.042,Low
+Ticker_CSCO,Pearson,0.042,Low
+sector_Materials,Pearson,0.0415,Low
+state_FL,Pearson,0.0404,Low
+sector_Engineering & Construction,Pearson,0.0402,Low
+CEO_Mary T. Barra,Pearson,0.0392,Low
+company_General Motors,Pearson,0.0392,Low
+Website_www.gm.com,Pearson,0.0392,Low
+prev_rank_22.0,Pearson,0.0392,Low
+Ticker_GM,Pearson,0.0392,Low
+city_Santa Clara,Pearson,0.0389,Low
+city_Seattle,Pearson,0.0385,Low
+state_PA,Pearson,0.0383,Low
+Ticker_KO,Pearson,0.038,Low
+CEO_James R. Quincey,Pearson,0.038,Low
+Website_www.coca-colacompany.com,Pearson,0.038,Low
+company_Coca-Cola,Pearson,0.038,Low
+prev_rank_93.0,Pearson,0.038,Low
+Website_https://www.nvidia.com,Pearson,0.0379,Low
+company_Nvidia,Pearson,0.0379,Low
+sector_Business Services,Pearson,0.0379,Low
+Ticker_NVDA,Pearson,0.0379,Low
+CEO_Jensen Huang,Pearson,0.0379,Low
+prev_rank_184.0,Pearson,0.0379,Low
+Website_www.marathonpetroleum.com,Pearson,0.0378,Low
+company_Marathon Petroleum,Pearson,0.0378,Low
+Ticker_MPC,Pearson,0.0378,Low
+city_Findlay,Pearson,0.0378,Low
+prev_rank_32.0,Pearson,0.0378,Low
+CEO_Michael J. Hennigan,Pearson,0.0378,Low
+"sector_Hotels, Restaurants & Leisure",Pearson,0.0375,Low
+Website_www.aig.com,Pearson,0.0361,Low
+prev_rank_72.0,Pearson,0.0361,Low
+CEO_Peter S. Zaffino,Pearson,0.0361,Low
+company_American International Group,Pearson,0.0361,Low
+Ticker_AIG,Pearson,0.0361,Low
+CEO_Jacek Olczak,Pearson,0.0347,Low
+Ticker_PM,Pearson,0.0347,Low
+prev_rank_101.0,Pearson,0.0347,Low
+Website_www.pmi.com,Pearson,0.0347,Low
+company_Philip Morris International,Pearson,0.0347,Low
+Ticker_QCOM,Pearson,0.0344,Low
+Website_https://www.qualcomm.com,Pearson,0.0344,Low
+state_CO,Pearson,0.0344,Low
+prev_rank_124.0,Pearson,0.0344,Low
+CEO_Cristiano Amon,Pearson,0.0344,Low
+company_Qualcomm,Pearson,0.0344,Low
+sector_Media,Pearson,0.0343,Low
+city_Austin,Pearson,0.0335,Low
+sector_Energy,Pearson,0.0335,Low
+city_McLean,Pearson,0.0331,Low
+Ticker_MCK,Pearson,0.0328,Low
+company_McKesson,Pearson,0.0328,Low
+prev_rank_7.0,Pearson,0.0328,Low
+CEO_Brian S. Tyler,Pearson,0.0328,Low
+Website_www.mckesson.com,Pearson,0.0328,Low
+Website_https://www.mastercard.com,Pearson,0.0326,Low
+company_Mastercard,Pearson,0.0326,Low
+Ticker_MA,Pearson,0.0326,Low
+prev_rank_201.0,Pearson,0.0326,Low
+CEO_Michael Miebach,Pearson,0.0326,Low
+Ticker_WE,Pearson,0.0323,Low
+CEO_Sandeep Mathrani,Pearson,0.0323,Low
+Website_https://www.wework.com,Pearson,0.0323,Low
+company_WeWork,Pearson,0.0323,Low
+state_AZ,Pearson,0.0315,Low
+Ticker_LOW,Pearson,0.0314,Low
+state_NV,Pearson,0.0314,Low
+company_Lowe's,Pearson,0.0314,Low
+prev_rank_31.0,Pearson,0.0314,Low
+CEO_Marvin R. Ellison,Pearson,0.0314,Low
+Website_www.lowes.com,Pearson,0.0314,Low
+city_Mooresville,Pearson,0.0314,Low
+sector_Health Care,Pearson,0.0311,Low
+CEO_David L. Calhoun,Pearson,0.0311,Low
+Ticker_BA,Pearson,0.0311,Low
+Website_www.boeing.com,Pearson,0.0311,Low
+company_Boeing,Pearson,0.0311,Low
+prev_rank_54.0,Pearson,0.0311,Low
+state_WI,Pearson,0.031,Low
+city_Purchase,Pearson,0.0301,Low
+city_Tarrytown,Pearson,0.0296,Low
+CEO_Leonard Schleifer,Pearson,0.0296,Low
+company_Regeneron Pharmaceuticals,Pearson,0.0296,Low
+Website_https://www.regeneron.com,Pearson,0.0296,Low
+Website_www.conocophillips.com,Pearson,0.0296,Low
+prev_rank_354.0,Pearson,0.0296,Low
+company_ConocoPhillips,Pearson,0.0296,Low
+Ticker_REGN,Pearson,0.0296,Low
+Ticker_COP,Pearson,0.0296,Low
+CEO_Ryan M. Lance,Pearson,0.0296,Low
+prev_rank_156.0,Pearson,0.0296,Low
+prev_rank_83.0,Pearson,0.0295,Low
+Ticker_AXP,Pearson,0.0295,Low
+company_American Express,Pearson,0.0295,Low
+Website_www.americanexpress.com,Pearson,0.0295,Low
+CEO_Stephen J. Squeri,Pearson,0.0295,Low
+Ticker_USB,Pearson,0.029,Low
+company_U.S. Bancorp,Pearson,0.029,Low
+CEO_Andrew J. Cecere,Pearson,0.029,Low
+prev_rank_113.0,Pearson,0.029,Low
+Website_https://www.usbank.com,Pearson,0.029,Low
+CEO_Karen Lynch,Pearson,0.0288,Low
+Ticker_CVS,Pearson,0.0288,Low
+company_CVS Health,Pearson,0.0288,Low
+city_Woonsocket,Pearson,0.0288,Low
+prev_rank_4.0,Pearson,0.0288,Low
+Website_https://www.cvshealth.com,Pearson,0.0288,Low
+state_MO,Pearson,0.0287,Low
+sector_Transportation,Pearson,0.0286,Low
+CEO_Richard K. Templeton,Pearson,0.0281,Low
+prev_rank_210.0,Pearson,0.0281,Low
+state_IL,Pearson,0.0281,Low
+Ticker_TXN,Pearson,0.0281,Low
+company_Texas Instruments,Pearson,0.0281,Low
+Website_https://www.ti.com,Pearson,0.0281,Low
+Website_https://www.thermofisher.com,Pearson,0.0279,Low
+CEO_Charles F. Lowrey,Pearson,0.0279,Low
+Ticker_PRU,Pearson,0.0279,Low
+Ticker_TMO,Pearson,0.0279,Low
+CEO_Marc Casper,Pearson,0.0279,Low
+city_Chicago,Pearson,0.0279,Low
+prev_rank_55.0,Pearson,0.0279,Low
+company_Thermo Fisher Scientific,Pearson,0.0279,Low
+Website_www.prudential.com,Pearson,0.0279,Low
+prev_rank_95.0,Pearson,0.0279,Low
+company_Prudential Financial,Pearson,0.0279,Low
+city_Houston,Pearson,0.0278,Low
+state_OH,Pearson,0.0277,Low
+Website_www.pepsico.com,Pearson,0.0273,Low
+company_PepsiCo,Pearson,0.0273,Low
+CEO_Ramon L. Laguarta,Pearson,0.0273,Low
+Ticker_PEP,Pearson,0.0273,Low
+prev_rank_44.0,Pearson,0.0273,Low
+company_McDonald's,Pearson,0.027,Low
+Website_https://www.investor.mcdonalds.com,Pearson,0.027,Low
+CEO_Christopher J. Kempczinski,Pearson,0.027,Low
+prev_rank_157.0,Pearson,0.027,Low
+Ticker_MCD,Pearson,0.027,Low
+sector_Apparel,Pearson,0.027,Low
+city_Denver,Pearson,0.0261,Low
+city_St. Louis,Pearson,0.0258,Low
+city_Boston,Pearson,0.0255,Low
+Ticker_ABT,Pearson,0.0246,Low
+prev_rank_89.0,Pearson,0.0246,Low
+Website_www.abbott.com,Pearson,0.0246,Low
+CEO_Robert B. Ford,Pearson,0.0246,Low
+company_Abbott Laboratories,Pearson,0.0246,Low
+city_Tempe,Pearson,0.0244,Low
+company_Bristol-Myers Squibb,Pearson,0.0243,Low
+CEO_Kathy J. Warden,Pearson,0.0243,Low
+prev_rank_86.0,Pearson,0.0243,Low
+Ticker_BMY,Pearson,0.0243,Low
+Website_www.northropgrumman.com,Pearson,0.0243,Low
+prev_rank_75.0,Pearson,0.0243,Low
+Website_www.bms.com,Pearson,0.0243,Low
+company_Northrop Grumman,Pearson,0.0243,Low
+city_Falls Church,Pearson,0.0243,Low
+Ticker_NOC,Pearson,0.0243,Low
+CEO_Giovanni Caforio,Pearson,0.0243,Low
+city_Las Vegas,Pearson,0.0242,Low
+Ticker_HCA,Pearson,0.0241,Low
+company_HCA Healthcare,Pearson,0.0241,Low
+CEO_Samuel N. Hazen,Pearson,0.0241,Low
+Website_www.hcahealthcare.com,Pearson,0.0241,Low
+prev_rank_62.0,Pearson,0.0241,Low
+Ticker_TGT,Pearson,0.024,Low
+company_Target,Pearson,0.024,Low
+Website_www.target.com,Pearson,0.024,Low
+CEO_Brian C. Cornell,Pearson,0.024,Low
+prev_rank_30.0,Pearson,0.024,Low
+state_KS,Pearson,0.0236,Low
+company_Nucor,Pearson,0.0234,Low
+Website_www.nucor.com,Pearson,0.0234,Low
+Ticker_NUE,Pearson,0.0234,Low
+prev_rank_149.0,Pearson,0.0234,Low
+CEO_Leon J. Topalian,Pearson,0.0234,Low
+city_Cambridge,Pearson,0.0233,Low
+company_Broadcom,Pearson,0.023,Low
+Website_https://www.broadcom.com,Pearson,0.023,Low
+CEO_Hock E. Tan,Pearson,0.023,Low
+prev_rank_121.0,Pearson,0.023,Low
+Ticker_AVGO,Pearson,0.023,Low
+newcomer_yes,Pearson,0.0229,Low
+state_TX,Pearson,0.0226,Low
+company_MetLife,Pearson,0.0221,Low
+CEO_Michel A. Khalaf,Pearson,0.0221,Low
+Website_www.metlife.com,Pearson,0.0221,Low
+Ticker_MET,Pearson,0.0221,Low
+prev_rank_46.0,Pearson,0.0221,Low
+Ticker_UNP,Pearson,0.0219,Low
+Website_https://www.cheniere.com,Pearson,0.0219,Low
+prev_rank_153.0,Pearson,0.0219,Low
+prev_rank_328.0,Pearson,0.0219,Low
+company_Union Pacific,Pearson,0.0219,Low
+Website_https://www.up.com,Pearson,0.0219,Low
+Ticker_LNG,Pearson,0.0219,Low
+CEO_Lance M. Fritz,Pearson,0.0219,Low
+CEO_Jack A. Fusco,Pearson,0.0219,Low
+company_Cheniere Energy,Pearson,0.0219,Low
+Ticker_HPQ,Pearson,0.0218,Low
+Ticker_CAT,Pearson,0.0218,Low
+Website_www.hp.com,Pearson,0.0218,Low
+company_HP,Pearson,0.0218,Low
+company_Caterpillar,Pearson,0.0218,Low
+CEO_D. James Umpleby III,Pearson,0.0218,Low
+prev_rank_56.0,Pearson,0.0218,Low
+Website_www.caterpillar.com,Pearson,0.0218,Low
+prev_rank_78.0,Pearson,0.0218,Low
+CEO_Enrique J. Lores,Pearson,0.0218,Low
+prev_rank_144.0,Pearson,0.0216,Low
+CEO_Edward D. Breen,Pearson,0.0216,Low
+Ticker_DD,Pearson,0.0216,Low
+company_DuPont,Pearson,0.0216,Low
+Website_https://www.dupont.com,Pearson,0.0216,Low
+Website_https://www.truist.com,Pearson,0.0215,Low
+company_Danaher,Pearson,0.0215,Low
+prev_rank_119.0,Pearson,0.0215,Low
+CEO_Rainer Blair,Pearson,0.0215,Low
+prev_rank_130.0,Pearson,0.0215,Low
+Ticker_TFC,Pearson,0.0215,Low
+company_Truist Financial,Pearson,0.0215,Low
+Ticker_DHR,Pearson,0.0215,Low
+CEO_William H. Rogers Jr.,Pearson,0.0215,Low
+Website_https://www.danaher.com,Pearson,0.0215,Low
+city_Boca Raton,Pearson,0.0213,Low
+Website_www.dow.com,Pearson,0.0209,Low
+CEO_James R. Fitterling,Pearson,0.0209,Low
+company_Lockheed Martin,Pearson,0.0209,Low
+CEO_James D. Taiclet Jr.,Pearson,0.0209,Low
+company_Dow,Pearson,0.0209,Low
+prev_rank_82.0,Pearson,0.0209,Low
+Ticker_DOW,Pearson,0.0209,Low
+Ticker_LMT,Pearson,0.0209,Low
+Website_www.lockheedmartin.com,Pearson,0.0209,Low
+prev_rank_49.0,Pearson,0.0209,Low
+state_TN,Pearson,0.0207,Low
+city_San Antonio,Pearson,0.0204,Low
+company_Gilead Sciences,Pearson,0.0204,Low
+prev_rank_116.0,Pearson,0.0204,Low
+Ticker_GILD,Pearson,0.0204,Low
+CEO_Daniel P. O&#039;Day,Pearson,0.0204,Low
+city_Foster City,Pearson,0.0204,Low
+Website_https://www.gilead.com,Pearson,0.0204,Low
+CEO_Robert D. Isom,Pearson,0.0202,Low
+prev_rank_174.0,Pearson,0.0202,Low
+Ticker_AAL,Pearson,0.0202,Low
+Website_www.aa.com,Pearson,0.0202,Low
+company_American Airlines Group,Pearson,0.0202,Low
+company_United Airlines Holdings,Pearson,0.02,Low
+Website_https://www.united.com,Pearson,0.02,Low
+prev_rank_200.0,Pearson,0.02,Low
+Ticker_UAL,Pearson,0.02,Low
+CEO_J. Scott Kirby,Pearson,0.02,Low
+Ticker_ELV,Pearson,0.0199,Low
+CEO_Gail K. Boudreaux,Pearson,0.0199,Low
+prev_rank_23.0,Pearson,0.0199,Low
+Website_www.elevancehealth.com,Pearson,0.0199,Low
+company_Elevance Health,Pearson,0.0199,Low
+sector_Chemicals,Pearson,0.0196,Low
+city_San Jose,Pearson,0.0195,Low
+sector_Food & Drug Stores,Pearson,0.0195,Low
+company_Deere,Pearson,0.0192,Low
+prev_rank_88.0,Pearson,0.0192,Low
+CEO_John C. May,Pearson,0.0192,Low
+Website_www.deere.com,Pearson,0.0192,Low
+Ticker_DE,Pearson,0.0192,Low
+city_Moline,Pearson,0.0192,Low
+city_Brentwood,Pearson,0.0192,Low
+CEO_Michael F. Roman,Pearson,0.0189,Low
+Ticker_MMM,Pearson,0.0189,Low
+Website_www.3m.com,Pearson,0.0189,Low
+city_Portland,Pearson,0.0189,Low
+prev_rank_96.0,Pearson,0.0189,Low
+company_3M,Pearson,0.0189,Low
+CEO_Gary E. Dickerson,Pearson,0.0188,Low
+Website_https://www.blackrock.com,Pearson,0.0188,Low
+Website_https://www.amgen.com,Pearson,0.0188,Low
+Website_https://www.appliedmaterials.com,Pearson,0.0188,Low
+prev_rank_192.0,Pearson,0.0188,Low
+prev_rank_112.0,Pearson,0.0188,Low
+company_Amgen,Pearson,0.0188,Low
+Ticker_AMGN,Pearson,0.0188,Low
+prev_rank_176.0,Pearson,0.0188,Low
+company_BlackRock,Pearson,0.0188,Low
+Ticker_AMAT,Pearson,0.0188,Low
+sector_Retailing,Pearson,0.0188,Low
+city_Leawood,Pearson,0.0188,Low
+Ticker_BLK,Pearson,0.0188,Low
+CEO_Robert A. Bradway,Pearson,0.0188,Low
+company_Applied Materials,Pearson,0.0188,Low
+CEO_Laurence D. Fink,Pearson,0.0188,Low
+state_CT,Pearson,0.0187,Low
+state_UT,Pearson,0.0187,Low
+Ticker_BX,Pearson,0.0186,Low
+prev_rank_135.0,Pearson,0.0186,Low
+prev_rank_251.0,Pearson,0.0186,Low
+CEO_Walter W. Bettinger II,Pearson,0.0186,Low
+Ticker_MU,Pearson,0.0186,Low
+CEO_Stephen A. Schwarzman,Pearson,0.0186,Low
+CEO_Sanjay Mehrotra,Pearson,0.0186,Low
+company_Blackstone,Pearson,0.0186,Low
+company_Charles Schwab,Pearson,0.0186,Low
+sector_Household Products,Pearson,0.0186,Low
+company_Micron Technology,Pearson,0.0186,Low
+Ticker_SCHW,Pearson,0.0186,Low
+Website_https://www.micron.com,Pearson,0.0186,Low
+prev_rank_454.0,Pearson,0.0186,Low
+Website_https://www.aboutschwab.com,Pearson,0.0186,Low
+Website_https://www.blackstone.com,Pearson,0.0186,Low
+CEO_Arvind Krishna,Pearson,0.0181,Low
+state_MA,Pearson,0.0181,Low
+company_IBM,Pearson,0.0181,Low
+Ticker_IBM,Pearson,0.0181,Low
+city_Armonk,Pearson,0.0181,Low
+Website_https://www.ibm.com,Pearson,0.0181,Low
+prev_rank_42.0,Pearson,0.0181,Low
+company_Nike,Pearson,0.018,Low
+CEO_John J. Donahoe II,Pearson,0.018,Low
+city_Beaverton,Pearson,0.018,Low
+Ticker_NKE,Pearson,0.018,Low
+prev_rank_85.0,Pearson,0.018,Low
+Website_www.nike.com,Pearson,0.018,Low
+city_Beverly Hills,Pearson,0.0179,Low
+city_Orlando,Pearson,0.0178,Low
+Ticker_PNC,Pearson,0.0177,Low
+company_PNC Financial Services Group,Pearson,0.0177,Low
+company_PPL,Pearson,0.0177,Low
+CEO_Vincent Sorgi,Pearson,0.0177,Low
+prev_rank_382.0,Pearson,0.0177,Low
+prev_rank_120.0,Pearson,0.0177,Low
+Website_https://www.pplweb.com,Pearson,0.0177,Low
+Website_https://www.pnc.com,Pearson,0.0177,Low
+CEO_William S. Demchak,Pearson,0.0177,Low
+Ticker_PPL,Pearson,0.0177,Low
+city_Norwalk,Pearson,0.0174,Low
+Website_https://www.lilly.com,Pearson,0.0173,Low
+Ticker_LLY,Pearson,0.0173,Low
+CEO_David A. Ricks,Pearson,0.0173,Low
+company_Eli Lilly,Pearson,0.0173,Low
+prev_rank_118.0,Pearson,0.0173,Low
+company_Dell Technologies,Pearson,0.0172,Low
+city_Round Rock,Pearson,0.0172,Low
+CEO_Michael S. Dell,Pearson,0.0172,Low
+Ticker_DELL,Pearson,0.0172,Low
+prev_rank_28.0,Pearson,0.0172,Low
+Website_www.delltechnologies.com,Pearson,0.0172,Low
+prev_rank_94.0,Pearson,0.0171,Low
+Ticker_HON,Pearson,0.0171,Low
+CEO_Darius E. Adamczyk,Pearson,0.0171,Low
+company_Honeywell International,Pearson,0.0171,Low
+Website_www.honeywell.com,Pearson,0.0171,Low
+CEO_Gary Steele,Pearson,0.017,Low
+prev_rank_100.0,Pearson,0.017,Low
+Ticker_TSLA,Pearson,0.017,Low
+Website_https://www.splunk.com,Pearson,0.017,Low
+company_Splunk,Pearson,0.017,Low
+CEO_Elon Musk,Pearson,0.017,Low
+company_Tesla,Pearson,0.017,Low
+Website_www.tesla.com,Pearson,0.017,Low
+Ticker_SPLK,Pearson,0.017,Low
+city_Los Angeles,Pearson,0.0169,Low
+company_Energy Transfer,Pearson,0.0167,Low
+Website_www.energytransfer.com,Pearson,0.0167,Low
+CEO_Thomas E. Long/Marshall S. McCrea III,Pearson,0.0167,Low
+Ticker_ET,Pearson,0.0167,Low
+city_Pittsburgh,Pearson,0.0167,Low
+prev_rank_81.0,Pearson,0.0167,Low
+company_Vistra,Pearson,0.0166,Low
+CEO_Roger C. Hochschild,Pearson,0.0166,Low
+Ticker_DFS,Pearson,0.0166,Low
+company_AMC Entertainment Holdings,Pearson,0.0166,Low
+Ticker_VST,Pearson,0.0166,Low
+Ticker_VTRS,Pearson,0.0166,Low
+Website_https://www.viatris.com,Pearson,0.0166,Low
+city_Riverwoods,Pearson,0.0166,Low
+Ticker_AMC,Pearson,0.0166,Low
+Website_https://www.amctheatres.com,Pearson,0.0166,Low
+prev_rank_254.0,Pearson,0.0166,Low
+CEO_James A. Burke,Pearson,0.0166,Low
+CEO_Michael Goettler,Pearson,0.0166,Low
+company_Discover Financial Services,Pearson,0.0166,Low
+prev_rank_233.0,Pearson,0.0166,Low
+company_Viatris,Pearson,0.0166,Low
+Website_https://www.discover.com,Pearson,0.0166,Low
+CEO_Adam M. Aron,Pearson,0.0166,Low
+prev_rank_274.0,Pearson,0.0166,Low
+city_Canonsburg,Pearson,0.0166,Low
+Website_https://www.vistracorp.com,Pearson,0.0166,Low
+CEO_David Cordani,Pearson,0.0162,Low
+Website_https://www.brighthealthcare.com,Pearson,0.0162,Low
+city_Fort Worth,Pearson,0.0162,Low
+CEO_G. Mike Mikan,Pearson,0.0162,Low
+prev_rank_13.0,Pearson,0.0162,Low
+Website_https://www.cigna.com,Pearson,0.0162,Low
+Ticker_CI,Pearson,0.0162,Low
+Ticker_BHG,Pearson,0.0162,Low
+city_Bloomfield,Pearson,0.0162,Low
+company_Bright Health Group,Pearson,0.0162,Low
+city_Greenwich,Pearson,0.0162,Low
+company_Cigna,Pearson,0.0162,Low
+city_Allentown,Pearson,0.0161,Low
+CEO_Toby Z. Rice,Pearson,0.016,Low
+company_EQT,Pearson,0.016,Low
+state_IN,Pearson,0.016,Low
+city_Reno,Pearson,0.016,Low
+Website_https://www.eqt.com,Pearson,0.016,Low
+Ticker_EQT,Pearson,0.016,Low
+city_Lincolnshire,Pearson,0.0156,Low
+city_Scottsdale,Pearson,0.0156,Low
+city_Richmond,Pearson,0.0156,Low
+CEO_Rajesh Subramaniam,Pearson,0.0155,Low
+Website_www.fedex.com,Pearson,0.0155,Low
+prev_rank_45.0,Pearson,0.0155,Low
+company_FedEx,Pearson,0.0155,Low
+Ticker_FDX,Pearson,0.0155,Low
+Website_https://www.caesars.com,Pearson,0.0154,Low
+company_Caesars Entertainment,Pearson,0.0154,Low
+Ticker_CZR,Pearson,0.0154,Low
+CEO_Thomas R. Reeg,Pearson,0.0154,Low
+Website_https://www.lyft.com,Pearson,0.0153,Low
+CEO_Logan Green,Pearson,0.0153,Low
+Ticker_LYFT,Pearson,0.0153,Low
+company_Lyft,Pearson,0.0153,Low
+state_VA,Pearson,0.0152,Low
+Website_https://www.sands.com,Pearson,0.0151,Low
+city_Midland,Pearson,0.0151,Low
+Ticker_LVS,Pearson,0.0151,Low
+company_Las Vegas Sands,Pearson,0.0151,Low
+CEO_Robert G. Goldstein,Pearson,0.0151,Low
+Ticker_TWLO,Pearson,0.015,Low
+Website_https://www.twilio.com,Pearson,0.015,Low
+CEO_Jeff Lawson,Pearson,0.015,Low
+Website_www.netflix.com,Pearson,0.015,Low
+city_Los Gatos,Pearson,0.015,Low
+CEO_Ted Sarandos/Reed Hastings,Pearson,0.015,Low
+city_Camp Hill,Pearson,0.015,Low
+Ticker_NFLX,Pearson,0.015,Low
+prev_rank_115.0,Pearson,0.015,Low
+company_Twilio,Pearson,0.015,Low
+company_Netflix,Pearson,0.015,Low
+state_SC,Pearson,0.0149,Low
+city_Columbus,Pearson,0.0149,Low
+city_Hudson,Pearson,0.0147,Low
+state_NH,Pearson,0.0146,Low
+city_Elkhart,Pearson,0.0146,Low
+city_El Segundo,Pearson,0.0145,Low
+city_The Woodlands,Pearson,0.0145,Low
+city_Issaquah,Pearson,0.0144,Low
+company_Costco Wholesale,Pearson,0.0144,Low
+CEO_W. Craig Jelinek,Pearson,0.0144,Low
+Ticker_COST,Pearson,0.0144,Low
+state_IA,Pearson,0.0144,Low
+prev_rank_12.0,Pearson,0.0144,Low
+Website_www.costco.com,Pearson,0.0144,Low
+city_Cincinnati,Pearson,0.0143,Low
+city_Foothill Ranch,Pearson,0.0143,Low
+city_Bannockburn,Pearson,0.0142,Low
+Website_https://www.wynnresorts.com,Pearson,0.0141,Low
+Ticker_WYNN,Pearson,0.0141,Low
+company_Wynn Resorts,Pearson,0.0141,Low
+CEO_Craig S. Billings,Pearson,0.0141,Low
+city_Oak Brook,Pearson,0.0141,Low
+state_LA,Pearson,0.014,Low
+city_Milwaukee,Pearson,0.0139,Low
+Ticker_LYV,Pearson,0.0136,Low
+CEO_Michael Rapino,Pearson,0.0136,Low
+Website_https://www.livenationentertainment.com,Pearson,0.0136,Low
+city_Maumee,Pearson,0.0136,Low
+Ticker_OPEN,Pearson,0.0136,Low
+CEO_Eric Wu,Pearson,0.0136,Low
+company_Live Nation Entertainment,Pearson,0.0136,Low
+company_Opendoor Technologies,Pearson,0.0136,Low
+Website_https://www.opendoor.com,Pearson,0.0136,Low
+CEO_Shantanu Narayen,Pearson,0.0135,Low
+Ticker_NGL,Pearson,0.0135,Low
+prev_rank_234.0,Pearson,0.0135,Low
+Website_https://www.nglenergypartners.com,Pearson,0.0135,Low
+prev_rank_318.0,Pearson,0.0135,Low
+city_Carlsbad,Pearson,0.0135,Low
+CEO_H. Michael Krimbill,Pearson,0.0135,Low
+Website_https://www.adobe.com,Pearson,0.0135,Low
+Ticker_PEG,Pearson,0.0135,Low
+CEO_Ralph A. LaRossa,Pearson,0.0135,Low
+state_NC,Pearson,0.0135,Low
+city_Tysons,Pearson,0.0135,Low
+company_NGL Energy Partners,Pearson,0.0135,Low
+Website_https://www.pseg.com,Pearson,0.0135,Low
+Ticker_ADBE,Pearson,0.0135,Low
+company_Public Service Enterprise Group,Pearson,0.0135,Low
+company_Adobe,Pearson,0.0135,Low
+city_Hunt Valley,Pearson,0.0134,Low
+city_Herndon,Pearson,0.0133,Low
+city_Irvine,Pearson,0.0132,Low
+city_Henderson,Pearson,0.0132,Low
+CEO_Timothy J. Donahue,Pearson,0.0131,Low
+prev_rank_269.0,Pearson,0.0131,Low
+company_Crown Holdings,Pearson,0.0131,Low
+city_Yardley,Pearson,0.0131,Low
+Website_https://www.crowncork.com,Pearson,0.0131,Low
+city_Sunnyvale,Pearson,0.0131,Low
+city_Franklin,Pearson,0.0131,Low
+Ticker_CCK,Pearson,0.0131,Low
+Website_https://www.spiritaero.com,Pearson,0.013,Low
+CEO_Thomas C. Gentile III,Pearson,0.013,Low
+city_Raleigh,Pearson,0.013,Low
+Ticker_SPR,Pearson,0.013,Low
+city_Wichita,Pearson,0.013,Low
+company_Spirit AeroSystems Holdings,Pearson,0.013,Low
+state_AR,Pearson,0.013,Low
+company_Icahn Enterprises,Pearson,0.0129,Low
+Website_https://www.zillowgroup.com,Pearson,0.0129,Low
+CEO_Richard N. Barton,Pearson,0.0129,Low
+prev_rank_453.0,Pearson,0.0129,Low
+Website_https://www.ielp.com,Pearson,0.0129,Low
+Ticker_ZG,Pearson,0.0129,Low
+CEO_David Willetts,Pearson,0.0129,Low
+company_Zillow Group,Pearson,0.0129,Low
+Ticker_IEP,Pearson,0.0129,Low
+city_Sunny Isles Beach,Pearson,0.0129,Low
+CEO_Dara Khosrowshahi,Pearson,0.0128,Low
+city_Carmel,Pearson,0.0128,Low
+Ticker_COMP,Pearson,0.0128,Low
+Website_https://www.compass.com,Pearson,0.0128,Low
+prev_rank_281.0,Pearson,0.0128,Low
+CEO_Nikesh Arora,Pearson,0.0128,Low
+company_Uber Technologies,Pearson,0.0128,Low
+city_Duluth,Pearson,0.0128,Low
+company_Palo Alto Networks,Pearson,0.0128,Low
+Website_https://www.paloaltonetworks.com,Pearson,0.0128,Low
+CEO_Robert L. Reffkin,Pearson,0.0128,Low
+Ticker_UBER,Pearson,0.0128,Low
+Website_https://www.uber.com,Pearson,0.0128,Low
+Ticker_PANW,Pearson,0.0128,Low
+company_Compass,Pearson,0.0128,Low
+company_KKR,Pearson,0.0127,Low
+company_Charter Communications,Pearson,0.0127,Low
+CEO_Joseph Y. Bae/Scott C. Nuttall,Pearson,0.0127,Low
+prev_rank_316.0,Pearson,0.0127,Low
+city_Greenfield,Pearson,0.0127,Low
+city_Grand Rapids,Pearson,0.0127,Low
+Ticker_CHTR,Pearson,0.0127,Low
+Ticker_EOG,Pearson,0.0127,Low
+Ticker_ELAN,Pearson,0.0127,Low
+Website_www.charter.com,Pearson,0.0127,Low
+company_Spirit Airlines,Pearson,0.0127,Low
+company_EOG Resources,Pearson,0.0127,Low
+city_Reston,Pearson,0.0127,Low
+Website_https://www.snap.com,Pearson,0.0127,Low
+Website_https://www.spirit.com,Pearson,0.0127,Low
+prev_rank_285.0,Pearson,0.0127,Low
+CEO_Thomas M. Rutledge,Pearson,0.0127,Low
+company_Elanco Animal Health,Pearson,0.0127,Low
+Website_https://www.elanco.com,Pearson,0.0127,Low
+Ticker_KKR,Pearson,0.0127,Low
+Ticker_SAVE,Pearson,0.0127,Low
+Ticker_SNAP,Pearson,0.0127,Low
+CEO_Edward M. Christie III,Pearson,0.0127,Low
+company_Snap,Pearson,0.0127,Low
+Website_https://www.kkr.com,Pearson,0.0127,Low
+city_Miramar,Pearson,0.0127,Low
+CEO_Jeffrey N. Simmons,Pearson,0.0127,Low
+prev_rank_64.0,Pearson,0.0127,Low
+CEO_Evan Spiegel,Pearson,0.0127,Low
+Website_https://www.eogresources.com,Pearson,0.0127,Low
+CEO_Ezra Y. Yacob,Pearson,0.0127,Low
+city_Englewood,Pearson,0.0126,Low
+CEO_Charles L. Treadway,Pearson,0.0126,Low
+Website_https://www.xerox.com,Pearson,0.0126,Low
+Ticker_COMM,Pearson,0.0126,Low
+CEO_Tony Xu,Pearson,0.0126,Low
+company_CommScope Holding,Pearson,0.0126,Low
+Website_https://https://ir.doordash.com,Pearson,0.0126,Low
+Ticker_XRX,Pearson,0.0126,Low
+CEO_Steve Bandrowczak,Pearson,0.0126,Low
+Ticker_EPD,Pearson,0.0126,Low
+CEO_A. James Teague/W. Randall Fowler,Pearson,0.0126,Low
+Website_https://www.commscope.com,Pearson,0.0126,Low
+Website_www.enterpriseproducts.com,Pearson,0.0126,Low
+prev_rank_415.0,Pearson,0.0126,Low
+company_Enterprise Products Partners,Pearson,0.0126,Low
+company_Xerox Holdings,Pearson,0.0126,Low
+Ticker_DASH,Pearson,0.0126,Low
+prev_rank_105.0,Pearson,0.0126,Low
+prev_rank_356.0,Pearson,0.0126,Low
+company_DoorDash,Pearson,0.0126,Low
+city_Hickory,Pearson,0.0126,Low
+CEO_David E. Constable,Pearson,0.0125,Low
+prev_rank_244.0,Pearson,0.0125,Low
+company_Fluor,Pearson,0.0125,Low
+company_Clear Channel Outdoor Holdings,Pearson,0.0125,Low
+Website_https://www.fluor.com,Pearson,0.0125,Low
+prev_rank_196.0,Pearson,0.0125,Low
+city_Fort Lauderdale,Pearson,0.0125,Low
+Website_https://www.equitableholdings.com,Pearson,0.0125,Low
+Ticker_CCO,Pearson,0.0125,Low
+Ticker_EQH,Pearson,0.0125,Low
+Website_https://www.clearchanneloutdoor.com,Pearson,0.0125,Low
+CEO_Scott R. Wells,Pearson,0.0125,Low
+company_Equitable Holdings,Pearson,0.0125,Low
+CEO_Mark Pearson,Pearson,0.0125,Low
+Ticker_FLR,Pearson,0.0125,Low
+company_Sinclair Broadcast Group,Pearson,0.0124,Low
+CEO_Christopher S. Ripley,Pearson,0.0124,Low
+city_Tulsa,Pearson,0.0124,Low
+CEO_Matthew J. Murphy,Pearson,0.0124,Low
+city_Lake Forest,Pearson,0.0124,Low
+Website_https://www.aes.com,Pearson,0.0124,Low
+Ticker_AES,Pearson,0.0124,Low
+CEO_Andrés R. Gluski,Pearson,0.0124,Low
+Website_https://www.sbgi.net,Pearson,0.0124,Low
+Ticker_SBGI,Pearson,0.0124,Low
+Ticker_MRVL,Pearson,0.0124,Low
+Website_https://www.marvell.com,Pearson,0.0124,Low
+company_AES,Pearson,0.0124,Low
+company_Marvell Technology,Pearson,0.0124,Low
+prev_rank_313.0,Pearson,0.0124,Low
+Ticker_ARNC,Pearson,0.0123,Low
+Website_https://www.arconic.com,Pearson,0.0123,Low
+CEO_Timothy D. Myers,Pearson,0.0123,Low
+prev_rank_476.0,Pearson,0.0123,Low
+company_Arconic,Pearson,0.0123,Low
+Ticker_VRM,Pearson,0.0122,Low
+state_ME,Pearson,0.0122,Low
+city_Billerica,Pearson,0.0122,Low
+company_GameStop,Pearson,0.0122,Low
+Website_https://www.gamestop.com,Pearson,0.0122,Low
+city_Grapevine,Pearson,0.0122,Low
+company_Vroom,Pearson,0.0122,Low
+Ticker_GME,Pearson,0.0122,Low
+CEO_Matthew Furlong,Pearson,0.0122,Low
+CEO_Thomas H. Shortt,Pearson,0.0122,Low
+Website_https://www.vroom.com,Pearson,0.0122,Low
+Ticker_ABNB,Pearson,0.0121,Low
+Ticker_PARA,Pearson,0.0121,Low
+company_Paramount Global,Pearson,0.0121,Low
+CEO_Brian Chesky,Pearson,0.0121,Low
+Website_www.paramount.com,Pearson,0.0121,Low
+CEO_Robert M. Bakish,Pearson,0.0121,Low
+Website_https://www.airbnb.com,Pearson,0.0121,Low
+company_Airbnb,Pearson,0.0121,Low
+prev_rank_109.0,Pearson,0.0121,Low
+city_Delaware,Pearson,0.012,Low
+Ticker_ADT,Pearson,0.012,Low
+Website_https://www.adt.com,Pearson,0.012,Low
+CEO_James D. DeVries,Pearson,0.012,Low
+company_ADT,Pearson,0.012,Low
+city_Southfield,Pearson,0.012,Low
+company_Cooper-Standard Holdings,Pearson,0.0119,Low
+CEO_Jeffrey S. Edwards,Pearson,0.0119,Low
+city_Northville,Pearson,0.0119,Low
+Ticker_CPS,Pearson,0.0119,Low
+Website_https://www.cooperstandard.com,Pearson,0.0119,Low
+state_NJ,Pearson,0.0119,Low
+company_Endeavor Group Holdings,Pearson,0.0118,Low
+Ticker_EDR,Pearson,0.0118,Low
+state_KY,Pearson,0.0118,Low
+CEO_Ariel Emanuel,Pearson,0.0118,Low
+city_Pasadena,Pearson,0.0118,Low
+city_Long Island City,Pearson,0.0118,Low
+Website_https://www.endeavorco.com,Pearson,0.0118,Low
+city_Melville,Pearson,0.0117,Low
+city_Northbrook,Pearson,0.0117,Low
+city_Davidson,Pearson,0.0117,Low
+city_Phoenix,Pearson,0.0117,Low
+CEO_David W. Grzebinski,Pearson,0.0116,Low
+Ticker_LEN,Pearson,0.0116,Low
+Ticker_KEX,Pearson,0.0116,Low
+company_NOV,Pearson,0.0116,Low
+CEO_Stephen P. Mawer,Pearson,0.0116,Low
+Ticker_CLMT,Pearson,0.0116,Low
+Ticker_NOV,Pearson,0.0116,Low
+company_Lennar,Pearson,0.0116,Low
+Website_https://www.kirbycorp.com,Pearson,0.0116,Low
+prev_rank_129.0,Pearson,0.0116,Low
+Website_https://www.nov.com,Pearson,0.0116,Low
+CEO_Clay C. Williams,Pearson,0.0116,Low
+company_Calumet Specialty Products Partners,Pearson,0.0116,Low
+CEO_Jonathan M. Jaffe/Richard Beckwitt,Pearson,0.0116,Low
+company_Kirby,Pearson,0.0116,Low
+Website_https://www.lennar.com,Pearson,0.0116,Low
+Website_https://www.calumetspecialty.com,Pearson,0.0116,Low
+city_Cleveland,Pearson,0.0115,Low
+Ticker_RXT,Pearson,0.0114,Low
+company_Rackspace Technology,Pearson,0.0114,Low
+city_Daytona Beach,Pearson,0.0114,Low
+company_Baker Hughes,Pearson,0.0114,Low
+Ticker_BKR,Pearson,0.0114,Low
+Website_https://www.rackspace.com,Pearson,0.0114,Low
+prev_rank_140.0,Pearson,0.0114,Low
+Website_https://www.bakerhughes.com,Pearson,0.0114,Low
+prev_rank_312.0,Pearson,0.0114,Low
+CEO_Gerry P. Smith,Pearson,0.0114,Low
+company_Hyatt Hotels,Pearson,0.0114,Low
+Website_https://www.officedepot.com,Pearson,0.0114,Low
+Ticker_H,Pearson,0.0114,Low
+state_OK,Pearson,0.0114,Low
+CEO_Lorenzo Simonelli,Pearson,0.0114,Low
+city_Greensboro,Pearson,0.0114,Low
+Ticker_ODP,Pearson,0.0114,Low
+CEO_Amar Maletira,Pearson,0.0114,Low
+Website_https://www.hyatt.com,Pearson,0.0114,Low
+company_ODP,Pearson,0.0114,Low
+CEO_Mark S. Hoplamazian,Pearson,0.0114,Low
+Ticker_COTY,Pearson,0.0113,Low
+Website_https://www.delekus.com,Pearson,0.0113,Low
+CEO_Sue Y. Nabi,Pearson,0.0113,Low
+company_Delek US Holdings,Pearson,0.0113,Low
+company_Peloton Interactive,Pearson,0.0113,Low
+Ticker_AR,Pearson,0.0113,Low
+Ticker_PTON,Pearson,0.0113,Low
+CEO_Avigal Soreq,Pearson,0.0113,Low
+Website_https://www.onepeloton.com,Pearson,0.0113,Low
+CEO_Paul M. Rady,Pearson,0.0113,Low
+company_Antero Resources,Pearson,0.0113,Low
+Website_https://www.coty.com,Pearson,0.0113,Low
+city_Durham,Pearson,0.0113,Low
+prev_rank_397.0,Pearson,0.0113,Low
+company_Coty,Pearson,0.0113,Low
+Ticker_DK,Pearson,0.0113,Low
+CEO_Barry McCarthy,Pearson,0.0113,Low
+Website_https://www.anteroresources.com,Pearson,0.0113,Low
+company_Hyster-Yale Materials Handling,Pearson,0.0112,Low
+Ticker_HY,Pearson,0.0112,Low
+CEO_Jesse E. Gary,Pearson,0.0112,Low
+PC2,Pearson,0.0112,Low
+company_Liberty Energy,Pearson,0.0112,Low
+Website_https://www.hyster-yale.com,Pearson,0.0112,Low
+company_Century Aluminum,Pearson,0.0112,Low
+CEO_Robin Hayes,Pearson,0.0112,Low
+Website_https://www.libertyfrac.com,Pearson,0.0112,Low
+Ticker_CENX,Pearson,0.0112,Low
+Website_https://www.centuryaluminum.com,Pearson,0.0112,Low
+Website_https://www.jetblue.com,Pearson,0.0112,Low
+CEO_Christopher A. Wright,Pearson,0.0112,Low
+CEO_Alfred M. Rankin Jr.,Pearson,0.0112,Low
+city_Auburn Hills,Pearson,0.0112,Low
+company_JetBlue Airways,Pearson,0.0112,Low
+Ticker_LBRT,Pearson,0.0112,Low
+Ticker_JBLU,Pearson,0.0112,Low
+CEO_Sue Gove,Pearson,0.0111,Low
+Website_https://www.bedbathandbeyond.com,Pearson,0.0111,Low
+company_DXC Technology,Pearson,0.0111,Low
+city_Medina,Pearson,0.0111,Low
+Website_https://www.iheartmedia.com,Pearson,0.0111,Low
+company_Aflac,Pearson,0.0111,Low
+city_Madison,Pearson,0.0111,Low
+Ticker_DXC,Pearson,0.0111,Low
+CEO_Robert W. Pittman,Pearson,0.0111,Low
+Website_https://www.aflac.com,Pearson,0.0111,Low
+CEO_Daniel P. Amos,Pearson,0.0111,Low
+CEO_Grant E. Sims,Pearson,0.0111,Low
+Website_https://www.genesisenergy.com,Pearson,0.0111,Low
+prev_rank_152.0,Pearson,0.0111,Low
+Website_https://www.dxc.technology,Pearson,0.0111,Low
+Ticker_AFL,Pearson,0.0111,Low
+prev_rank_280.0,Pearson,0.0111,Low
+Ticker_BBBY,Pearson,0.0111,Low
+city_Union,Pearson,0.0111,Low
+prev_rank_131.0,Pearson,0.0111,Low
+Ticker_IHRT,Pearson,0.0111,Low
+company_Bed Bath & Beyond,Pearson,0.0111,Low
+CEO_Michael J. Salvino,Pearson,0.0111,Low
+company_Genesis Energy,Pearson,0.0111,Low
+company_iHeartMedia,Pearson,0.0111,Low
+Ticker_GEL,Pearson,0.0111,Low
+company_Pure Storage,Pearson,0.011,Low
+company_Gannett,Pearson,0.011,Low
+Website_https://www.purestorage.com,Pearson,0.011,Low
+company_Freeport-McMoRan,Pearson,0.011,Low
+Ticker_W,Pearson,0.011,Low
+CEO_Niraj S. Shah,Pearson,0.011,Low
+CEO_Michael E. Reed,Pearson,0.011,Low
+CEO_Ernest C. Garcia III,Pearson,0.011,Low
+Website_https://www.carvana.com,Pearson,0.011,Low
+CEO_Richard C. Adkerson,Pearson,0.011,Low
+CEO_Charles H. Giancarlo,Pearson,0.011,Low
+company_Carvana,Pearson,0.011,Low
+Ticker_GCI,Pearson,0.011,Low
+Website_https://www.fcx.com,Pearson,0.011,Low
+prev_rank_483.0,Pearson,0.011,Low
+company_Wayfair,Pearson,0.011,Low
+prev_rank_215.0,Pearson,0.011,Low
+prev_rank_217.0,Pearson,0.011,Low
+city_Lexington,Pearson,0.011,Low
+Website_https://www.wayfair.com,Pearson,0.011,Low
+Ticker_CVNA,Pearson,0.011,Low
+city_Philadelphia,Pearson,0.011,Low
+Ticker_FCX,Pearson,0.011,Low
+Website_https://www.gannett.com,Pearson,0.011,Low
+Ticker_PSTG,Pearson,0.011,Low
+prev_rank_108.0,Pearson,0.0109,Low
+Ticker_BHF,Pearson,0.0109,Low
+prev_rank_353.0,Pearson,0.0109,Low
+company_Kemper,Pearson,0.0109,Low
+Website_https://www.myyellow.com,Pearson,0.0109,Low
+Website_www.mondelezinternational.com,Pearson,0.0109,Low
+Website_https://www.ralphlauren.com,Pearson,0.0109,Low
+CEO_Patrice Louvet,Pearson,0.0109,Low
+Ticker_KMPR,Pearson,0.0109,Low
+Website_https://www.brighthousefinancial.com,Pearson,0.0109,Low
+CEO_Darren D. Hawkins,Pearson,0.0109,Low
+Ticker_YELL,Pearson,0.0109,Low
+company_Ralph Lauren,Pearson,0.0109,Low
+company_Yellow,Pearson,0.0109,Low
+Ticker_MDLZ,Pearson,0.0109,Low
+Website_https://www.kemper.com,Pearson,0.0109,Low
+CEO_Joseph P. Lacher Jr.,Pearson,0.0109,Low
+Ticker_RL,Pearson,0.0109,Low
+company_Brighthouse Financial,Pearson,0.0109,Low
+CEO_Eric T. Steigerwalt,Pearson,0.0109,Low
+company_Mondelez International,Pearson,0.0109,Low
+CEO_Dirk Van de Put,Pearson,0.0109,Low
+CEO_R. Howard Coker,Pearson,0.0108,Low
+city_Wilmington,Pearson,0.0108,Low
+Website_https://www.riteaid.com,Pearson,0.0108,Low
+prev_rank_160.0,Pearson,0.0108,Low
+Ticker_RAD,Pearson,0.0108,Low
+company_Sonoco Products,Pearson,0.0108,Low
+prev_rank_132.0,Pearson,0.0108,Low
+Ticker_ARMK,Pearson,0.0108,Low
+company_PG&E,Pearson,0.0108,Low
+Website_https://www.pgecorp.com,Pearson,0.0108,Low
+company_Rite Aid,Pearson,0.0108,Low
+city_Hartsville,Pearson,0.0108,Low
+Website_https://www.aramark.com,Pearson,0.0108,Low
+prev_rank_235.0,Pearson,0.0108,Low
+CEO_John J. Zillmer,Pearson,0.0108,Low
+Ticker_SON,Pearson,0.0108,Low
+company_Brookdale Senior Living,Pearson,0.0108,Low
+Ticker_BKD,Pearson,0.0108,Low
+CEO_Patricia K. Poppe,Pearson,0.0108,Low
+CEO_Heyward Donigan,Pearson,0.0108,Low
+CEO_Lucinda M. Baier,Pearson,0.0108,Low
+company_Aramark,Pearson,0.0108,Low
+Website_https://www.sonoco.com,Pearson,0.0108,Low
+Ticker_PCG,Pearson,0.0108,Low
+Website_https://www.brookdale.com,Pearson,0.0108,Low
+city_Eden Prairie,Pearson,0.0107,Low
+Website_https://www.parpacific.com,Pearson,0.0107,Low
+Website_https://www.bio-rad.com,Pearson,0.0107,Low
+Ticker_GPRE,Pearson,0.0107,Low
+Ticker_SRLP,Pearson,0.0107,Low
+Website_https://www.dieboldnixdorf.com,Pearson,0.0107,Low
+Website_https://www.dnb.com,Pearson,0.0107,Low
+Website_https://www.docusign.com,Pearson,0.0107,Low
+company_Murphy Oil,Pearson,0.0107,Low
+CEO_Allan C. Thygesen,Pearson,0.0107,Low
+company_Bio-Rad Laboratories,Pearson,0.0107,Low
+Ticker_SGRY,Pearson,0.0107,Low
+prev_rank_403.0,Pearson,0.0107,Low
+Website_https://www.crestwoodlp.com,Pearson,0.0107,Low
+CEO_Sumit Singh,Pearson,0.0107,Low
+Website_https://www.chewy.com,Pearson,0.0107,Low
+company_Par Pacific Holdings,Pearson,0.0107,Low
+CEO_Octavio Marquez,Pearson,0.0107,Low
+company_Green Plains,Pearson,0.0107,Low
+company_DocuSign,Pearson,0.0107,Low
+Website_https://www.murphyoilcorp.com,Pearson,0.0107,Low
+Website_https://www.spragueenergy.com,Pearson,0.0107,Low
+Ticker_DOCU,Pearson,0.0107,Low
+Website_https://www.gpreinc.com,Pearson,0.0107,Low
+Ticker_CHWY,Pearson,0.0107,Low
+company_Chewy,Pearson,0.0107,Low
+Ticker_CEQP,Pearson,0.0107,Low
+CEO_Robert G Phillips,Pearson,0.0107,Low
+Ticker_DBD,Pearson,0.0107,Low
+company_Sprague Resources,Pearson,0.0107,Low
+Ticker_BIO,Pearson,0.0107,Low
+city_Dania Beach,Pearson,0.0107,Low
+city_Portsmouth,Pearson,0.0107,Low
+Ticker_PARR,Pearson,0.0107,Low
+city_Plano,Pearson,0.0107,Low
+company_Surgery Partners,Pearson,0.0107,Low
+Ticker_DNB,Pearson,0.0107,Low
+Website_https://www.surgerypartners.com,Pearson,0.0107,Low
+company_Diebold Nixdorf,Pearson,0.0107,Low
+CEO_William C. Pate,Pearson,0.0107,Low
+company_Crestwood Equity Partners,Pearson,0.0107,Low
+Ticker_MUR,Pearson,0.0107,Low
+CEO_Anthony M. Jabbour,Pearson,0.0107,Low
+CEO_Todd A. Becker,Pearson,0.0107,Low
+company_Dun & Bradstreet Holdings,Pearson,0.0107,Low
+CEO_J. Eric Evans,Pearson,0.0107,Low
+CEO_Roger W. Jenkins,Pearson,0.0107,Low
+city_Hercules,Pearson,0.0107,Low
+CEO_Norman D. Schwartz,Pearson,0.0107,Low
+CEO_David C. Glendon,Pearson,0.0107,Low
+Ticker_ALIT,Pearson,0.0106,Low
+Ticker_CVET,Pearson,0.0106,Low
+Website_https://www.alight.com,Pearson,0.0106,Low
+CEO_Stephan D. Scholl,Pearson,0.0106,Low
+company_Alight,Pearson,0.0106,Low
+company_Covetrus,Pearson,0.0106,Low
+Website_https://https://covetrus.com/,Pearson,0.0106,Low
+CEO_Benjamin Wolin,Pearson,0.0106,Low
+city_Florham Park,Pearson,0.0105,Low
+state_HI,Pearson,0.0105,Low
+CEO_Cindy J. Miller,Pearson,0.0105,Low
+Website_https://www.synchronyfinancial.com,Pearson,0.0105,Low
+Website_https://www.swn.com,Pearson,0.0105,Low
+company_Southwestern Energy,Pearson,0.0105,Low
+Ticker_CNDT,Pearson,0.0105,Low
+Website_https://www.americold.com,Pearson,0.0105,Low
+company_Conduent,Pearson,0.0105,Low
+Ticker_ATI,Pearson,0.0105,Low
+company_Vizio Holding,Pearson,0.0105,Low
+CEO_William W. Wang,Pearson,0.0105,Low
+Website_https://www.conduent.com,Pearson,0.0105,Low
+Website_https://www.vizio.com,Pearson,0.0105,Low
+Ticker_COLD,Pearson,0.0105,Low
+CEO_Robert S. Wetherbee,Pearson,0.0105,Low
+CEO_William J. Way,Pearson,0.0105,Low
+CEO_Brian D. Doubles,Pearson,0.0105,Low
+company_Americold Realty Trust,Pearson,0.0105,Low
+Website_https://www.stericycle.com,Pearson,0.0105,Low
+CEO_George F. Chappelle Jr.,Pearson,0.0105,Low
+company_Synchrony Financial,Pearson,0.0105,Low
+company_Stericycle,Pearson,0.0105,Low
+Website_https://www.atimaterials.com,Pearson,0.0105,Low
+CEO_Clifford A. Skelton,Pearson,0.0105,Low
+Ticker_SYF,Pearson,0.0105,Low
+Ticker_SWN,Pearson,0.0105,Low
+company_ATI,Pearson,0.0105,Low
+Ticker_VZIO,Pearson,0.0105,Low
+Ticker_SRCL,Pearson,0.0105,Low
+prev_rank_187.0,Pearson,0.0105,Low
+city_Waltham,Pearson,0.0105,Low
+city_Honolulu,Pearson,0.0105,Low
+city_Spring,Pearson,0.0105,Low
+prev_rank_125.0,Pearson,0.0104,Low
+company_Starbucks,Pearson,0.0104,Low
+Website_www.starbucks.com,Pearson,0.0104,Low
+Website_https://www.mrcglobal.com,Pearson,0.0104,Low
+CEO_Brad Weston,Pearson,0.0104,Low
+company_Kaiser Aluminum,Pearson,0.0104,Low
+Ticker_PRTY,Pearson,0.0104,Low
+CEO_Steven T. Oakland,Pearson,0.0104,Low
+CEO_James F. Risoleo,Pearson,0.0104,Low
+Ticker_MRC,Pearson,0.0104,Low
+city_Elmsford,Pearson,0.0104,Low
+Ticker_SBUX,Pearson,0.0104,Low
+CEO_Howard D. Schultz,Pearson,0.0104,Low
+company_Avaya Holdings,Pearson,0.0104,Low
+CEO_Keith A. Harvey,Pearson,0.0104,Low
+Ticker_THS,Pearson,0.0104,Low
+company_Party City Holdco,Pearson,0.0104,Low
+Website_https://www.kaiseraluminum.com,Pearson,0.0104,Low
+CEO_Alan Masarek,Pearson,0.0104,Low
+company_Host Hotels & Resorts,Pearson,0.0104,Low
+Website_https://www.avaya.com,Pearson,0.0104,Low
+Ticker_KALU,Pearson,0.0104,Low
+Website_https://www.partycity.com,Pearson,0.0104,Low
+Website_https://www.treehousefoods.com,Pearson,0.0104,Low
+company_MRC Global,Pearson,0.0104,Low
+CEO_Robert J. Saltiel Jr.,Pearson,0.0104,Low
+Ticker_AVYA,Pearson,0.0104,Low
+Website_https://www.hosthotels.com,Pearson,0.0104,Low
+company_TreeHouse Foods,Pearson,0.0104,Low
+Ticker_HST,Pearson,0.0104,Low
+Ticker_X,Pearson,0.0103,Low
+Website_https://www.expediagroup.com,Pearson,0.0103,Low
+company_American Axle & Manufacturing,Pearson,0.0103,Low
+company_Pitney Bowes,Pearson,0.0103,Low
+company_R.R. Donnelley & Sons,Pearson,0.0103,Low
+prev_rank_310.0,Pearson,0.0103,Low
+company_Viasat,Pearson,0.0103,Low
+Website_https://www.pitneybowes.com,Pearson,0.0103,Low
+Website_https://www.paypal.com,Pearson,0.0103,Low
+CEO_David C. Dauch,Pearson,0.0103,Low
+CEO_David Auld,Pearson,0.0103,Low
+city_Greenville,Pearson,0.0103,Low
+CEO_Peter M. Kern,Pearson,0.0103,Low
+CEO_David B. Burritt,Pearson,0.0103,Low
+CEO_Kyle T. Larkin,Pearson,0.0103,Low
+CEO_Marc B. Lautenbach,Pearson,0.0103,Low
+Website_https://www.rrd.com,Pearson,0.0103,Low
+company_United States Steel,Pearson,0.0103,Low
+company_Expedia Group,Pearson,0.0103,Low
+CEO_Daniel Schulman,Pearson,0.0103,Low
+Ticker_GVA,Pearson,0.0103,Low
+Ticker_AXL,Pearson,0.0103,Low
+Website_https://www.drhorton.com,Pearson,0.0103,Low
+city_Thomasville,Pearson,0.0103,Low
+company_PayPal,Pearson,0.0103,Low
+Ticker_VSAT,Pearson,0.0103,Low
+Website_https://www.scansource.com,Pearson,0.0103,Low
+Website_https://www.ussteel.com,Pearson,0.0103,Low
+city_Watsonville,Pearson,0.0103,Low
+CEO_F. Nicholas Grasberger III,Pearson,0.0103,Low
+company_D.R. Horton,Pearson,0.0103,Low
+company_ScanSource,Pearson,0.0103,Low
+prev_rank_134.0,Pearson,0.0103,Low
+Ticker_PYPL,Pearson,0.0103,Low
+CEO_Thomas J. Quinlan III,Pearson,0.0103,Low
+Ticker_RRD,Pearson,0.0103,Low
+city_Dublin,Pearson,0.0103,Low
+Ticker_EXPE,Pearson,0.0103,Low
+prev_rank_148.0,Pearson,0.0103,Low
+Ticker_PBI,Pearson,0.0103,Low
+company_Granite Construction,Pearson,0.0103,Low
+CEO_Mark D. Dankberg,Pearson,0.0103,Low
+company_Harsco,Pearson,0.0103,Low
+Ticker_HSC,Pearson,0.0103,Low
+Website_https://www.aam.com,Pearson,0.0103,Low
+Website_https://www.harsco.com,Pearson,0.0103,Low
+Website_https://www.viasat.com,Pearson,0.0103,Low
+Website_https://www.graniteconstruction.com,Pearson,0.0103,Low
+Ticker_DHI,Pearson,0.0103,Low
+Ticker_SCSC,Pearson,0.0103,Low
+CEO_Michael L. Baur,Pearson,0.0103,Low
+CEO_Charles M. Nifong Jr.,Pearson,0.0102,Low
+Website_https://www.steelcase.com,Pearson,0.0102,Low
+Website_https://www.bench.com,Pearson,0.0102,Low
+company_AppLovin,Pearson,0.0102,Low
+Ticker_SM,Pearson,0.0102,Low
+Website_https://www.tenneco.com,Pearson,0.0102,Low
+Website_https://www.kbr.com,Pearson,0.0102,Low
+Ticker_ENLC,Pearson,0.0102,Low
+CEO_Jesse Arenivas,Pearson,0.0102,Low
+CEO_Jeffrey W. Benck,Pearson,0.0102,Low
+CEO_Adam Foroughi,Pearson,0.0102,Low
+Ticker_SCS,Pearson,0.0102,Low
+Website_https://www.sm-energy.com,Pearson,0.0102,Low
+CEO_Stuart J.B. Bradie,Pearson,0.0102,Low
+Ticker_BHE,Pearson,0.0102,Low
+Website_https://www.crossamericapartners.com,Pearson,0.0102,Low
+Ticker_APP,Pearson,0.0102,Low
+company_CrossAmerica Partners,Pearson,0.0102,Low
+company_Benchmark Electronics,Pearson,0.0102,Low
+CEO_Herbert S. Vogel,Pearson,0.0102,Low
+company_SM Energy,Pearson,0.0102,Low
+company_KBR,Pearson,0.0102,Low
+company_Tenneco,Pearson,0.0102,Low
+prev_rank_470.0,Pearson,0.0102,Low
+company_Workday,Pearson,0.0102,Low
+Ticker_KBR,Pearson,0.0102,Low
+Ticker_CAPL,Pearson,0.0102,Low
+Website_https://www.workday.com,Pearson,0.0102,Low
+company_EnLink Midstream,Pearson,0.0102,Low
+prev_rank_199.0,Pearson,0.0102,Low
+Website_https://www.applovin.com,Pearson,0.0102,Low
+CEO_Sara E. Armbruster,Pearson,0.0102,Low
+city_Pleasanton,Pearson,0.0102,Low
+company_Steelcase,Pearson,0.0102,Low
+Website_https://www.enlink.com,Pearson,0.0102,Low
+CEO_Brian J. Kesseler,Pearson,0.0102,Low
+Ticker_TEN,Pearson,0.0102,Low
+Ticker_WDAY,Pearson,0.0102,Low
+Ticker_VTR,Pearson,0.0101,Low
+Ticker_VAC,Pearson,0.0101,Low
+company_REV Group,Pearson,0.0101,Low
+Ticker_VC,Pearson,0.0101,Low
+CEO_Debra A. Cafaro,Pearson,0.0101,Low
+prev_rank_114.0,Pearson,0.0101,Low
+Website_https://www.quad.com,Pearson,0.0101,Low
+CEO_George L. Holm,Pearson,0.0101,Low
+company_TTM Technologies,Pearson,0.0101,Low
+company_Marriott Vacations Worldwide,Pearson,0.0101,Low
+CEO_Sachin S. Lawande,Pearson,0.0101,Low
+CEO_Steven E. Nielsen,Pearson,0.0101,Low
+Website_https://www.dycomind.com,Pearson,0.0101,Low
+city_Santa Ana,Pearson,0.0101,Low
+Ticker_PFGC,Pearson,0.0101,Low
+Ticker_REVG,Pearson,0.0101,Low
+Ticker_QUAD,Pearson,0.0101,Low
+Ticker_BV,Pearson,0.0101,Low
+Website_https://www.advantagesolutions.net,Pearson,0.0101,Low
+Website_https://www.apigroupcorp.com,Pearson,0.0101,Low
+CEO_Thomas T. Edman,Pearson,0.0101,Low
+Ticker_JOAN,Pearson,0.0101,Low
+city_New Brighton,Pearson,0.0101,Low
+city_Blue Bell,Pearson,0.0101,Low
+Website_https://www.revgroup.com,Pearson,0.0101,Low
+Ticker_ADV,Pearson,0.0101,Low
+Ticker_TTMI,Pearson,0.0101,Low
+company_Quad/Graphics,Pearson,0.0101,Low
+Website_https://www.joann.com,Pearson,0.0101,Low
+Website_https://www.marriottvacationsworldwide.com,Pearson,0.0101,Low
+CEO_Russell A. Becker,Pearson,0.0101,Low
+company_Advantage Solutions,Pearson,0.0101,Low
+CEO_Stephen P. Weisz,Pearson,0.0101,Low
+company_APi Group,Pearson,0.0101,Low
+Website_www.pfgc.com,Pearson,0.0101,Low
+Website_https://www.visteon.com,Pearson,0.0101,Low
+city_McKinney,Pearson,0.0101,Low
+CEO_Jill Griffin,Pearson,0.0101,Low
+Website_https://www.ventasreit.com,Pearson,0.0101,Low
+city_Sussex,Pearson,0.0101,Low
+company_BrightView Holdings,Pearson,0.0101,Low
+Website_https://www.ttm.com,Pearson,0.0101,Low
+CEO_Rodney N. Rushing,Pearson,0.0101,Low
+Website_https://www.brightview.com,Pearson,0.0101,Low
+company_Joann,Pearson,0.0101,Low
+CEO_Andrew V. Masterman,Pearson,0.0101,Low
+company_Ventas,Pearson,0.0101,Low
+company_Performance Food Group,Pearson,0.0101,Low
+CEO_J. Joel Quadracci,Pearson,0.0101,Low
+company_Visteon,Pearson,0.0101,Low
+CEO_Wade D. Miquelon,Pearson,0.0101,Low
+company_Dycom Industries,Pearson,0.0101,Low
+Ticker_APG,Pearson,0.0101,Low
+Ticker_DY,Pearson,0.0101,Low
+city_Van Buren Township,Pearson,0.0101,Low
+company_Targa Resources,Pearson,0.01,Low
+company_Plains GP Holdings,Pearson,0.01,Low
+city_Rockford,Pearson,0.01,Low
+Ticker_PSN,Pearson,0.01,Low
+company_GEO Group,Pearson,0.01,Low
+Ticker_HNI,Pearson,0.01,Low
+CEO_David M. Overton,Pearson,0.01,Low
+Ticker_TBI,Pearson,0.01,Low
+Ticker_INT,Pearson,0.01,Low
+company_ARKO,Pearson,0.01,Low
+Website_www.plains.com,Pearson,0.01,Low
+city_Calabasas Hills,Pearson,0.01,Low
+company_Cheesecake Factory,Pearson,0.01,Low
+Website_https://www.groceryoutlet.com,Pearson,0.01,Low
+prev_rank_364.0,Pearson,0.01,Low
+Ticker_CNXN,Pearson,0.01,Low
+CEO_Jose Gordo,Pearson,0.01,Low
+Website_https://www.wolverineworldwide.com,Pearson,0.01,Low
+Ticker_CAKE,Pearson,0.01,Low
+Ticker_PAGP,Pearson,0.01,Low
+Website_https://www.geogroup.com,Pearson,0.01,Low
+company_Wolverine World Wide,Pearson,0.01,Low
+company_Hanesbrands,Pearson,0.01,Low
+Ticker_KAR,Pearson,0.01,Low
+company_Enovis,Pearson,0.01,Low
+city_Muscatine,Pearson,0.01,Low
+Ticker_HBI,Pearson,0.01,Low
+Website_https://www.parsons.com,Pearson,0.01,Low
+company_Global Partners,Pearson,0.01,Low
+Website_https://www.euronetworldwide.com,Pearson,0.01,Low
+Website_https://www.arkocorp.com,Pearson,0.01,Low
+Website_https://www.enovis.com,Pearson,0.01,Low
+CEO_Wilfred C.W. Chiang,Pearson,0.01,Low
+CEO_Brendan L. Hoffman,Pearson,0.01,Low
+CEO_Roel Vestjens,Pearson,0.01,Low
+prev_rank_329.0,Pearson,0.01,Low
+Ticker_GEO,Pearson,0.01,Low
+Ticker_GLP,Pearson,0.01,Low
+CEO_Matthew J. Meloy,Pearson,0.01,Low
+CEO_Matthew L. Trerotola,Pearson,0.01,Low
+city_Centreville,Pearson,0.01,Low
+CEO_Jonathan M. Pertchik,Pearson,0.01,Low
+company_TrueBlue,Pearson,0.01,Low
+company_TravelCenters of America,Pearson,0.01,Low
+Website_https://www.globalp.com,Pearson,0.01,Low
+Website_https://www.spartannash.com,Pearson,0.01,Low
+Website_https://www.hnicorp.com,Pearson,0.01,Low
+Website_https://www.hanes.com,Pearson,0.01,Low
+company_Kar Auction Services,Pearson,0.01,Low
+prev_rank_361.0,Pearson,0.01,Low
+Ticker_BDC,Pearson,0.01,Low
+CEO_Carey A. Smith,Pearson,0.01,Low
+city_Merrimack,Pearson,0.01,Low
+company_SpartanNash,Pearson,0.01,Low
+company_World Fuel Services,Pearson,0.01,Low
+prev_rank_147.0,Pearson,0.01,Low
+Ticker_ARKO,Pearson,0.01,Low
+CEO_Timothy J. McGrath,Pearson,0.01,Low
+CEO_Tony B. Sarsam,Pearson,0.01,Low
+CEO_Michael J. Kasbar,Pearson,0.01,Low
+city_Emeryville,Pearson,0.01,Low
+city_Tacoma,Pearson,0.01,Low
+Website_https://www.connection.com,Pearson,0.01,Low
+city_Winston-Salem,Pearson,0.01,Low
+Ticker_ENOV,Pearson,0.01,Low
+Ticker_EEFT,Pearson,0.01,Low
+CEO_Arie Kotler,Pearson,0.01,Low
+Website_https://www.thecheesecakefactory.com,Pearson,0.01,Low
+CEO_Eric Slifka,Pearson,0.01,Low
+city_Byron Center,Pearson,0.01,Low
+CEO_Steven C. Cooper,Pearson,0.01,Low
+company_Euronet Worldwide,Pearson,0.01,Low
+company_Belden,Pearson,0.01,Low
+CEO_Eric J. Lindberg Jr.,Pearson,0.01,Low
+prev_rank_127.0,Pearson,0.01,Low
+city_Toledo,Pearson,0.01,Low
+Website_https://www.trueblue.com,Pearson,0.01,Low
+company_HNI,Pearson,0.01,Low
+Ticker_GO,Pearson,0.01,Low
+company_Grocery Outlet Holding,Pearson,0.01,Low
+Website_https://www.targaresources.com,Pearson,0.01,Low
+Website_https://www.ta-petro.com,Pearson,0.01,Low
+Website_https://www.belden.com,Pearson,0.01,Low
+Ticker_TA,Pearson,0.01,Low
+prev_rank_432.0,Pearson,0.01,Low
+CEO_Michael J. Brown,Pearson,0.01,Low
+CEO_Jeffrey D. Lorenger,Pearson,0.01,Low
+company_PC Connection,Pearson,0.01,Low
+Ticker_TRGP,Pearson,0.01,Low
+company_Parsons,Pearson,0.01,Low
+CEO_Peter J. Kelly,Pearson,0.01,Low
+Website_https://www.karglobal.com,Pearson,0.01,Low
+CEO_Stephen B. Bratspies,Pearson,0.01,Low
+Ticker_SPTN,Pearson,0.01,Low
+Website_www.wfscorp.com,Pearson,0.01,Low
+Ticker_WWW,Pearson,0.01,Low
+Ticker_TPC,Pearson,0.0099,Low
+Ticker_MYRG,Pearson,0.0099,Low
+Ticker_NCR,Pearson,0.0099,Low
+CEO_Glenn Sanford,Pearson,0.0099,Low
+Ticker_GFF,Pearson,0.0099,Low
+company_Gray Television,Pearson,0.0099,Low
+company_Griffon,Pearson,0.0099,Low
+Ticker_GTN,Pearson,0.0099,Low
+city_Sylmar,Pearson,0.0099,Low
+Ticker_EXPI,Pearson,0.0099,Low
+company_Tutor Perini,Pearson,0.0099,Low
+CEO_Richard S. Swartz,Pearson,0.0099,Low
+company_NCR,Pearson,0.0099,Low
+company_MYR Group,Pearson,0.0099,Low
+prev_rank_446.0,Pearson,0.0099,Low
+Website_https://www.myrgroup.com,Pearson,0.0099,Low
+Website_https://www.ncr.com,Pearson,0.0099,Low
+Website_https://www.griffon.com,Pearson,0.0099,Low
+Website_https://www.gray.tv,Pearson,0.0099,Low
+CEO_Ronald J. Kramer,Pearson,0.0099,Low
+Website_https://www.tutorperini.com,Pearson,0.0099,Low
+company_eXp World Holdings,Pearson,0.0099,Low
+CEO_Ronald N. Tutor,Pearson,0.0099,Low
+city_Calhoun,Pearson,0.0099,Low
+city_Bellingham,Pearson,0.0099,Low
+CEO_Michael D. Hayford,Pearson,0.0099,Low
+Website_https://www.expworldholdings.com,Pearson,0.0099,Low
+city_Redwood City,Pearson,0.0099,Low
+company_Brink's,Pearson,0.0098,Low
+Ticker_SNEX,Pearson,0.0098,Low
+Website_https://www.championx.com,Pearson,0.0098,Low
+CEO_Frank Martell,Pearson,0.0098,Low
+city_Westchester,Pearson,0.0098,Low
+Ticker_GCO,Pearson,0.0098,Low
+Ticker_GMS,Pearson,0.0098,Low
+company_Genesco,Pearson,0.0098,Low
+CEO_John C. Turner Jr.,Pearson,0.0098,Low
+city_Tucker,Pearson,0.0098,Low
+CEO_James P. Zallie,Pearson,0.0098,Low
+Ticker_INGR,Pearson,0.0098,Low
+company_GMS,Pearson,0.0098,Low
+city_St. George,Pearson,0.0098,Low
+city_Sunbury,Pearson,0.0098,Low
+CEO_Charles Liang,Pearson,0.0098,Low
+Ticker_PRIM,Pearson,0.0098,Low
+company_ChampionX,Pearson,0.0098,Low
+Ticker_PSMT,Pearson,0.0098,Low
+Ticker_LDI,Pearson,0.0098,Low
+Ticker_LHCG,Pearson,0.0098,Low
+Ticker_SMCI,Pearson,0.0098,Low
+Ticker_SKYW,Pearson,0.0098,Low
+CEO_Mathew R. Ishbia,Pearson,0.0098,Low
+CEO_Mark Eubanks,Pearson,0.0098,Low
+company_PriceSmart,Pearson,0.0098,Low
+company_Primoris Services,Pearson,0.0098,Low
+Ticker_BCO,Pearson,0.0098,Low
+Ticker_ANDE,Pearson,0.0098,Low
+Ticker_CHX,Pearson,0.0098,Low
+company_LHC Group,Pearson,0.0098,Low
+prev_rank_58.0,Pearson,0.0098,Low
+CEO_Keith G. Myers,Pearson,0.0098,Low
+prev_rank_463.0,Pearson,0.0098,Low
+CEO_Jonathan H. Weis,Pearson,0.0098,Low
+city_Pontiac,Pearson,0.0098,Low
+company_Ingredion,Pearson,0.0098,Low
+Website_https://www.uwm.com,Pearson,0.0098,Low
+Website_https://www.weismarkets.com,Pearson,0.0098,Low
+company_Super Micro Computer,Pearson,0.0098,Low
+prev_rank_366.0,Pearson,0.0098,Low
+company_StoneX Group,Pearson,0.0098,Low
+company_SkyWest,Pearson,0.0098,Low
+Website_www.stonex.com,Pearson,0.0098,Low
+CEO_Patrick Bowe,Pearson,0.0098,Low
+CEO_Mimi Eckel Vaughn,Pearson,0.0098,Low
+Website_https://www.genesco.com,Pearson,0.0098,Low
+Website_https://www.skywest.com,Pearson,0.0098,Low
+CEO_Russell A. Childs,Pearson,0.0098,Low
+Website_https://www.supermicro.com,Pearson,0.0098,Low
+company_Weis Markets,Pearson,0.0098,Low
+company_UWM Holdings,Pearson,0.0098,Low
+Website_https://www.gms.com,Pearson,0.0098,Low
+company_loanDepot,Pearson,0.0098,Low
+CEO_Sivasankaran Somasundaram,Pearson,0.0098,Low
+CEO_Sherry S. Bahrambeygui,Pearson,0.0098,Low
+CEO_Sean M. O&#039;Connor,Pearson,0.0098,Low
+Website_https://www.pricesmart.com,Pearson,0.0098,Low
+Website_https://www.primoriscorp.com,Pearson,0.0098,Low
+city_Brookfield,Pearson,0.0098,Low
+city_Lafayette,Pearson,0.0098,Low
+CEO_Thomas E. McCormick,Pearson,0.0098,Low
+Website_https://www.loandepot.com,Pearson,0.0098,Low
+Website_https://www.lhcgroup.com,Pearson,0.0098,Low
+Website_https://www.ingredion.com,Pearson,0.0098,Low
+Ticker_UWMC,Pearson,0.0098,Low
+company_Andersons,Pearson,0.0098,Low
+Website_https://www.brinks.com,Pearson,0.0098,Low
+Ticker_WMK,Pearson,0.0098,Low
+city_Wall,Pearson,0.0097,Low
+Website_https://www.insperity.com,Pearson,0.0097,Low
+city_Highland Hills,Pearson,0.0097,Low
+Website_https://www.beazer.com,Pearson,0.0097,Low
+Website_https://www.caleres.com,Pearson,0.0097,Low
+Ticker_VRT,Pearson,0.0097,Low
+Ticker_VHI,Pearson,0.0097,Low
+company_Brinker International,Pearson,0.0097,Low
+Ticker_SCL,Pearson,0.0097,Low
+company_Beazer Homes USA,Pearson,0.0097,Low
+Website_https://www.mantech.com,Pearson,0.0097,Low
+company_Caleres,Pearson,0.0097,Low
+Ticker_RCII,Pearson,0.0097,Low
+Website_https://www.olysteel.com,Pearson,0.0097,Low
+Website_https://www.njresources.com,Pearson,0.0097,Low
+CEO_Christopher G. McCann,Pearson,0.0097,Low
+city_Jericho,Pearson,0.0097,Low
+Ticker_NSP,Pearson,0.0097,Low
+city_Kingwood,Pearson,0.0097,Low
+Ticker_NJR,Pearson,0.0097,Low
+CEO_Stephen D. Westhoven,Pearson,0.0097,Low
+Website_https://www.scripps.com,Pearson,0.0097,Low
+Website_https://www.rentacenter.com,Pearson,0.0097,Low
+company_Flowserve,Pearson,0.0097,Low
+CEO_Allan P. Merrill,Pearson,0.0097,Low
+Ticker_ICE,Pearson,0.0097,Low
+CEO_Scott R. Behrens,Pearson,0.0097,Low
+CEO_Scott B. Salmirs,Pearson,0.0097,Low
+Website_https://www.stepan.com,Pearson,0.0097,Low
+Website_https://www.ice.com,Pearson,0.0097,Low
+Ticker_MANT,Pearson,0.0097,Low
+company_E.W. Scripps,Pearson,0.0097,Low
+CEO_J. Kent Masters,Pearson,0.0097,Low
+company_Intercontinental Exchange,Pearson,0.0097,Low
+Ticker_EAT,Pearson,0.0097,Low
+CEO_R. Scott Rowe,Pearson,0.0097,Low
+Ticker_ABM,Pearson,0.0097,Low
+prev_rank_365.0,Pearson,0.0097,Low
+CEO_Richard T. Marabito,Pearson,0.0097,Low
+CEO_Robert D. Graham,Pearson,0.0097,Low
+Website_https://www.vertiv.com,Pearson,0.0097,Low
+Website_https://www.valhi.net,Pearson,0.0097,Low
+Ticker_FLS,Pearson,0.0097,Low
+Ticker_FLWS,Pearson,0.0097,Low
+company_Stepan,Pearson,0.0097,Low
+CEO_Adam Symson,Pearson,0.0097,Low
+Website_https://www.abm.com,Pearson,0.0097,Low
+Website_https://www.1800flowers.com,Pearson,0.0097,Low
+CEO_Robert J. Johnson,Pearson,0.0097,Low
+company_Insperity,Pearson,0.0097,Low
+CEO_Jeffrey C. Sprecher,Pearson,0.0097,Low
+company_Vertiv Holdings,Pearson,0.0097,Low
+company_Valhi,Pearson,0.0097,Low
+company_Rent-A-Center,Pearson,0.0097,Low
+CEO_Paul J. Sarvadi,Pearson,0.0097,Low
+CEO_Kevin Hochman,Pearson,0.0097,Low
+company_ManTech International,Pearson,0.0097,Low
+CEO_Kevin M. Phillips,Pearson,0.0097,Low
+Ticker_CAL,Pearson,0.0097,Low
+CEO_Mitchell E. Fadel,Pearson,0.0097,Low
+Ticker_ALB,Pearson,0.0097,Low
+Ticker_BZH,Pearson,0.0097,Low
+company_New Jersey Resources,Pearson,0.0097,Low
+company_Albemarle,Pearson,0.0097,Low
+Website_https://www.brinker.com,Pearson,0.0097,Low
+company_ABM Industries,Pearson,0.0097,Low
+company_Olympic Steel,Pearson,0.0097,Low
+Website_https://www.flowserve.com,Pearson,0.0097,Low
+Website_https://www.albemarle.com,Pearson,0.0097,Low
+Ticker_ZEUS,Pearson,0.0097,Low
+CEO_Diane M. Sullivan,Pearson,0.0097,Low
+Ticker_SSP,Pearson,0.0097,Low
+company_DexCom,Pearson,0.0096,Low
+CEO_Shelly R. Ibach,Pearson,0.0096,Low
+CEO_Salvatore A. Abbate,Pearson,0.0096,Low
+CEO_Sandy Douglas,Pearson,0.0096,Low
+Ticker_KELYA,Pearson,0.0096,Low
+Website_https://www.pattersoncompanies.com,Pearson,0.0096,Low
+Website_https://www.gxo.com,Pearson,0.0096,Low
+Ticker_NUS,Pearson,0.0096,Low
+company_Designer Brands,Pearson,0.0096,Low
+Website_https://www.plexus.com,Pearson,0.0096,Low
+Ticker_PDCO,Pearson,0.0096,Low
+CEO_Stephen P. Griggs,Pearson,0.0096,Low
+company_Central Garden & Pet,Pearson,0.0096,Low
+city_Troy,Pearson,0.0096,Low
+Website_https://www.dexcom.com,Pearson,0.0096,Low
+Website_https://www.designerbrands.com,Pearson,0.0096,Low
+CEO_Ryan S. Napierski,Pearson,0.0096,Low
+CEO_Andres A. Lopez,Pearson,0.0096,Low
+company_EnerSys,Pearson,0.0096,Low
+CEO_Anne P. Noonan,Pearson,0.0096,Low
+Website_https://www.sleepnumber.com,Pearson,0.0096,Low
+Ticker_OPCH,Pearson,0.0096,Low
+company_Comfort Systems USA,Pearson,0.0096,Low
+Ticker_OI,Pearson,0.0096,Low
+Ticker_MOGA,Pearson,0.0096,Low
+Website_https://www.nuskin.com,Pearson,0.0096,Low
+CEO_Timothy P. Cofer,Pearson,0.0096,Low
+CEO_Todd P. Kelsey,Pearson,0.0096,Low
+city_East Aurora,Pearson,0.0096,Low
+Ticker_PLXS,Pearson,0.0096,Low
+CEO_Brian E. Lane,Pearson,0.0096,Low
+Website_https://www.optioncarehealth.com,Pearson,0.0096,Low
+Website_https://www.o-i.com,Pearson,0.0096,Low
+CEO_Eileen P. Drake,Pearson,0.0096,Low
+Website_https://www.central.com,Pearson,0.0096,Low
+Ticker_VRTV,Pearson,0.0096,Low
+Ticker_TTEC,Pearson,0.0096,Low
+Website_https://www.comfortsystemsusa.com,Pearson,0.0096,Low
+Website_https://www.kellyservices.com,Pearson,0.0096,Low
+Ticker_SNBR,Pearson,0.0096,Low
+Website_https://www.moog.com,Pearson,0.0096,Low
+company_Aerojet Rocketdyne Holdings,Pearson,0.0096,Low
+Ticker_UNFI,Pearson,0.0096,Low
+company_AdaptHealth,Pearson,0.0096,Low
+city_Walnut Creek,Pearson,0.0096,Low
+prev_rank_107.0,Pearson,0.0096,Low
+CEO_David M. Shaffer,Pearson,0.0096,Low
+Ticker_SUM,Pearson,0.0096,Low
+Ticker_TDS,Pearson,0.0096,Low
+company_Applied Industrial Technologies,Pearson,0.0096,Low
+Website_https://www.aerojetrocketdyne.com,Pearson,0.0096,Low
+CEO_Mark S. Walchirk,Pearson,0.0096,Low
+company_Option Care Health,Pearson,0.0096,Low
+Ticker_AJRD,Pearson,0.0096,Low
+company_Nu Skin Enterprises,Pearson,0.0096,Low
+company_O-I Glass,Pearson,0.0096,Low
+Website_https://www.adapthealth.com,Pearson,0.0096,Low
+city_Neenah,Pearson,0.0096,Low
+Ticker_CENT,Pearson,0.0096,Low
+Ticker_DBI,Pearson,0.0096,Low
+CEO_Peter W. Quigley,Pearson,0.0096,Low
+CEO_LeRoy T. Carlson Jr.,Pearson,0.0096,Low
+company_Telephone & Data Systems,Pearson,0.0096,Low
+Website_https://www.veritivcorp.com,Pearson,0.0096,Low
+Ticker_AIT,Pearson,0.0096,Low
+CEO_Malcolm Wilson,Pearson,0.0096,Low
+prev_rank_439.0,Pearson,0.0096,Low
+company_Plexus,Pearson,0.0096,Low
+company_Moog,Pearson,0.0096,Low
+CEO_Kevin Sayer,Pearson,0.0096,Low
+company_Patterson,Pearson,0.0096,Low
+Ticker_AHCO,Pearson,0.0096,Low
+CEO_Kenneth D. Tuchman,Pearson,0.0096,Low
+Website_https://www.unfi.com,Pearson,0.0096,Low
+Website_https://www.summit-materials.com,Pearson,0.0096,Low
+Website_https://www.ttec.com,Pearson,0.0096,Low
+company_Veritiv,Pearson,0.0096,Low
+CEO_Neil A. Schrimsher,Pearson,0.0096,Low
+Ticker_DXCM,Pearson,0.0096,Low
+Website_https://www.enersys.com,Pearson,0.0096,Low
+city_Provo,Pearson,0.0096,Low
+Ticker_FIX,Pearson,0.0096,Low
+company_TTEC Holdings,Pearson,0.0096,Low
+company_United Natural Foods,Pearson,0.0096,Low
+city_Perrysburg,Pearson,0.0096,Low
+company_Sleep Number,Pearson,0.0096,Low
+Ticker_ENS,Pearson,0.0096,Low
+Website_https://www.applied.com,Pearson,0.0096,Low
+CEO_John R. Scannell,Pearson,0.0096,Low
+city_Plymouth Meeting,Pearson,0.0096,Low
+company_Kelly Services,Pearson,0.0096,Low
+city_Reading,Pearson,0.0096,Low
+company_Summit Materials,Pearson,0.0096,Low
+Website_https://www.tdsinc.com,Pearson,0.0096,Low
+CEO_Roger L. Rawlins,Pearson,0.0096,Low
+Ticker_GXO,Pearson,0.0096,Low
+company_GXO Logistics,Pearson,0.0096,Low
+CEO_John C. Rademacher,Pearson,0.0096,Low
+CEO_Erik B. Nordstrom,Pearson,0.0095,Low
+Website_https://www.millerknoll.com,Pearson,0.0095,Low
+Website_https://www.biglots.com,Pearson,0.0095,Low
+Ticker_WOOF,Pearson,0.0095,Low
+Ticker_USFD,Pearson,0.0095,Low
+city_Zeeland,Pearson,0.0095,Low
+prev_rank_128.0,Pearson,0.0095,Low
+Ticker_SCHN,Pearson,0.0095,Low
+CEO_Carlos E. Alberini,Pearson,0.0095,Low
+Ticker_POST,Pearson,0.0095,Low
+CEO_Gregory N. Roberts,Pearson,0.0095,Low
+Ticker_HUBG,Pearson,0.0095,Low
+Website_https://www.coreandmain.com,Pearson,0.0095,Low
+city_Rosemont,Pearson,0.0095,Low
+Ticker_JWN,Pearson,0.0095,Low
+Website_https://www.schnitzersteel.com,Pearson,0.0095,Low
+company_Energizer Holdings,Pearson,0.0095,Low
+Ticker_JELD,Pearson,0.0095,Low
+CEO_Ronald Coughlin Jr.,Pearson,0.0095,Low
+CEO_James J. Owens,Pearson,0.0095,Low
+CEO_Andrew Iacobucci,Pearson,0.0095,Low
+prev_rank_289.0,Pearson,0.0095,Low
+Ticker_MLKN,Pearson,0.0095,Low
+CEO_W. Troy Rudd,Pearson,0.0095,Low
+Website_https://www.hbfuller.com,Pearson,0.0095,Low
+CEO_Jack Dorsey,Pearson,0.0095,Low
+company_Core & Main,Pearson,0.0095,Low
+Website_https://www.jeld-wen.com,Pearson,0.0095,Low
+Website_https://www.hgv.com,Pearson,0.0095,Low
+Website_https://www.hubgroup.com,Pearson,0.0095,Low
+Website_https://www.guess.com,Pearson,0.0095,Low
+CEO_Stephen O. LeClair,Pearson,0.0095,Low
+CEO_Bruce K. Thorn,Pearson,0.0095,Low
+Website_https://www.petco.com,Pearson,0.0095,Low
+Website_https://www.postholdings.com,Pearson,0.0095,Low
+CEO_Tamara L. Lundgren,Pearson,0.0095,Low
+company_Big Lots,Pearson,0.0095,Low
+Website_https://www.nordstrom.com,Pearson,0.0095,Low
+company_Block,Pearson,0.0095,Low
+CEO_Robert V. Vitale,Pearson,0.0095,Low
+prev_rank_189.0,Pearson,0.0095,Low
+company_Hub Group,Pearson,0.0095,Low
+Ticker_FUL,Pearson,0.0095,Low
+prev_rank_495.0,Pearson,0.0095,Low
+company_JELD-WEN Holding,Pearson,0.0095,Low
+company_Schnitzer Steel Industries,Pearson,0.0095,Low
+Ticker_ENR,Pearson,0.0095,Low
+company_US Foods Holding,Pearson,0.0095,Low
+Website_https://www.energizerholdings.com,Pearson,0.0095,Low
+Ticker_HGV,Pearson,0.0095,Low
+prev_rank_323.0,Pearson,0.0095,Low
+company_Hilton Grand Vacations,Pearson,0.0095,Low
+CEO_Andrea R. Owen,Pearson,0.0095,Low
+company_H.B. Fuller,Pearson,0.0095,Low
+company_Guess,Pearson,0.0095,Low
+Ticker_GES,Pearson,0.0095,Low
+company_Petco Health and Wellness,Pearson,0.0095,Low
+Ticker_CNM,Pearson,0.0095,Low
+CEO_Kevin C. Lilly,Pearson,0.0095,Low
+company_MillerKnoll,Pearson,0.0095,Low
+Ticker_BIG,Pearson,0.0095,Low
+Website_www.usfoods.com,Pearson,0.0095,Low
+company_Post Holdings,Pearson,0.0095,Low
+Ticker_ACM,Pearson,0.0095,Low
+Website_https://www.amark.com,Pearson,0.0095,Low
+Website_https://www.aecom.com,Pearson,0.0095,Low
+CEO_Mark D. Wang,Pearson,0.0095,Low
+Ticker_AMRK,Pearson,0.0095,Low
+company_Nordstrom,Pearson,0.0095,Low
+CEO_Mark S. LaVigne,Pearson,0.0095,Low
+Ticker_SQ,Pearson,0.0095,Low
+CEO_David P. Yeager,Pearson,0.0095,Low
+Website_https://www.block.xyz,Pearson,0.0095,Low
+company_A-Mark Precious Metals,Pearson,0.0095,Low
+company_AECOM,Pearson,0.0095,Low
+company_Acadia Healthcare,Pearson,0.0094,Low
+company_Acushnet Holdings,Pearson,0.0094,Low
+Website_https://www.cokeconsolidated.com,Pearson,0.0094,Low
+prev_rank_408.0,Pearson,0.0094,Low
+CEO_David Maher,Pearson,0.0094,Low
+company_Avnet,Pearson,0.0094,Low
+CEO_Christopher H. Hunter,Pearson,0.0094,Low
+Ticker_SPB,Pearson,0.0094,Low
+CEO_Thomas E. Gottwald,Pearson,0.0094,Low
+company_NewMarket,Pearson,0.0094,Low
+Website_https://www.newmarket.com,Pearson,0.0094,Low
+Ticker_COKE,Pearson,0.0094,Low
+CEO_Barry R. Port,Pearson,0.0094,Low
+company_Coca-Cola Consolidated,Pearson,0.0094,Low
+CEO_Stephen G. Kaniewski,Pearson,0.0094,Low
+Ticker_DAN,Pearson,0.0094,Low
+Ticker_VMI,Pearson,0.0094,Low
+city_San Juan Capistrano,Pearson,0.0094,Low
+Website_https://www.avnet.com,Pearson,0.0094,Low
+Ticker_KTB,Pearson,0.0094,Low
+company_Ensign Group,Pearson,0.0094,Low
+Website_https://www.spectrumbrands.com,Pearson,0.0094,Low
+CEO_Scott H. Baxter,Pearson,0.0094,Low
+Website_https://www.ensigngroup.net,Pearson,0.0094,Low
+CEO_James K. Kamsickas,Pearson,0.0094,Low
+company_Spectrum Brands Holdings,Pearson,0.0094,Low
+prev_rank_168.0,Pearson,0.0094,Low
+Website_https://www.dana.com,Pearson,0.0094,Low
+company_Kontoor Brands,Pearson,0.0094,Low
+CEO_Philip R. Gallagher,Pearson,0.0094,Low
+Ticker_ACHC,Pearson,0.0094,Low
+CEO_J. Frank Harrison III,Pearson,0.0094,Low
+Ticker_ENSG,Pearson,0.0094,Low
+company_Dana,Pearson,0.0094,Low
+Ticker_NEU,Pearson,0.0094,Low
+Website_https://www.acushnetholdingscorp.com,Pearson,0.0094,Low
+Website_https://www.kontoorbrands.com,Pearson,0.0094,Low
+Ticker_GOLF,Pearson,0.0094,Low
+city_Middleton,Pearson,0.0094,Low
+Website_https://www.valmont.com,Pearson,0.0094,Low
+Ticker_AVT,Pearson,0.0094,Low
+CEO_David M. Maura,Pearson,0.0094,Low
+city_Fairhaven,Pearson,0.0094,Low
+Website_https://www.acadiahealthcare.com,Pearson,0.0094,Low
+company_Valmont Industries,Pearson,0.0094,Low
+CEO_Michael P. Doss,Pearson,0.0093,Low
+Ticker_CLH,Pearson,0.0093,Low
+company_Clean Harbors,Pearson,0.0093,Low
+Ticker_BLMN,Pearson,0.0093,Low
+Website_https://www.giii.com,Pearson,0.0093,Low
+Website_https://www.flowersfoods.com,Pearson,0.0093,Low
+Website_https://www.bloominbrands.com,Pearson,0.0093,Low
+CEO_Christopher T. Gerard,Pearson,0.0093,Low
+Ticker_WWD,Pearson,0.0093,Low
+city_Baton Rouge,Pearson,0.0093,Low
+CEO_Charles Blankenship Jr.,Pearson,0.0093,Low
+company_Bloomin' Brands,Pearson,0.0093,Low
+company_MSC Industrial Direct,Pearson,0.0093,Low
+Ticker_RRX,Pearson,0.0093,Low
+city_Norwell,Pearson,0.0093,Low
+Website_https://www.cleanharbors.com,Pearson,0.0093,Low
+CEO_Louis V. Pinkham,Pearson,0.0093,Low
+CEO_Erik Gershwind,Pearson,0.0093,Low
+prev_rank_435.0,Pearson,0.0093,Low
+CEO_Judy R. McReynolds,Pearson,0.0093,Low
+Website_https://www.regalrexnord.com,Pearson,0.0093,Low
+CEO_Morris Goldfarb,Pearson,0.0093,Low
+Website_https://www.elementsolutionsinc.com,Pearson,0.0093,Low
+company_Southwest Gas Holdings,Pearson,0.0093,Low
+company_Woodward,Pearson,0.0093,Low
+Website_https://www.arcb.com,Pearson,0.0093,Low
+company_Element Solutions,Pearson,0.0093,Low
+CEO_Karen S. Haller,Pearson,0.0093,Low
+company_Regal Rexnord,Pearson,0.0093,Low
+CEO_Benjamin Gliklich,Pearson,0.0093,Low
+Ticker_ESI,Pearson,0.0093,Low
+city_Beloit,Pearson,0.0093,Low
+Ticker_MSM,Pearson,0.0093,Low
+company_Graphic Packaging Holding,Pearson,0.0093,Low
+Ticker_GPK,Pearson,0.0093,Low
+Website_https://www.swgasholdings.com,Pearson,0.0093,Low
+company_G-III Apparel Group,Pearson,0.0093,Low
+company_Flowers Foods,Pearson,0.0093,Low
+Website_https://www.graphicpkg.com,Pearson,0.0093,Low
+CEO_Alan S. McKim,Pearson,0.0093,Low
+Website_https://www.woodward.com,Pearson,0.0093,Low
+Website_https://www.amedisys.com,Pearson,0.0093,Low
+Ticker_FLO,Pearson,0.0093,Low
+CEO_A. Ryals McMullian,Pearson,0.0093,Low
+Ticker_GIII,Pearson,0.0093,Low
+company_ArcBest,Pearson,0.0093,Low
+Website_https://www.mscdirect.com,Pearson,0.0093,Low
+city_Fort Smith,Pearson,0.0093,Low
+Ticker_AMED,Pearson,0.0093,Low
+city_Fort Collins,Pearson,0.0093,Low
+Ticker_ARCB,Pearson,0.0093,Low
+CEO_David J. Deno,Pearson,0.0093,Low
+company_Amedisys,Pearson,0.0093,Low
+Ticker_SWX,Pearson,0.0093,Low
+Ticker_TEX,Pearson,0.0092,Low
+CEO_Dan L. Batrack,Pearson,0.0092,Low
+Ticker_ASH,Pearson,0.0092,Low
+Ticker_AVNT,Pearson,0.0092,Low
+prev_rank_345.0,Pearson,0.0092,Low
+company_Terex,Pearson,0.0092,Low
+company_Syneos Health,Pearson,0.0092,Low
+city_Mechanicsville,Pearson,0.0092,Low
+CEO_Robert M. Patterson,Pearson,0.0092,Low
+prev_rank_203.0,Pearson,0.0092,Low
+Ticker_TTEK,Pearson,0.0092,Low
+Website_https://www.insight.com,Pearson,0.0092,Low
+Ticker_FCN,Pearson,0.0092,Low
+company_Insight Enterprises,Pearson,0.0092,Low
+Website_https://www.tetratech.com,Pearson,0.0092,Low
+CEO_John L. Garrison Jr.,Pearson,0.0092,Low
+CEO_Michelle Keefe,Pearson,0.0092,Low
+CEO_Guillermo Novo,Pearson,0.0092,Low
+Ticker_PATK,Pearson,0.0092,Low
+company_Patrick Industries,Pearson,0.0092,Low
+Ticker_CYH,Pearson,0.0092,Low
+city_Avon Lake,Pearson,0.0092,Low
+Ticker_NOW,Pearson,0.0092,Low
+Ticker_NSIT,Pearson,0.0092,Low
+city_Kansas City,Pearson,0.0092,Low
+CEO_William McDermott,Pearson,0.0092,Low
+Website_https://www.servicenow.com,Pearson,0.0092,Low
+Website_https://www.siteone.com,Pearson,0.0092,Low
+company_FTI Consulting,Pearson,0.0092,Low
+CEO_Andy L. Nemeth,Pearson,0.0092,Low
+CEO_Joyce A. Mullen,Pearson,0.0092,Low
+company_Tetra Tech,Pearson,0.0092,Low
+company_Community Health Systems,Pearson,0.0092,Low
+Website_https://www.ashland.com,Pearson,0.0092,Low
+Website_https://www.sbasite.com,Pearson,0.0092,Low
+company_SBA Communications,Pearson,0.0092,Low
+prev_rank_360.0,Pearson,0.0092,Low
+company_SiteOne Landscape Supply,Pearson,0.0092,Low
+company_ServiceNow,Pearson,0.0092,Low
+city_Roswell,Pearson,0.0092,Low
+Website_https://www.avient.com,Pearson,0.0092,Low
+CEO_Jeffrey A. Stoops,Pearson,0.0092,Low
+Website_https://www.syneoshealth.com,Pearson,0.0092,Low
+Website_https://www.terex.com,Pearson,0.0092,Low
+Ticker_SBAC,Pearson,0.0092,Low
+Ticker_SITE,Pearson,0.0092,Low
+city_Morrisville,Pearson,0.0092,Low
+Website_https://www.fticonsulting.com,Pearson,0.0092,Low
+CEO_Thomas J. Nimbley,Pearson,0.0092,Low
+company_PBF Energy,Pearson,0.0092,Low
+Website_https://www.owens-minor.com,Pearson,0.0092,Low
+CEO_Tim L. Hingtgen,Pearson,0.0092,Low
+Ticker_SYNH,Pearson,0.0092,Low
+Website_https://www.chs.net,Pearson,0.0092,Low
+company_Ashland,Pearson,0.0092,Low
+company_Avient,Pearson,0.0092,Low
+CEO_Edward A. Pesicka,Pearson,0.0092,Low
+Website_https://www.patrickind.com,Pearson,0.0092,Low
+prev_rank_259.0,Pearson,0.0092,Low
+CEO_Doug Black,Pearson,0.0092,Low
+company_Owens & Minor,Pearson,0.0092,Low
+Website_https://www.pbfenergy.com,Pearson,0.0092,Low
+CEO_Steven H. Gunby,Pearson,0.0092,Low
+Ticker_OMI,Pearson,0.0092,Low
+Ticker_PBF,Pearson,0.0092,Low
+city_Downers Grove,Pearson,0.0091,Low
+Website_https://www.ingles-markets.com,Pearson,0.0091,Low
+company_Hawaiian Electric Industries,Pearson,0.0091,Low
+CEO_Derek J. Leathers,Pearson,0.0091,Low
+company_AptarGroup,Pearson,0.0091,Low
+company_PROG Holdings,Pearson,0.0091,Low
+CEO_Denise A. Paulonis,Pearson,0.0091,Low
+Ticker_ATR,Pearson,0.0091,Low
+Website_https://www.juniper.net,Pearson,0.0091,Low
+Website_https://www.mercuryinsurance.com,Pearson,0.0091,Low
+prev_rank_221.0,Pearson,0.0091,Low
+Website_https://www.texasroadhouse.com,Pearson,0.0091,Low
+Ticker_GPS,Pearson,0.0091,Low
+company_GoDaddy,Pearson,0.0091,Low
+company_Hillenbrand,Pearson,0.0091,Low
+CEO_John P. Groetelaars,Pearson,0.0091,Low
+company_Texas Roadhouse,Pearson,0.0091,Low
+company_Howmet Aerospace,Pearson,0.0091,Low
+Ticker_GDDY,Pearson,0.0091,Low
+Website_https://www.werner.com,Pearson,0.0091,Low
+company_Hill-Rom Holdings,Pearson,0.0091,Low
+Website_https://www.becn.com,Pearson,0.0091,Low
+Website_https://www.godaddy.com,Pearson,0.0091,Low
+Website_https://www.howmet.com,Pearson,0.0091,Low
+Website_https://www.hillrom.com,Pearson,0.0091,Low
+Website_https://www.hillenbrand.com,Pearson,0.0091,Low
+CEO_John C. Plant,Pearson,0.0091,Low
+city_Draper,Pearson,0.0091,Low
+Website_https://www.sprouts.com,Pearson,0.0091,Low
+Ticker_JNPR,Pearson,0.0091,Low
+CEO_Sandra B. Cochran,Pearson,0.0091,Low
+CEO_Scott W.H. Seu,Pearson,0.0091,Low
+Website_https://www.aptar.com,Pearson,0.0091,Low
+company_Werner Enterprises,Pearson,0.0091,Low
+CEO_James W. Lanning,Pearson,0.0091,Low
+company_Sprouts Farmers Market,Pearson,0.0091,Low
+Website_https://www.crackerbarrel.com,Pearson,0.0091,Low
+CEO_Jay L. Geldmacher,Pearson,0.0091,Low
+Ticker_IMKTA,Pearson,0.0091,Low
+Ticker_HWM,Pearson,0.0091,Low
+Ticker_HE,Pearson,0.0091,Low
+Ticker_HI,Pearson,0.0091,Low
+company_Gap,Pearson,0.0091,Low
+CEO_Bobby L. Martin,Pearson,0.0091,Low
+city_Johns Creek,Pearson,0.0091,Low
+CEO_W. M. Rush,Pearson,0.0091,Low
+Ticker_MCY,Pearson,0.0091,Low
+CEO_Anthony J. Wood,Pearson,0.0091,Low
+CEO_Jack L. Sinclair,Pearson,0.0091,Low
+Website_https://www.hei.com,Pearson,0.0091,Low
+city_Lebanon,Pearson,0.0091,Low
+CEO_Julian G. Francis,Pearson,0.0091,Low
+company_Juniper Networks,Pearson,0.0091,Low
+Website_https://www.saia.com,Pearson,0.0091,Low
+Website_https://www.rushenterprises.com,Pearson,0.0091,Low
+Website_https://www.roku.com,Pearson,0.0091,Low
+Website_https://www.sallybeautyholdings.com,Pearson,0.0091,Low
+CEO_Stephan B. Tanda,Pearson,0.0091,Low
+CEO_Sean D. Keohane,Pearson,0.0091,Low
+Website_https://www.resideo.com,Pearson,0.0091,Low
+company_Resideo Technologies,Pearson,0.0091,Low
+company_Roku,Pearson,0.0091,Low
+company_Rush Enterprises,Pearson,0.0091,Low
+CEO_Aman Bhutani,Pearson,0.0091,Low
+Ticker_HRC,Pearson,0.0091,Low
+CEO_Rami Rahim,Pearson,0.0091,Low
+company_Sally Beauty Holdings,Pearson,0.0091,Low
+company_Ingles Markets,Pearson,0.0091,Low
+company_Saia,Pearson,0.0091,Low
+Ticker_POR,Pearson,0.0091,Low
+Website_https://www.portlandgeneral.com,Pearson,0.0091,Low
+CEO_Steven A. Michaels,Pearson,0.0091,Low
+Website_https://www.progleasing.com,Pearson,0.0091,Low
+city_Black Mountain,Pearson,0.0091,Low
+company_Cracker Barrel Old Country Store,Pearson,0.0091,Low
+CEO_Christina Spade,Pearson,0.0091,Low
+CEO_Frederick J. Holzgrefe III,Pearson,0.0091,Low
+CEO_Gabriel Tirador,Pearson,0.0091,Low
+Ticker_REZI,Pearson,0.0091,Low
+Ticker_ROKU,Pearson,0.0091,Low
+Ticker_RUSHB,Pearson,0.0091,Low
+Ticker_SAIA,Pearson,0.0091,Low
+Ticker_CBT,Pearson,0.0091,Low
+company_Portland General Electric,Pearson,0.0091,Low
+CEO_Kimberly K. Ryan,Pearson,0.0091,Low
+prev_rank_420.0,Pearson,0.0091,Low
+Ticker_AMCX,Pearson,0.0091,Low
+city_Batesville,Pearson,0.0091,Low
+CEO_Gerald L. Morgan,Pearson,0.0091,Low
+Ticker_PRG,Pearson,0.0091,Low
+Ticker_SBH,Pearson,0.0091,Low
+Ticker_CBRL,Pearson,0.0091,Low
+company_Mercury General,Pearson,0.0091,Low
+city_New Braunfels,Pearson,0.0091,Low
+CEO_Maria M. Pope,Pearson,0.0091,Low
+city_Denton,Pearson,0.0091,Low
+Ticker_BECN,Pearson,0.0091,Low
+Website_https://www.amcnetworks.com,Pearson,0.0091,Low
+Website_https://www.gapinc.com,Pearson,0.0091,Low
+company_Cabot,Pearson,0.0091,Low
+Ticker_SFM,Pearson,0.0091,Low
+city_Crystal Lake,Pearson,0.0091,Low
+company_Beacon Roofing Supply,Pearson,0.0091,Low
+Ticker_TXRH,Pearson,0.0091,Low
+Website_https://www.cabotcorp.com,Pearson,0.0091,Low
+company_AMC Networks,Pearson,0.0091,Low
+Ticker_WERN,Pearson,0.0091,Low
+Ticker_IFF,Pearson,0.009,Low
+Website_https://www.campingworld.com,Pearson,0.009,Low
+CEO_Kevin J. McNamara,Pearson,0.009,Low
+company_Match Group,Pearson,0.009,Low
+Website_https://www.bruker.com,Pearson,0.009,Low
+prev_rank_496.0,Pearson,0.009,Low
+CEO_Lynn J. Good,Pearson,0.009,Low
+CEO_Frank H. Laukien,Pearson,0.009,Low
+CEO_Christopher L. Mapes,Pearson,0.009,Low
+Website_https://www.abercrombie.com,Pearson,0.009,Low
+CEO_Timothy M. Archer,Pearson,0.009,Low
+company_Five Below,Pearson,0.009,Low
+CEO_Jure Sola,Pearson,0.009,Low
+company_Lincoln Electric Holdings,Pearson,0.009,Low
+Website_https://www.duke-energy.com,Pearson,0.009,Low
+company_Science Applications International,Pearson,0.009,Low
+Ticker_SAIC,Pearson,0.009,Low
+Website_https://www.mtch.com,Pearson,0.009,Low
+Ticker_FIVE,Pearson,0.009,Low
+company_Sanmina,Pearson,0.009,Low
+Website_https://www.vistaoutdoor.com,Pearson,0.009,Low
+Ticker_CWH,Pearson,0.009,Low
+Ticker_CW,Pearson,0.009,Low
+Ticker_BRKR,Pearson,0.009,Low
+CEO_Fran Horowitz,Pearson,0.009,Low
+Ticker_CHE,Pearson,0.009,Low
+Ticker_LRCX,Pearson,0.009,Low
+Website_https://www.iff.com,Pearson,0.009,Low
+company_Camping World Holdings,Pearson,0.009,Low
+city_New Albany,Pearson,0.009,Low
+Ticker_MTCH,Pearson,0.009,Low
+Website_https://www.spireenergy.com,Pearson,0.009,Low
+prev_rank_412.0,Pearson,0.009,Low
+Website_https://www.saic.com,Pearson,0.009,Low
+CEO_Marcus A. Lemonis,Pearson,0.009,Low
+company_International Flavors & Fragrances,Pearson,0.009,Low
+Website_https://www.sanmina.com,Pearson,0.009,Low
+prev_rank_418.0,Pearson,0.009,Low
+prev_rank_304.0,Pearson,0.009,Low
+prev_rank_126.0,Pearson,0.009,Low
+CEO_Lynn M. Bamford,Pearson,0.009,Low
+Website_https://www.chemed.com,Pearson,0.009,Low
+state_DE,Pearson,0.009,Low
+Ticker_SR,Pearson,0.009,Low
+Ticker_ANF,Pearson,0.009,Low
+company_Chemed,Pearson,0.009,Low
+company_Bruker,Pearson,0.009,Low
+Ticker_SANM,Pearson,0.009,Low
+CEO_Joel D. Anderson,Pearson,0.009,Low
+company_Duke Energy,Pearson,0.009,Low
+CEO_Suzanne Sitherwood,Pearson,0.009,Low
+Ticker_LECO,Pearson,0.009,Low
+CEO_Nazzic S. Keene,Pearson,0.009,Low
+CEO_Bernard Kim,Pearson,0.009,Low
+Website_https://www.lamresearch.com,Pearson,0.009,Low
+Website_https://www.fivebelow.com,Pearson,0.009,Low
+Website_https://www.lincolnelectric.com,Pearson,0.009,Low
+company_Lam Research,Pearson,0.009,Low
+company_Curtiss-Wright,Pearson,0.009,Low
+CEO_Franklin K. Clyburn Jr.,Pearson,0.009,Low
+company_Vista Outdoor,Pearson,0.009,Low
+Ticker_VSTO,Pearson,0.009,Low
+CEO_Christopher T. Metz,Pearson,0.009,Low
+city_Anoka,Pearson,0.009,Low
+company_Abercrombie & Fitch,Pearson,0.009,Low
+Ticker_DUK,Pearson,0.009,Low
+Website_https://www.curtisswright.com,Pearson,0.009,Low
+company_Spire,Pearson,0.009,Low
+CEO_David J. Stetson,Pearson,0.0089,Low
+Website_https://www.winnebagoind.com,Pearson,0.0089,Low
+Ticker_VSH,Pearson,0.0089,Low
+Website_www.delta.com,Pearson,0.0089,Low
+company_Delta Air Lines,Pearson,0.0089,Low
+CEO_Jason D. Lippert,Pearson,0.0089,Low
+Website_https://www.ryerson.com,Pearson,0.0089,Low
+Ticker_COWN,Pearson,0.0089,Low
+Ticker_FND,Pearson,0.0089,Low
+CEO_Edward J. Lehner,Pearson,0.0089,Low
+company_Floor & Decor Holdings,Pearson,0.0089,Low
+company_BlueLinx Holdings,Pearson,0.0089,Low
+Ticker_BXC,Pearson,0.0089,Low
+Website_https://www.maximus.com,Pearson,0.0089,Low
+Ticker_DCI,Pearson,0.0089,Low
+CEO_Tod E. Carpenter,Pearson,0.0089,Low
+Website_https://www.cowen.com,Pearson,0.0089,Low
+Website_https://www.donaldson.com,Pearson,0.0089,Low
+CEO_Gerald Paul,Pearson,0.0089,Low
+Website_https://www.vishay.com,Pearson,0.0089,Low
+Website_https://www.bluelinxco.com,Pearson,0.0089,Low
+Ticker_DAL,Pearson,0.0089,Low
+company_Alpha Metallurgical Resources,Pearson,0.0089,Low
+company_Ryerson Holding,Pearson,0.0089,Low
+CEO_Thomas Taylor,Pearson,0.0089,Low
+company_Coherent,Pearson,0.0089,Low
+city_Saxonburg,Pearson,0.0089,Low
+Ticker_WGO,Pearson,0.0089,Low
+CEO_Vincent D. Mattera Jr.,Pearson,0.0089,Low
+company_LCI Industries,Pearson,0.0089,Low
+Website_https://www.ii-vi.com,Pearson,0.0089,Low
+CEO_Michael Happe,Pearson,0.0089,Low
+city_Malvern,Pearson,0.0089,Low
+city_Marietta,Pearson,0.0089,Low
+company_Winnebago Industries,Pearson,0.0089,Low
+city_Bristol,Pearson,0.0089,Low
+CEO_Dwight A.K. Gibson,Pearson,0.0089,Low
+company_Cowen,Pearson,0.0089,Low
+prev_rank_178.0,Pearson,0.0089,Low
+company_Vishay Intertechnology,Pearson,0.0089,Low
+Ticker_AMR,Pearson,0.0089,Low
+Website_https://www.flooranddecor.com,Pearson,0.0089,Low
+company_Donaldson,Pearson,0.0089,Low
+Ticker_LCII,Pearson,0.0089,Low
+CEO_Edward H. Bastian,Pearson,0.0089,Low
+company_Maximus,Pearson,0.0089,Low
+CEO_Jeffrey Solomon,Pearson,0.0089,Low
+Ticker_MMS,Pearson,0.0089,Low
+Ticker_COHR,Pearson,0.0089,Low
+Website_https://www.alphametresources.com,Pearson,0.0089,Low
+Ticker_RYI,Pearson,0.0089,Low
+CEO_Bruce L. Caswell,Pearson,0.0089,Low
+Website_https://www.lci1.com,Pearson,0.0089,Low
+CEO_Luca Savi,Pearson,0.0088,Low
+Website_https://https://investor.pinterestinc.com,Pearson,0.0088,Low
+city_White Plains,Pearson,0.0088,Low
+CEO_Remi G. Lalonde,Pearson,0.0088,Low
+CEO_Thomas P. Werner,Pearson,0.0088,Low
+company_Rocket Companies,Pearson,0.0088,Low
+Website_https://www.urbn.com,Pearson,0.0088,Low
+CEO_Richard A. Hayne,Pearson,0.0088,Low
+company_Urban Outfitters,Pearson,0.0088,Low
+company_ITT,Pearson,0.0088,Low
+Ticker_URBN,Pearson,0.0088,Low
+Ticker_BWXT,Pearson,0.0088,Low
+Ticker_LW,Pearson,0.0088,Low
+Ticker_CASY,Pearson,0.0088,Low
+Website_https://www.bwxt.com,Pearson,0.0088,Low
+Ticker_IBKR,Pearson,0.0088,Low
+Ticker_AYI,Pearson,0.0088,Low
+Website_https://www.caseys.com,Pearson,0.0088,Low
+company_Raytheon Technologies,Pearson,0.0088,Low
+CEO_Robert M. Calderoni,Pearson,0.0088,Low
+Website_https://www.travelandleisureco.com,Pearson,0.0088,Low
+company_Warner Music Group,Pearson,0.0088,Low
+prev_rank_371.0,Pearson,0.0088,Low
+prev_rank_194.0,Pearson,0.0088,Low
+Website_https://www.acuitybrands.com,Pearson,0.0088,Low
+CEO_Gregory J. Hayes,Pearson,0.0088,Low
+Ticker_PINS,Pearson,0.0088,Low
+Website_www.rtx.com,Pearson,0.0088,Low
+Website_https://www.lambweston.com,Pearson,0.0088,Low
+Ticker_RTX,Pearson,0.0088,Low
+city_Eagle,Pearson,0.0088,Low
+prev_rank_57.0,Pearson,0.0088,Low
+company_Resolute Forest Products,Pearson,0.0088,Low
+company_Citrix Systems,Pearson,0.0088,Low
+Ticker_CTXS,Pearson,0.0088,Low
+company_Lamb Weston Holdings,Pearson,0.0088,Low
+Website_https://www.resolutefp.com,Pearson,0.0088,Low
+city_Lynchburg,Pearson,0.0088,Low
+Website_https://www.citrix.com,Pearson,0.0088,Low
+state_MD,Pearson,0.0088,Low
+CEO_Milan Galik,Pearson,0.0088,Low
+company_BWX Technologies,Pearson,0.0088,Low
+Ticker_PLTK,Pearson,0.0088,Low
+CEO_Neil M. Ashe,Pearson,0.0088,Low
+Website_https://www.playtika.com,Pearson,0.0088,Low
+city_Ankeny,Pearson,0.0088,Low
+company_Pinterest,Pearson,0.0088,Low
+Ticker_TNL,Pearson,0.0088,Low
+CEO_Jay D. Farner,Pearson,0.0088,Low
+company_Interactive Brokers Group,Pearson,0.0088,Low
+Ticker_RFP,Pearson,0.0088,Low
+company_Playtika Holding,Pearson,0.0088,Low
+Website_https://www.itt.com,Pearson,0.0088,Low
+CEO_Stephen F. Cooper,Pearson,0.0088,Low
+CEO_Michael D. Brown,Pearson,0.0088,Low
+Website_https://www.rocketcompanies.com,Pearson,0.0088,Low
+Ticker_RKT,Pearson,0.0088,Low
+Website_https://www.interactivebrokers.com,Pearson,0.0088,Low
+company_Casey's General Stores,Pearson,0.0088,Low
+CEO_William J. Ready,Pearson,0.0088,Low
+company_Acuity Brands,Pearson,0.0088,Low
+Ticker_WMG,Pearson,0.0088,Low
+Ticker_ITT,Pearson,0.0088,Low
+CEO_Darren M. Rebelez,Pearson,0.0088,Low
+CEO_Rex D. Geveden,Pearson,0.0088,Low
+company_Travel + Leisure,Pearson,0.0088,Low
+CEO_Robert Antokol,Pearson,0.0088,Low
+Website_https://www.wmg.com,Pearson,0.0088,Low
+Website_https://www.xpo.com,Pearson,0.0087,Low
+company_Stewart Information Services,Pearson,0.0087,Low
+company_TriNet Group,Pearson,0.0087,Low
+Ticker_NWSA,Pearson,0.0087,Low
+CEO_David L. Rawlinson II,Pearson,0.0087,Low
+CEO_Robert M. Buck,Pearson,0.0087,Low
+CEO_Michael D. Casey,Pearson,0.0087,Low
+Website_https://www.archrsc.com,Pearson,0.0087,Low
+company_MasTec,Pearson,0.0087,Low
+company_Carter's,Pearson,0.0087,Low
+CEO_Susan Salka,Pearson,0.0087,Low
+company_Arch Resources,Pearson,0.0087,Low
+city_Providence,Pearson,0.0087,Low
+Ticker_ARCH,Pearson,0.0087,Low
+Ticker_STC,Pearson,0.0087,Low
+prev_rank_337.0,Pearson,0.0087,Low
+company_Welltower,Pearson,0.0087,Low
+company_XPO Logistics,Pearson,0.0087,Low
+CEO_Andrew W. Houston,Pearson,0.0087,Low
+Ticker_AMN,Pearson,0.0087,Low
+Website_https://www.qurateretail.com,Pearson,0.0087,Low
+Website_https://www.stewart.com,Pearson,0.0087,Low
+Ticker_TNET,Pearson,0.0087,Low
+Ticker_ELY,Pearson,0.0087,Low
+Ticker_WELL,Pearson,0.0087,Low
+CEO_Frederick Eppinger,Pearson,0.0087,Low
+Website_https://www.trinet.com,Pearson,0.0087,Low
+CEO_Paul A. Lang,Pearson,0.0087,Low
+city_Coral Gables,Pearson,0.0087,Low
+prev_rank_441.0,Pearson,0.0087,Low
+CEO_José R. Mas,Pearson,0.0087,Low
+CEO_Robert J. Thomson,Pearson,0.0087,Low
+Website_https://www.f5.com,Pearson,0.0087,Low
+Website_https://www.topbuild.com,Pearson,0.0087,Low
+CEO_Oliver G. Brewer III,Pearson,0.0087,Low
+CEO_Brad Jacobs,Pearson,0.0087,Low
+company_Qurate Retail,Pearson,0.0087,Low
+Ticker_CRI,Pearson,0.0087,Low
+company_News Corp.,Pearson,0.0087,Low
+Website_https://www.carters.com,Pearson,0.0087,Low
+company_Dropbox,Pearson,0.0087,Low
+Ticker_QRTEA,Pearson,0.0087,Low
+Website_https://www.amnhealthcare.com,Pearson,0.0087,Low
+prev_rank_216.0,Pearson,0.0087,Low
+company_AMN Healthcare Services,Pearson,0.0087,Low
+Website_https://www.callawaygolf.com,Pearson,0.0087,Low
+Ticker_XPO,Pearson,0.0087,Low
+Website_https://www.newscorp.com,Pearson,0.0087,Low
+Ticker_MTZ,Pearson,0.0087,Low
+prev_rank_190.0,Pearson,0.0087,Low
+Website_https://www.dropbox.com,Pearson,0.0087,Low
+Ticker_BLD,Pearson,0.0087,Low
+Website_https://www.welltower.com,Pearson,0.0087,Low
+Ticker_FFIV,Pearson,0.0087,Low
+CEO_Shankh S. Mitra,Pearson,0.0087,Low
+Website_https://www.mastec.com,Pearson,0.0087,Low
+Ticker_DBX,Pearson,0.0087,Low
+CEO_Burton M. Goldfield,Pearson,0.0087,Low
+company_F5,Pearson,0.0087,Low
+company_Topgolf Callaway Brands,Pearson,0.0087,Low
+company_TopBuild,Pearson,0.0087,Low
+CEO_Fran?ois Locoh-Donou,Pearson,0.0087,Low
+company_Silgan Holdings,Pearson,0.0086,Low
+company_Sonic Automotive,Pearson,0.0086,Low
+CEO_David Bruton Smith,Pearson,0.0086,Low
+CEO_Colin Browne,Pearson,0.0086,Low
+Ticker_GHC,Pearson,0.0086,Low
+Ticker_ROL,Pearson,0.0086,Low
+Website_https://www.rollins.com,Pearson,0.0086,Low
+CEO_Amir Aghdaei,Pearson,0.0086,Low
+prev_rank_308.0,Pearson,0.0086,Low
+Website_https://www.silganholdings.com,Pearson,0.0086,Low
+Ticker_COLM,Pearson,0.0086,Low
+Website_https://https://about.underarmour.com,Pearson,0.0086,Low
+CEO_Adam J. Greenlee,Pearson,0.0086,Low
+company_Envista Holdings,Pearson,0.0086,Low
+city_Palm Beach Gardens,Pearson,0.0086,Low
+Website_https://www.realogy.com,Pearson,0.0086,Low
+Website_https://www.ghco.com,Pearson,0.0086,Low
+company_Anywhere Real Estate,Pearson,0.0086,Low
+Website_https://www.sonicautomotive.com,Pearson,0.0086,Low
+company_Peabody Energy,Pearson,0.0086,Low
+company_Microchip Technology,Pearson,0.0086,Low
+city_Brea,Pearson,0.0086,Low
+Website_https://www.columbia.com,Pearson,0.0086,Low
+CEO_Ryan M. Schneider,Pearson,0.0086,Low
+Website_https://www.peabodyenergy.com,Pearson,0.0086,Low
+CEO_James C. Grech,Pearson,0.0086,Low
+Ticker_UAA,Pearson,0.0086,Low
+Ticker_SLGN,Pearson,0.0086,Low
+city_Chandler,Pearson,0.0086,Low
+company_Graham Holdings,Pearson,0.0086,Low
+Website_https://www.envistaco.com,Pearson,0.0086,Low
+company_Columbia Sportswear,Pearson,0.0086,Low
+company_Rollins,Pearson,0.0086,Low
+prev_rank_445.0,Pearson,0.0086,Low
+CEO_Ganesh Moorthy,Pearson,0.0086,Low
+CEO_Gary W. Rollins,Pearson,0.0086,Low
+Ticker_SAH,Pearson,0.0086,Low
+Website_https://www.microchip.com,Pearson,0.0086,Low
+Ticker_BTU,Pearson,0.0086,Low
+CEO_Timothy P. Boyle,Pearson,0.0086,Low
+CEO_Timothy J. O?Shaughnessy,Pearson,0.0086,Low
+Ticker_HOUS,Pearson,0.0086,Low
+company_Under Armour,Pearson,0.0086,Low
+Ticker_MCHP,Pearson,0.0086,Low
+Ticker_NVST,Pearson,0.0086,Low
+CEO_David L. Goodin,Pearson,0.0085,Low
+Ticker_HTZ,Pearson,0.0085,Low
+city_Estero,Pearson,0.0085,Low
+company_Sun Communities,Pearson,0.0085,Low
+Website_https://www.mdu.com,Pearson,0.0085,Low
+Ticker_MDU,Pearson,0.0085,Low
+city_Detroit,Pearson,0.0085,Low
+Ticker_SUI,Pearson,0.0085,Low
+city_Bismarck,Pearson,0.0085,Low
+CEO_Matt Wilson,Pearson,0.0085,Low
+Website_https://www.primerica.com,Pearson,0.0085,Low
+state_ND,Pearson,0.0085,Low
+Website_https://www.hertz.com,Pearson,0.0085,Low
+Ticker_LNW,Pearson,0.0085,Low
+CEO_Stephen M. Scherr,Pearson,0.0085,Low
+Ticker_FRG,Pearson,0.0085,Low
+Website_https://www.lear.com,Pearson,0.0085,Low
+Website_https://www.lnw.com,Pearson,0.0085,Low
+Website_https://www.franchisegrp.com,Pearson,0.0085,Low
+Website_https://www.suncommunities.com,Pearson,0.0085,Low
+company_Franchise Group,Pearson,0.0085,Low
+CEO_Richard G. Kyle,Pearson,0.0085,Low
+CEO_Gary A. Shiffman,Pearson,0.0085,Low
+company_Timken,Pearson,0.0085,Low
+company_Hertz Global Holdings,Pearson,0.0085,Low
+CEO_Brian R. Kahn,Pearson,0.0085,Low
+company_Lear,Pearson,0.0085,Low
+company_Light & Wonder,Pearson,0.0085,Low
+CEO_Raymond E. Scott,Pearson,0.0085,Low
+CEO_Glenn J. Williams,Pearson,0.0085,Low
+company_MDU Resources Group,Pearson,0.0085,Low
+city_North Canton,Pearson,0.0085,Low
+prev_rank_179.0,Pearson,0.0085,Low
+Website_https://www.timken.com,Pearson,0.0085,Low
+Ticker_TKR,Pearson,0.0085,Low
+Ticker_PRI,Pearson,0.0085,Low
+Ticker_LEA,Pearson,0.0085,Low
+company_Primerica,Pearson,0.0085,Low
+Ticker_MAN,Pearson,0.0084,Low
+company_CSX,Pearson,0.0084,Low
+CEO_Jonathan E. Johnson III,Pearson,0.0084,Low
+CEO_Jonas Prising,Pearson,0.0084,Low
+Website_https://www.overstock.com,Pearson,0.0084,Low
+Ticker_SNX,Pearson,0.0084,Low
+CEO_Joseph R. Hinrichs,Pearson,0.0084,Low
+Ticker_LSTR,Pearson,0.0084,Low
+Ticker_GEF,Pearson,0.0084,Low
+company_M/I Homes,Pearson,0.0084,Low
+Ticker_CRL,Pearson,0.0084,Low
+CEO_Gerben W. Bakker,Pearson,0.0084,Low
+company_Liberty Media,Pearson,0.0084,Low
+city_Shelton,Pearson,0.0084,Low
+company_Deckers Outdoor,Pearson,0.0084,Low
+city_Midvale,Pearson,0.0084,Low
+CEO_Ole Rosgaard,Pearson,0.0084,Low
+prev_rank_165.0,Pearson,0.0084,Low
+Website_https://www.criver.com,Pearson,0.0084,Low
+Website_https://www.csx.com,Pearson,0.0084,Low
+company_DCP Midstream,Pearson,0.0084,Low
+CEO_Richard T. Hume,Pearson,0.0084,Low
+Ticker_DCP,Pearson,0.0084,Low
+CEO_David Powers,Pearson,0.0084,Low
+Website_https://www.deckers.com,Pearson,0.0084,Low
+Ticker_DECK,Pearson,0.0084,Low
+CEO_R. Andrew Clyde,Pearson,0.0084,Low
+Ticker_MUSA,Pearson,0.0084,Low
+Ticker_EME,Pearson,0.0084,Low
+Website_https://www.dcpmidstream.com,Pearson,0.0084,Low
+CEO_Gregory B. Maffei,Pearson,0.0084,Low
+company_Landstar System,Pearson,0.0084,Low
+Ticker_OSTK,Pearson,0.0084,Low
+company_Greif,Pearson,0.0084,Low
+prev_rank_322.0,Pearson,0.0084,Low
+prev_rank_326.0,Pearson,0.0084,Low
+company_Overstock.com,Pearson,0.0084,Low
+Website_www.tdsynnex.com,Pearson,0.0084,Low
+Website_https://www.greif.com,Pearson,0.0084,Low
+CEO_James B. Gattoni,Pearson,0.0084,Low
+CEO_James C. Foster,Pearson,0.0084,Low
+Ticker_CSX,Pearson,0.0084,Low
+CEO_Anthony J. Guzzi,Pearson,0.0084,Low
+prev_rank_344.0,Pearson,0.0084,Low
+Website_https://www.emcorgroup.com,Pearson,0.0084,Low
+CEO_Robert H. Schottenstein,Pearson,0.0084,Low
+Website_https://www.mihomes.com,Pearson,0.0084,Low
+city_Goleta,Pearson,0.0084,Low
+company_EMCOR Group,Pearson,0.0084,Low
+company_ManpowerGroup,Pearson,0.0084,Low
+company_Murphy USA,Pearson,0.0084,Low
+city_El Dorado,Pearson,0.0084,Low
+prev_rank_442.0,Pearson,0.0084,Low
+Website_https://www.libertymedia.com,Pearson,0.0084,Low
+Ticker_MHO,Pearson,0.0084,Low
+Website_https://www.murphyusa.com,Pearson,0.0084,Low
+prev_rank_292.0,Pearson,0.0084,Low
+company_TD Synnex,Pearson,0.0084,Low
+Website_https://www.manpowergroup.com,Pearson,0.0084,Low
+Website_https://www.landstar.com,Pearson,0.0084,Low
+company_Hubbell,Pearson,0.0084,Low
+Website_https://www.hubbell.com,Pearson,0.0084,Low
+prev_rank_117.0,Pearson,0.0084,Low
+Ticker_LSXMA,Pearson,0.0084,Low
+Ticker_HUBB,Pearson,0.0084,Low
+CEO_Wouter T. van Kempen,Pearson,0.0084,Low
+company_Charles River Laboratories International,Pearson,0.0084,Low
+city_Bloomington,Pearson,0.0083,Low
+Website_https://www.asgn.com,Pearson,0.0083,Low
+CEO_Steven Rendle,Pearson,0.0083,Low
+city_Livonia,Pearson,0.0083,Low
+company_Hilton Worldwide Holdings,Pearson,0.0083,Low
+company_Masco,Pearson,0.0083,Low
+Website_https://www.hilton.com,Pearson,0.0083,Low
+Ticker_CMC,Pearson,0.0083,Low
+Website_https://www.rangeresources.com,Pearson,0.0083,Low
+company_PENN Entertainment,Pearson,0.0083,Low
+prev_rank_422.0,Pearson,0.0083,Low
+Website_https://www.aresmgmt.com,Pearson,0.0083,Low
+CEO_Michael Arougheti,Pearson,0.0083,Low
+CEO_Michael B. O?Sullivan,Pearson,0.0083,Low
+prev_rank_263.0,Pearson,0.0083,Low
+CEO_John C. Pfeifer,Pearson,0.0083,Low
+Ticker_ARES,Pearson,0.0083,Low
+CEO_Mark J. Tarr,Pearson,0.0083,Low
+CEO_Mark D. Morelli,Pearson,0.0083,Low
+city_Green Bay,Pearson,0.0083,Low
+city_Branchville,Pearson,0.0083,Low
+company_Bank of New York Mellon,Pearson,0.0083,Low
+Ticker_SNDR,Pearson,0.0083,Low
+company_Oshkosh,Pearson,0.0083,Low
+city_Mechanicsburg,Pearson,0.0083,Low
+CEO_Samuel J. Mitchell Jr.,Pearson,0.0083,Low
+city_Wyomissing,Pearson,0.0083,Low
+city_Worcester,Pearson,0.0083,Low
+Ticker_RRC,Pearson,0.0083,Low
+CEO_John J. Marchioni,Pearson,0.0083,Low
+CEO_John C. Roche,Pearson,0.0083,Low
+Ticker_SIGI,Pearson,0.0083,Low
+company_Burlington Stores,Pearson,0.0083,Low
+Website_https://www.leggett.com,Pearson,0.0083,Low
+prev_rank_492.0,Pearson,0.0083,Low
+Ticker_MAS,Pearson,0.0083,Low
+company_Encompass Health,Pearson,0.0083,Low
+Website_https://www.oshkoshcorp.com,Pearson,0.0083,Low
+Ticker_BURL,Pearson,0.0083,Low
+Ticker_FIS,Pearson,0.0083,Low
+CEO_Simon D. Campion,Pearson,0.0083,Low
+prev_rank_241.0,Pearson,0.0083,Low
+company_Fidelity National Information Services,Pearson,0.0083,Low
+company_ASGN,Pearson,0.0083,Low
+Ticker_XRAY,Pearson,0.0083,Low
+Ticker_ZBH,Pearson,0.0083,Low
+Website_https://www.burlingtoninvestors.com,Pearson,0.0083,Low
+Ticker_BK,Pearson,0.0083,Low
+prev_rank_471.0,Pearson,0.0083,Low
+CEO_Keith J. Allman,Pearson,0.0083,Low
+Website_https://www.bnymellon.com,Pearson,0.0083,Low
+Website_https://www.masco.com,Pearson,0.0083,Low
+CEO_Mark B. Rourke,Pearson,0.0083,Low
+city_Carthage,Pearson,0.0083,Low
+Ticker_ASGN,Pearson,0.0083,Low
+Ticker_SEM,Pearson,0.0083,Low
+Website_https://www.pennentertainment.com,Pearson,0.0083,Low
+Ticker_CNXC,Pearson,0.0083,Low
+prev_rank_414.0,Pearson,0.0083,Low
+Ticker_LEG,Pearson,0.0083,Low
+Website_https://www.hanover.com,Pearson,0.0083,Low
+Website_https://www.selective.com,Pearson,0.0083,Low
+Website_https://www.selectmedicalholdings.com,Pearson,0.0083,Low
+company_Watsco,Pearson,0.0083,Low
+company_Commercial Metals,Pearson,0.0083,Low
+company_Concentrix,Pearson,0.0083,Low
+Ticker_ENTG,Pearson,0.0083,Low
+Website_https://www.cmc.com,Pearson,0.0083,Low
+company_Ares Management,Pearson,0.0083,Low
+company_Range Resources,Pearson,0.0083,Low
+Website_https://www.fisglobal.com,Pearson,0.0083,Low
+Ticker_TTC,Pearson,0.0083,Low
+CEO_Barbara R. Smith,Pearson,0.0083,Low
+city_Palo Alto,Pearson,0.0083,Low
+prev_rank_180.0,Pearson,0.0083,Low
+CEO_Theodore S. Hanson,Pearson,0.0083,Low
+company_Entegris,Pearson,0.0083,Low
+company_Hanover Insurance Group,Pearson,0.0083,Low
+Website_https://www.thetorocompany.com,Pearson,0.0083,Low
+company_Zimmer Biomet Holdings,Pearson,0.0083,Low
+city_Oshkosh,Pearson,0.0083,Low
+CEO_Robin Vince,Pearson,0.0083,Low
+company_Dentsply Sirona,Pearson,0.0083,Low
+CEO_Jay A. Snowden,Pearson,0.0083,Low
+CEO_Jeffrey L. Ventura,Pearson,0.0083,Low
+Ticker_AEO,Pearson,0.0083,Low
+Website_https://www.schneider.com,Pearson,0.0083,Low
+CEO_J. Mitchell Dolloff,Pearson,0.0083,Low
+CEO_Jay L. Schottenstein,Pearson,0.0083,Low
+CEO_Albert H. Nahmad,Pearson,0.0083,Low
+Ticker_THG,Pearson,0.0083,Low
+company_VF Corp.,Pearson,0.0083,Low
+CEO_Bertrand Loy,Pearson,0.0083,Low
+Website_https://www.aeo-inc.com,Pearson,0.0083,Low
+company_Vontier,Pearson,0.0083,Low
+company_Toro,Pearson,0.0083,Low
+CEO_Christopher J. Nassetta,Pearson,0.0083,Low
+CEO_Richard M. Olson,Pearson,0.0083,Low
+company_Schneider National,Pearson,0.0083,Low
+Website_https://www.valvoline.com,Pearson,0.0083,Low
+Website_https://www.entegris.com,Pearson,0.0083,Low
+Website_https://www.encompasshealth.com,Pearson,0.0083,Low
+prev_rank_398.0,Pearson,0.0083,Low
+Website_https://www.vontier.com,Pearson,0.0083,Low
+CEO_Christopher A. Caldwell,Pearson,0.0083,Low
+CEO_Bryan C. Hanson,Pearson,0.0083,Low
+company_Valvoline,Pearson,0.0083,Low
+Ticker_OSK,Pearson,0.0083,Low
+Ticker_PENN,Pearson,0.0083,Low
+company_Leggett & Platt,Pearson,0.0083,Low
+Website_https://www.watsco.com,Pearson,0.0083,Low
+Website_https://www.zimmerbiomet.com,Pearson,0.0083,Low
+Website_https://www.concentrix.com,Pearson,0.0083,Low
+Ticker_EHC,Pearson,0.0083,Low
+Website_https://www.vfc.com,Pearson,0.0083,Low
+Ticker_VFC,Pearson,0.0083,Low
+Ticker_VNT,Pearson,0.0083,Low
+CEO_Gary A. Norcross,Pearson,0.0083,Low
+Ticker_HLT,Pearson,0.0083,Low
+Ticker_VVV,Pearson,0.0083,Low
+company_American Eagle Outfitters,Pearson,0.0083,Low
+company_Selective Insurance Group,Pearson,0.0083,Low
+company_Select Medical Holdings,Pearson,0.0083,Low
+city_Warsaw,Pearson,0.0083,Low
+Website_https://www.dentsplysirona.com,Pearson,0.0083,Low
+CEO_David S. Chernow,Pearson,0.0083,Low
+Ticker_WSO,Pearson,0.0083,Low
+company_Alcoa,Pearson,0.0082,Low
+CEO_D. Christian Koch,Pearson,0.0082,Low
+prev_rank_330.0,Pearson,0.0082,Low
+Ticker_CNO,Pearson,0.0082,Low
+city_Tampa,Pearson,0.0082,Low
+company_Crane Holdings,Pearson,0.0082,Low
+Website_https://www.craneco.com,Pearson,0.0082,Low
+company_LGI Homes,Pearson,0.0082,Low
+Ticker_XYL,Pearson,0.0082,Low
+city_Westborough,Pearson,0.0082,Low
+Website_https://www.cnoinc.com,Pearson,0.0082,Low
+CEO_Robert W. Eddy,Pearson,0.0082,Low
+CEO_Mikael Bratt,Pearson,0.0082,Low
+prev_rank_392.0,Pearson,0.0082,Low
+city_Pawtucket,Pearson,0.0082,Low
+CEO_Patrick K. Decker,Pearson,0.0082,Low
+Ticker_CSL,Pearson,0.0082,Low
+Ticker_CR,Pearson,0.0082,Low
+company_Carlisle,Pearson,0.0082,Low
+Website_https://www.hasbro.com,Pearson,0.0082,Low
+Website_https://www.lgihomes.com,Pearson,0.0082,Low
+CEO_Max H. Mitchell,Pearson,0.0082,Low
+CEO_Roy C. Harvey,Pearson,0.0082,Low
+CEO_Christian Cocks,Pearson,0.0082,Low
+Website_https://www.autoliv.com,Pearson,0.0082,Low
+Ticker_ALV,Pearson,0.0082,Low
+company_BJ&#8217;s Wholesale Club,Pearson,0.0082,Low
+Ticker_LGIH,Pearson,0.0082,Low
+company_Autoliv,Pearson,0.0082,Low
+prev_rank_494.0,Pearson,0.0082,Low
+company_CNO Financial Group,Pearson,0.0082,Low
+Ticker_BJ,Pearson,0.0082,Low
+Website_https://www.bjs.com,Pearson,0.0082,Low
+Website_https://www.carlisle.com,Pearson,0.0082,Low
+company_Xylem,Pearson,0.0082,Low
+Ticker_AA,Pearson,0.0082,Low
+prev_rank_198.0,Pearson,0.0082,Low
+Website_https://www.alcoa.com,Pearson,0.0082,Low
+company_Hasbro,Pearson,0.0082,Low
+Website_https://www.xylem.com,Pearson,0.0082,Low
+Ticker_HAS,Pearson,0.0082,Low
+CEO_Gary C. Bhojwani,Pearson,0.0082,Low
+CEO_Eric Lipar,Pearson,0.0082,Low
+CEO_John S. Mengucci,Pearson,0.0081,Low
+Ticker_ALSN,Pearson,0.0081,Low
+Ticker_TDY,Pearson,0.0081,Low
+company_Nordson,Pearson,0.0081,Low
+company_IDEX,Pearson,0.0081,Low
+Ticker_LPLA,Pearson,0.0081,Low
+CEO_Sundaram Nagarajan,Pearson,0.0081,Low
+Ticker_CACI,Pearson,0.0081,Low
+Website_https://www.lpl.com,Pearson,0.0081,Low
+prev_rank_466.0,Pearson,0.0081,Low
+Website_https://www.nordson.com,Pearson,0.0081,Low
+Website_https://www.caci.com,Pearson,0.0081,Low
+CEO_David C. Jukes,Pearson,0.0081,Low
+company_CACI International,Pearson,0.0081,Low
+company_Iron Mountain,Pearson,0.0081,Low
+Website_https://www.idexcorp.com,Pearson,0.0081,Low
+prev_rank_362.0,Pearson,0.0081,Low
+CEO_David S. Graziosi,Pearson,0.0081,Low
+company_LPL Financial Holdings,Pearson,0.0081,Low
+Ticker_NDSN,Pearson,0.0081,Low
+CEO_Robert Mehrabian,Pearson,0.0081,Low
+Ticker_IRM,Pearson,0.0081,Low
+Website_https://www.ironmountain.com,Pearson,0.0081,Low
+Website_https://www.allisontransmission.com,Pearson,0.0081,Low
+Website_https://www.teledyne.com,Pearson,0.0081,Low
+Ticker_UNVR,Pearson,0.0081,Low
+company_Allison Transmission Holdings,Pearson,0.0081,Low
+company_Univar Solutions,Pearson,0.0081,Low
+Website_https://www.univarsolutions.com,Pearson,0.0081,Low
+Ticker_IEX,Pearson,0.0081,Low
+CEO_William L. Meaney,Pearson,0.0081,Low
+CEO_Eric D. Ashleman,Pearson,0.0081,Low
+CEO_Dan H. Arnold,Pearson,0.0081,Low
+company_Teledyne Technologies,Pearson,0.0081,Low
+CEO_Benito Minicucci,Pearson,0.008,Low
+Website_https://www.virtu.com,Pearson,0.008,Low
+company_ResMed,Pearson,0.008,Low
+CEO_Arkadiy Dobkin,Pearson,0.008,Low
+Ticker_AEL,Pearson,0.008,Low
+prev_rank_225.0,Pearson,0.008,Low
+CEO_David T. Lougee,Pearson,0.008,Low
+company_TEGNA,Pearson,0.008,Low
+company_Lennox International,Pearson,0.008,Low
+city_West Des Moines,Pearson,0.008,Low
+city_Richardson,Pearson,0.008,Low
+Website_https://www.epam.com,Pearson,0.008,Low
+Ticker_EPAM,Pearson,0.008,Low
+city_Incline Village,Pearson,0.008,Low
+CEO_Michael J. Farrell,Pearson,0.008,Low
+Ticker_RMD,Pearson,0.008,Low
+Website_https://www.firstsolar.com,Pearson,0.008,Low
+city_Newtown,Pearson,0.008,Low
+Website_https://www.lennoxinternational.com,Pearson,0.008,Low
+Ticker_WCC,Pearson,0.008,Low
+Website_https://www.jacobs.com,Pearson,0.008,Low
+Ticker_J,Pearson,0.008,Low
+CEO_Douglas F. Bauer,Pearson,0.008,Low
+company_Alaska Air Group,Pearson,0.008,Low
+CEO_Douglas Cifu,Pearson,0.008,Low
+company_First Solar,Pearson,0.008,Low
+prev_rank_245.0,Pearson,0.008,Low
+Ticker_VIRT,Pearson,0.008,Low
+company_Tri Pointe Homes,Pearson,0.008,Low
+company_Virtu Financial,Pearson,0.008,Low
+Website_https://www.wesco.com,Pearson,0.008,Low
+company_American Equity Investment Life Holding,Pearson,0.008,Low
+Website_https://www.tripointehomes.com,Pearson,0.008,Low
+CEO_John J. Engel,Pearson,0.008,Low
+Website_https://www.alaskaair.com,Pearson,0.008,Low
+city_Arlington,Pearson,0.008,Low
+Website_https://www.resmed.com,Pearson,0.008,Low
+Ticker_LII,Pearson,0.008,Low
+CEO_Steven J. Demetriou,Pearson,0.008,Low
+Ticker_TPH,Pearson,0.008,Low
+Ticker_ALK,Pearson,0.008,Low
+company_EPAM Systems,Pearson,0.008,Low
+Ticker_FSLR,Pearson,0.008,Low
+company_Mueller Industries,Pearson,0.008,Low
+city_Collierville,Pearson,0.008,Low
+Ticker_MLI,Pearson,0.008,Low
+Website_https://www.muellerindustries.com,Pearson,0.008,Low
+Website_https://www.boydgaming.com,Pearson,0.008,Low
+company_Boyd Gaming,Pearson,0.008,Low
+company_Jacobs Engineering Group,Pearson,0.008,Low
+CEO_Keith E. Smith,Pearson,0.008,Low
+Ticker_BYD,Pearson,0.008,Low
+CEO_Mark R. Widmar,Pearson,0.008,Low
+Website_https://www.american-equity.com,Pearson,0.008,Low
+Website_https://www.tegna.com,Pearson,0.008,Low
+company_WESCO International,Pearson,0.008,Low
+Ticker_TGNA,Pearson,0.008,Low
+CEO_Anant Bhalla,Pearson,0.008,Low
+CEO_Alok Maskara,Pearson,0.008,Low
+CEO_Gregory L. Christopher,Pearson,0.008,Low
+Ticker_EQIX,Pearson,0.0079,Low
+company_Ciena,Pearson,0.0079,Low
+city_San Rafael,Pearson,0.0079,Low
+Website_https://www.etsy.com,Pearson,0.0079,Low
+Website_https://www.equinix.com,Pearson,0.0079,Low
+Ticker_PII,Pearson,0.0079,Low
+CEO_Robert G. Painter,Pearson,0.0079,Low
+city_Wayne,Pearson,0.0079,Low
+company_A.O. Smith,Pearson,0.0079,Low
+Website_https://www.ciena.com,Pearson,0.0079,Low
+Ticker_CIEN,Pearson,0.0079,Low
+Ticker_PWR,Pearson,0.0079,Low
+Ticker_CCS,Pearson,0.0079,Low
+prev_rank_407.0,Pearson,0.0079,Low
+CEO_Michael T. Speetzen,Pearson,0.0079,Low
+company_Century Communities,Pearson,0.0079,Low
+CEO_Liam J. Kelly,Pearson,0.0079,Low
+Ticker_MIDD,Pearson,0.0079,Low
+CEO_Kevin J. Wheeler,Pearson,0.0079,Low
+Website_https://www.centurycommunities.com,Pearson,0.0079,Low
+Ticker_ETSY,Pearson,0.0079,Low
+city_Hanover,Pearson,0.0079,Low
+city_Greenwood Village,Pearson,0.0079,Low
+company_Middleby,Pearson,0.0079,Low
+prev_rank_278.0,Pearson,0.0079,Low
+Website_https://www.autodesk.com,Pearson,0.0079,Low
+company_Autodesk,Pearson,0.0079,Low
+Ticker_TFX,Pearson,0.0079,Low
+Website_https://www.atlasairworldwide.com,Pearson,0.0079,Low
+Ticker_AOS,Pearson,0.0079,Low
+CEO_John W. Dietrich,Pearson,0.0079,Low
+Website_https://www.quantaservices.com,Pearson,0.0079,Low
+company_Atlas Air Worldwide Holdings,Pearson,0.0079,Low
+Website_https://www.polaris.com,Pearson,0.0079,Low
+city_Brooklyn,Pearson,0.0079,Low
+CEO_Josh Silverman,Pearson,0.0079,Low
+prev_rank_461.0,Pearson,0.0079,Low
+Website_https://www.middleby.com,Pearson,0.0079,Low
+city_Elgin,Pearson,0.0079,Low
+Ticker_ADSK,Pearson,0.0079,Low
+company_Polaris,Pearson,0.0079,Low
+Website_https://www.trimble.com,Pearson,0.0079,Low
+Website_https://www.teleflex.com,Pearson,0.0079,Low
+Ticker_TRMB,Pearson,0.0079,Low
+company_Quanta Services,Pearson,0.0079,Low
+Website_https://www.aosmith.com,Pearson,0.0079,Low
+CEO_Andrew Anagnost,Pearson,0.0079,Low
+Ticker_AAWW,Pearson,0.0079,Low
+company_Equinix,Pearson,0.0079,Low
+company_Trimble,Pearson,0.0079,Low
+company_Etsy,Pearson,0.0079,Low
+CEO_Timothy J. FitzGerald,Pearson,0.0079,Low
+CEO_Charles J. Meyers,Pearson,0.0079,Low
+CEO_Gary B. Smith,Pearson,0.0079,Low
+company_Teleflex,Pearson,0.0079,Low
+CEO_Dale Francescon/Robert Francescon,Pearson,0.0079,Low
+CEO_Earl C. Austin Jr.,Pearson,0.0079,Low
+company_Travelers,Pearson,0.0078,Low
+CEO_Owen D. Thomas,Pearson,0.0078,Low
+city_Parsippany,Pearson,0.0078,Low
+Website_https://www.ryder.com,Pearson,0.0078,Low
+Website_https://www.scotts.com,Pearson,0.0078,Low
+Website_https://www.sealedair.com,Pearson,0.0078,Low
+company_Sealed Air,Pearson,0.0078,Low
+city_Ann Arbor,Pearson,0.0078,Low
+company_Scotts Miracle-Gro,Pearson,0.0078,Low
+CEO_Russell J. Weiner,Pearson,0.0078,Low
+company_Domino's Pizza,Pearson,0.0078,Low
+prev_rank_98.0,Pearson,0.0078,Low
+Ticker_TRV,Pearson,0.0078,Low
+Website_www.travelers.com,Pearson,0.0078,Low
+CEO_Alan D. Schnitzer,Pearson,0.0078,Low
+CEO_Robert E. Sanchez,Pearson,0.0078,Low
+company_Ryder System,Pearson,0.0078,Low
+company_Boston Properties,Pearson,0.0078,Low
+Ticker_SEE,Pearson,0.0078,Low
+Ticker_DPZ,Pearson,0.0078,Low
+Ticker_RPM,Pearson,0.0078,Low
+Website_https://www.dominos.com,Pearson,0.0078,Low
+CEO_Frank C. Sullivan,Pearson,0.0078,Low
+CEO_Edward L. Doheny II,Pearson,0.0078,Low
+Ticker_SMG,Pearson,0.0078,Low
+prev_rank_357.0,Pearson,0.0078,Low
+Ticker_R,Pearson,0.0078,Low
+city_Marysville,Pearson,0.0078,Low
+company_RPM International,Pearson,0.0078,Low
+CEO_James S. Hagedorn,Pearson,0.0078,Low
+Website_https://www.rpminc.com,Pearson,0.0078,Low
+city_Jacksonville,Pearson,0.0078,Low
+Ticker_BXP,Pearson,0.0078,Low
+Website_https://www.bxp.com,Pearson,0.0078,Low
+Website_https://www.asburyauto.com,Pearson,0.0077,Low
+Ticker_CBOE,Pearson,0.0077,Low
+company_BorgWarner,Pearson,0.0077,Low
+CEO_Kevin P. Hourican,Pearson,0.0077,Low
+Ticker_UFPI,Pearson,0.0077,Low
+prev_rank_295.0,Pearson,0.0077,Low
+CEO_David W. Hult,Pearson,0.0077,Low
+company_Sysco,Pearson,0.0077,Low
+Website_https://www.cboe.com,Pearson,0.0077,Low
+CEO_Daniel Jones,Pearson,0.0077,Low
+prev_rank_405.0,Pearson,0.0077,Low
+CEO_Edward T. Tilly,Pearson,0.0077,Low
+Ticker_WIRE,Pearson,0.0077,Low
+Ticker_BWA,Pearson,0.0077,Low
+city_Radnor,Pearson,0.0077,Low
+Website_https://www.ufpi.com,Pearson,0.0077,Low
+CEO_Frederic B. Lissalde,Pearson,0.0077,Low
+company_Asbury Automotive Group,Pearson,0.0077,Low
+Website_https://www.borgwarner.com,Pearson,0.0077,Low
+Ticker_ABG,Pearson,0.0077,Low
+CEO_Matthew Missad,Pearson,0.0077,Low
+company_Encore Wire,Pearson,0.0077,Low
+company_UFP Industries,Pearson,0.0077,Low
+prev_rank_60.0,Pearson,0.0077,Low
+Website_https://www.encorewire.com,Pearson,0.0077,Low
+company_Cboe Global Markets,Pearson,0.0077,Low
+Ticker_SYY,Pearson,0.0077,Low
+Website_www.sysco.com,Pearson,0.0077,Low
+Ticker_IR,Pearson,0.0076,Low
+CEO_Timothy C. Gokey,Pearson,0.0076,Low
+CEO_Vincent Pilette,Pearson,0.0076,Low
+Ticker_MKSI,Pearson,0.0076,Low
+Website_https://www.broadridge.com,Pearson,0.0076,Low
+prev_rank_279.0,Pearson,0.0076,Low
+CEO_Earl J. Hesterberg,Pearson,0.0076,Low
+company_NortonLifeLock,Pearson,0.0076,Low
+city_Newport News,Pearson,0.0076,Low
+Website_https://www.generac.com,Pearson,0.0076,Low
+CEO_Vicente Reynal,Pearson,0.0076,Low
+Ticker_HII,Pearson,0.0076,Low
+Ticker_HES,Pearson,0.0076,Low
+city_Waukesha,Pearson,0.0076,Low
+Website_https://www.nortonlifelock.com,Pearson,0.0076,Low
+CEO_Charles Bergh,Pearson,0.0076,Low
+Ticker_LEVI,Pearson,0.0076,Low
+Ticker_GNRC,Pearson,0.0076,Low
+company_Group 1 Automotive,Pearson,0.0076,Low
+company_Broadridge Financial Solutions,Pearson,0.0076,Low
+company_MKS Instruments,Pearson,0.0076,Low
+Website_https://www.hess.com,Pearson,0.0076,Low
+Website_https://www.wabteccorp.com,Pearson,0.0076,Low
+Ticker_WAB,Pearson,0.0076,Low
+CEO_Michael C. Jennings,Pearson,0.0076,Low
+CEO_Rafael O. Santana,Pearson,0.0076,Low
+Website_https://www.hfsinclair.com,Pearson,0.0076,Low
+prev_rank_384.0,Pearson,0.0076,Low
+Website_https://www.group1auto.com,Pearson,0.0076,Low
+Ticker_COIN,Pearson,0.0076,Low
+company_Huntington Ingalls Industries,Pearson,0.0076,Low
+CEO_Christopher D. Kastner,Pearson,0.0076,Low
+prev_rank_327.0,Pearson,0.0076,Low
+Website_https://www.levistrauss.com,Pearson,0.0076,Low
+CEO_John T.C. Lee,Pearson,0.0076,Low
+company_HF Sinclair,Pearson,0.0076,Low
+company_Levi Strauss,Pearson,0.0076,Low
+Ticker_GPI,Pearson,0.0076,Low
+company_Ingersoll Rand,Pearson,0.0076,Low
+CEO_John B. Hess,Pearson,0.0076,Low
+company_Hess,Pearson,0.0076,Low
+CEO_Aaron Jagdfeld,Pearson,0.0076,Low
+Website_https://www.mksinst.com,Pearson,0.0076,Low
+city_Atlanta,Pearson,0.0076,Low
+prev_rank_286.0,Pearson,0.0076,Low
+city_Lake Success,Pearson,0.0076,Low
+Website_https://www.irco.com,Pearson,0.0076,Low
+company_Coinbase Global,Pearson,0.0076,Low
+city_Thousand Oaks,Pearson,0.0076,Low
+Ticker_DINO,Pearson,0.0076,Low
+company_Generac Holdings,Pearson,0.0076,Low
+city_Birmingham,Pearson,0.0076,Low
+Ticker_NLOK,Pearson,0.0076,Low
+company_Westinghouse Air Brake Technologies,Pearson,0.0076,Low
+Ticker_BR,Pearson,0.0076,Low
+Website_https://www.huntingtoningalls.com,Pearson,0.0076,Low
+city_Andover,Pearson,0.0076,Low
+CEO_Brian Armstrong,Pearson,0.0076,Low
+Website_https://www.coinbase.com,Pearson,0.0076,Low
+company_Alexandria Real Estate Equities,Pearson,0.0075,Low
+prev_rank_406.0,Pearson,0.0075,Low
+CEO_Michael Stubblefield,Pearson,0.0075,Low
+Website_https://www.seaboardcorp.com,Pearson,0.0075,Low
+Ticker_AVTR,Pearson,0.0075,Low
+Website_https://www.newellbrands.com,Pearson,0.0075,Low
+company_Seaboard,Pearson,0.0075,Low
+company_Affiliated Managers Group,Pearson,0.0075,Low
+Ticker_SEB,Pearson,0.0075,Low
+Website_https://www.kbhome.com,Pearson,0.0075,Low
+Website_https://www.amg.com,Pearson,0.0075,Low
+city_Akron,Pearson,0.0075,Low
+city_Merriam,Pearson,0.0075,Low
+Ticker_NWL,Pearson,0.0075,Low
+company_Avantor,Pearson,0.0075,Low
+CEO_Ravichandra K. Saligram,Pearson,0.0075,Low
+city_Evansville,Pearson,0.0075,Low
+CEO_Peter M. Moglia,Pearson,0.0075,Low
+CEO_Robert L. Steer,Pearson,0.0075,Low
+Website_https://www.are.com,Pearson,0.0075,Low
+CEO_Jeffrey T. Mezger,Pearson,0.0075,Low
+company_KB Home,Pearson,0.0075,Low
+city_West Palm Beach,Pearson,0.0075,Low
+prev_rank_325.0,Pearson,0.0075,Low
+Ticker_AMG,Pearson,0.0075,Low
+Ticker_ARE,Pearson,0.0075,Low
+Website_https://www.mdcholdings.com,Pearson,0.0075,Low
+prev_rank_438.0,Pearson,0.0075,Low
+CEO_David D. Mandarich,Pearson,0.0075,Low
+Ticker_MDC,Pearson,0.0075,Low
+Website_https://www.avantorsciences.com,Pearson,0.0075,Low
+company_MDC Holdings,Pearson,0.0075,Low
+CEO_Jay C. Horgen,Pearson,0.0075,Low
+Ticker_KBH,Pearson,0.0075,Low
+company_Newell Brands,Pearson,0.0075,Low
+Ticker_BC,Pearson,0.0074,Low
+Website_https://www.roberthalf.com,Pearson,0.0074,Low
+Ticker_IAC,Pearson,0.0074,Low
+CEO_Lloyd M. Yates,Pearson,0.0074,Low
+company_Robert Half International,Pearson,0.0074,Low
+city_Harvey,Pearson,0.0074,Low
+company_Brunswick,Pearson,0.0074,Low
+company_IAC,Pearson,0.0074,Low
+Website_https://www.bbinsurance.com,Pearson,0.0074,Low
+Website_https://www.brunswick.com,Pearson,0.0074,Low
+Ticker_TTWO,Pearson,0.0074,Low
+CEO_M. Keith Waddell,Pearson,0.0074,Low
+company_Atkore,Pearson,0.0074,Low
+Website_https://www.atkore.com,Pearson,0.0074,Low
+Website_https://www.catalent.com,Pearson,0.0074,Low
+Website_https://www.take2games.com,Pearson,0.0074,Low
+CEO_J. Powell Brown,Pearson,0.0074,Low
+Ticker_ATKR,Pearson,0.0074,Low
+city_San Diego,Pearson,0.0074,Low
+Website_https://www.nisource.com,Pearson,0.0074,Low
+CEO_Joseph M. Levin,Pearson,0.0074,Low
+city_Merrillville,Pearson,0.0074,Low
+company_Catalent,Pearson,0.0074,Low
+CEO_Alessandro Maselli,Pearson,0.0074,Low
+city_Mettawa,Pearson,0.0074,Low
+CEO_David M. Foulkes,Pearson,0.0074,Low
+Ticker_RHI,Pearson,0.0074,Low
+Ticker_BRO,Pearson,0.0074,Low
+Website_https://www.iac.com,Pearson,0.0074,Low
+CEO_Strauss H. Zelnick,Pearson,0.0074,Low
+company_Take-Two Interactive Software,Pearson,0.0074,Low
+company_NiSource,Pearson,0.0074,Low
+CEO_William E. Waltz,Pearson,0.0074,Low
+Ticker_CTLT,Pearson,0.0074,Low
+company_Brown & Brown,Pearson,0.0074,Low
+Ticker_NI,Pearson,0.0074,Low
+city_Somerset,Pearson,0.0074,Low
+Website_www.cardinalhealth.com,Pearson,0.0073,Low
+prev_rank_301.0,Pearson,0.0073,Low
+Ticker_UHAL,Pearson,0.0073,Low
+ceo_woman_yes,Pearson,0.0073,Low
+CEO_Horacio D. Rozanski,Pearson,0.0073,Low
+Website_https://www.boozallen.com,Pearson,0.0073,Low
+CEO_James A. Lico,Pearson,0.0073,Low
+CEO_Ara K. Hovnanian,Pearson,0.0073,Low
+city_Juno Beach,Pearson,0.0073,Low
+CEO_John W. Ketchum,Pearson,0.0073,Low
+Ticker_FTV,Pearson,0.0073,Low
+Website_https://www.chemours.com,Pearson,0.0073,Low
+Website_https://www.rgare.com,Pearson,0.0073,Low
+Ticker_AAP,Pearson,0.0073,Low
+prev_rank_166.0,Pearson,0.0073,Low
+CEO_Edward J. Shoen,Pearson,0.0073,Low
+CEO_Ken Xie,Pearson,0.0073,Low
+Ticker_RGA,Pearson,0.0073,Low
+city_St. Petersburg,Pearson,0.0073,Low
+Ticker_NEE,Pearson,0.0073,Low
+Website_https://www.amerco.com,Pearson,0.0073,Low
+city_Everett,Pearson,0.0073,Low
+company_Pinnacle West Capital,Pearson,0.0073,Low
+company_Amerco,Pearson,0.0073,Low
+CEO_Anna Manning,Pearson,0.0073,Low
+Ticker_CC,Pearson,0.0073,Low
+Website_https://www.khov.com,Pearson,0.0073,Low
+CEO_Mark E. Newman,Pearson,0.0073,Low
+CEO_Thomas R. Greco,Pearson,0.0073,Low
+Website_https://www.advanceautoparts.com,Pearson,0.0073,Low
+company_Fortinet,Pearson,0.0073,Low
+company_Fortive,Pearson,0.0073,Low
+prev_rank_207.0,Pearson,0.0073,Low
+Website_https://www.fortinet.com,Pearson,0.0073,Low
+Website_https://www.fortive.com,Pearson,0.0073,Low
+Ticker_PNW,Pearson,0.0073,Low
+company_Chemours,Pearson,0.0073,Low
+company_NextEra Energy,Pearson,0.0073,Low
+Ticker_BAH,Pearson,0.0073,Low
+Website_https://www.nexteraenergy.com,Pearson,0.0073,Low
+company_Cardinal Health,Pearson,0.0073,Low
+city_Minneapolis,Pearson,0.0073,Low
+prev_rank_391.0,Pearson,0.0073,Low
+city_Matawan,Pearson,0.0073,Low
+Website_https://www.pinnaclewest.com,Pearson,0.0073,Low
+company_Reinsurance Group of America,Pearson,0.0073,Low
+company_Hovnanian Enterprises,Pearson,0.0073,Low
+city_Chesterfield,Pearson,0.0073,Low
+prev_rank_14.0,Pearson,0.0073,Low
+Ticker_FTNT,Pearson,0.0073,Low
+company_Booz Allen Hamilton Holding,Pearson,0.0073,Low
+Ticker_CAH,Pearson,0.0073,Low
+CEO_Jason Hollar,Pearson,0.0073,Low
+company_Advance Auto Parts,Pearson,0.0073,Low
+CEO_Jeffrey B Guldner,Pearson,0.0073,Low
+Ticker_HOV,Pearson,0.0073,Low
+Ticker_TPX,Pearson,0.0072,Low
+company_Tempur Sealy International,Pearson,0.0072,Low
+city_Miami,Pearson,0.0072,Low
+Website_https://www.henryschein.com,Pearson,0.0072,Low
+Ticker_AMKR,Pearson,0.0072,Low
+company_Amkor Technology,Pearson,0.0072,Low
+company_Darden Restaurants,Pearson,0.0072,Low
+CEO_Guillaume Marie Jean Rutten,Pearson,0.0072,Low
+Website_https://www.tempursealy.com,Pearson,0.0072,Low
+Website_https://www.amkor.com,Pearson,0.0072,Low
+company_Henry Schein,Pearson,0.0072,Low
+Website_https://www.darden.com,Pearson,0.0072,Low
+Ticker_HSIC,Pearson,0.0072,Low
+Ticker_DRI,Pearson,0.0072,Low
+prev_rank_377.0,Pearson,0.0072,Low
+CEO_Ricardo Cardenas,Pearson,0.0072,Low
+CEO_Stanley Bergman,Pearson,0.0072,Low
+prev_rank_298.0,Pearson,0.0072,Low
+CEO_Scott Thompson,Pearson,0.0072,Low
+Website_https://www.taylormorrison.com,Pearson,0.0071,Low
+Website_https://www.xilinx.com,Pearson,0.0071,Low
+Ticker_AKAM,Pearson,0.0071,Low
+Ticker_POOL,Pearson,0.0071,Low
+company_Thor Industries,Pearson,0.0071,Low
+Ticker_WST,Pearson,0.0071,Low
+Ticker_HOG,Pearson,0.0071,Low
+company_Pool,Pearson,0.0071,Low
+Website_https://www.akamai.com,Pearson,0.0071,Low
+city_Long Beach,Pearson,0.0071,Low
+company_Chipotle,Pearson,0.0071,Low
+Website_https://www.harley-davidson.com,Pearson,0.0071,Low
+CEO_Joseph M. Zubretsky,Pearson,0.0071,Low
+Ticker_TMHC,Pearson,0.0071,Low
+CEO_Martin P. Waters,Pearson,0.0071,Low
+Ticker_DAR,Pearson,0.0071,Low
+Ticker_THO,Pearson,0.0071,Low
+company_Taylor Morrison Home,Pearson,0.0071,Low
+city_Newport Beach,Pearson,0.0071,Low
+company_Akamai Technologies,Pearson,0.0071,Low
+Website_https://www.alliantenergy.com,Pearson,0.0071,Low
+CEO_Peter Arvan,Pearson,0.0071,Low
+city_Exton,Pearson,0.0071,Low
+Website_https://www.westpharma.com,Pearson,0.0071,Low
+CEO_F. Thomson Leighton,Pearson,0.0071,Low
+Ticker_VSCO,Pearson,0.0071,Low
+CEO_Eric M. Green,Pearson,0.0071,Low
+company_Xilinx,Pearson,0.0071,Low
+city_Reynoldsburg,Pearson,0.0071,Low
+company_Alliant Energy,Pearson,0.0071,Low
+company_Harley-Davidson,Pearson,0.0071,Low
+Ticker_LNT,Pearson,0.0071,Low
+company_West Pharmaceutical Services,Pearson,0.0071,Low
+CEO_John O. Larsen,Pearson,0.0071,Low
+Website_https://www.poolcorp.com,Pearson,0.0071,Low
+Ticker_MOH,Pearson,0.0071,Low
+prev_rank_452.0,Pearson,0.0071,Low
+CEO_Jochen Zeitz,Pearson,0.0071,Low
+CEO_Robert Martin,Pearson,0.0071,Low
+company_Victoria's Secret,Pearson,0.0071,Low
+CEO_Brian Niccol,Pearson,0.0071,Low
+company_Darling Ingredients,Pearson,0.0071,Low
+Website_https://www.chipotle.com,Pearson,0.0071,Low
+CEO_Lisa T. Su,Pearson,0.0071,Low
+prev_rank_464.0,Pearson,0.0071,Low
+prev_rank_155.0,Pearson,0.0071,Low
+Website_https://www.thorindustries.com,Pearson,0.0071,Low
+CEO_Sheryl D. Palmer,Pearson,0.0071,Low
+Ticker_XLNX,Pearson,0.0071,Low
+CEO_Randall C. Stuewe,Pearson,0.0071,Low
+company_Molina Healthcare,Pearson,0.0071,Low
+Website_https://www.molinahealthcare.com,Pearson,0.0071,Low
+Ticker_CMG,Pearson,0.0071,Low
+city_Covington,Pearson,0.0071,Low
+prev_rank_368.0,Pearson,0.0071,Low
+Website_https://www.darlingii.com,Pearson,0.0071,Low
+Website_https://www.victoriassecretandco.com,Pearson,0.0071,Low
+CEO_Kevin M. Stein,Pearson,0.007,Low
+Website_https://www.transdigm.com,Pearson,0.007,Low
+CEO_Jeffrey J. Jones II,Pearson,0.007,Low
+company_Academy Sports and Outdoors,Pearson,0.007,Low
+city_Jersey City,Pearson,0.007,Low
+CEO_Lee M. Shavel,Pearson,0.007,Low
+Ticker_ATO,Pearson,0.007,Low
+Ticker_ASO,Pearson,0.007,Low
+city_Katy,Pearson,0.007,Low
+company_H&R Block,Pearson,0.007,Low
+Ticker_TDG,Pearson,0.007,Low
+Website_https://www.academy.com,Pearson,0.007,Low
+company_TransDigm Group,Pearson,0.007,Low
+Website_https://www.hrblock.com,Pearson,0.007,Low
+Website_https://www.vulcanmaterials.com,Pearson,0.007,Low
+Website_https://www.verisk.com,Pearson,0.007,Low
+CEO_Ken C. Hicks,Pearson,0.007,Low
+Website_https://www.atmosenergy.com,Pearson,0.007,Low
+prev_rank_475.0,Pearson,0.007,Low
+company_Vulcan Materials,Pearson,0.007,Low
+company_Verisk Analytics,Pearson,0.007,Low
+Ticker_VRSK,Pearson,0.007,Low
+company_Atmos Energy,Pearson,0.007,Low
+Ticker_VMC,Pearson,0.007,Low
+CEO_John K. Akers,Pearson,0.007,Low
+CEO_J. Thomas Hill,Pearson,0.007,Low
+Ticker_HRB,Pearson,0.007,Low
+prev_rank_104.0,Pearson,0.0069,Low
+Website_https://www.martinmarietta.com,Pearson,0.0069,Low
+CEO_Vincent T. Roche,Pearson,0.0069,Low
+Website_https://www.cadence.com,Pearson,0.0069,Low
+company_Jabil,Pearson,0.0069,Low
+Ticker_MLM,Pearson,0.0069,Low
+city_Santa Monica,Pearson,0.0069,Low
+company_Cadence Design Systems,Pearson,0.0069,Low
+company_Waters,Pearson,0.0069,Low
+company_RH,Pearson,0.0069,Low
+city_Corte Madera,Pearson,0.0069,Low
+Ticker_CDNS,Pearson,0.0069,Low
+CEO_Gary G. Friedman,Pearson,0.0069,Low
+CEO_Udit Batra,Pearson,0.0069,Low
+Ticker_JBL,Pearson,0.0069,Low
+city_Milford,Pearson,0.0069,Low
+company_Martin Marietta Materials,Pearson,0.0069,Low
+CEO_Mark T. Mondello,Pearson,0.0069,Low
+Website_https://www.waters.com,Pearson,0.0069,Low
+CEO_Anirudh Devgan,Pearson,0.0069,Low
+Ticker_WAT,Pearson,0.0069,Low
+Ticker_RH,Pearson,0.0069,Low
+Website_https://www.rh.com,Pearson,0.0069,Low
+CEO_C. Howard Nye,Pearson,0.0069,Low
+Website_www.jabil.com,Pearson,0.0069,Low
+Ticker_WOR,Pearson,0.0068,Low
+company_Navient,Pearson,0.0068,Low
+Ticker_BCC,Pearson,0.0068,Low
+CEO_Linda Rendle,Pearson,0.0068,Low
+Ticker_NAVI,Pearson,0.0068,Low
+city_Indianapolis,Pearson,0.0068,Low
+CEO_John F. Remondi,Pearson,0.0068,Low
+Website_https://www.bc.com,Pearson,0.0068,Low
+Website_https://www.thecloroxcompany.com,Pearson,0.0068,Low
+city_Oakland,Pearson,0.0068,Low
+CEO_B. Andrew Rose,Pearson,0.0068,Low
+prev_rank_493.0,Pearson,0.0068,Low
+company_Boise Cascade,Pearson,0.0068,Low
+company_Worthington Industries,Pearson,0.0068,Low
+Ticker_CLX,Pearson,0.0068,Low
+CEO_Nathan Jorgensen,Pearson,0.0068,Low
+prev_rank_427.0,Pearson,0.0068,Low
+Website_https://www.navient.com,Pearson,0.0068,Low
+Website_https://www.worthingtonindustries.com,Pearson,0.0068,Low
+company_Clorox,Pearson,0.0068,Low
+CEO_David A. Jackson,Pearson,0.0067,Low
+CEO_Mitchell R. Butier,Pearson,0.0067,Low
+Ticker_CROX,Pearson,0.0067,Low
+Website_https://www.fmc.com,Pearson,0.0067,Low
+prev_rank_417.0,Pearson,0.0067,Low
+Website_https://www.evercore.com,Pearson,0.0067,Low
+CEO_Phillippe Lord,Pearson,0.0067,Low
+Ticker_OGE,Pearson,0.0067,Low
+Ticker_QRVO,Pearson,0.0067,Low
+CEO_Mark W. Begor,Pearson,0.0067,Low
+company_Qorvo,Pearson,0.0067,Low
+CEO_Andrew Rees,Pearson,0.0067,Low
+company_Avery Dennison,Pearson,0.0067,Low
+company_Knight-Swift Transportation Holdings,Pearson,0.0067,Low
+Website_https://www.qorvo.com,Pearson,0.0067,Low
+city_Louisville,Pearson,0.0067,Low
+Website_https://www.crocs.com,Pearson,0.0067,Low
+city_Manhattan Beach,Pearson,0.0067,Low
+Website_https://www.skechers.com,Pearson,0.0067,Low
+Website_https://www.equifax.com,Pearson,0.0067,Low
+Ticker_NTAP,Pearson,0.0067,Low
+CEO_Robert A. Bruggeworth,Pearson,0.0067,Low
+Ticker_EFX,Pearson,0.0067,Low
+Ticker_MTH,Pearson,0.0067,Low
+city_Camden,Pearson,0.0067,Low
+Ticker_KNX,Pearson,0.0067,Low
+company_Equifax,Pearson,0.0067,Low
+Ticker_EVR,Pearson,0.0067,Low
+Website_https://www.averydennison.com,Pearson,0.0067,Low
+Ticker_FMC,Pearson,0.0067,Low
+company_OGE Energy,Pearson,0.0067,Low
+Website_https://www.berryglobal.com,Pearson,0.0067,Low
+CEO_Sean Trauschke,Pearson,0.0067,Low
+CEO_George Kurian,Pearson,0.0067,Low
+CEO_Thomas E. Salmon,Pearson,0.0067,Low
+CEO_Mark A. Douglas,Pearson,0.0067,Low
+CEO_John S. Weinberg,Pearson,0.0067,Low
+city_Broomfield,Pearson,0.0067,Low
+company_Meritage Homes,Pearson,0.0067,Low
+company_Crocs,Pearson,0.0067,Low
+Website_https://www.knighttrans.com,Pearson,0.0067,Low
+CEO_Robert Greenberg,Pearson,0.0067,Low
+company_NetApp,Pearson,0.0067,Low
+Website_https://www.ogeenergy.com,Pearson,0.0067,Low
+Ticker_SKX,Pearson,0.0067,Low
+Website_https://www.meritagehomes.com,Pearson,0.0067,Low
+prev_rank_261.0,Pearson,0.0067,Low
+company_FMC,Pearson,0.0067,Low
+company_Evercore,Pearson,0.0067,Low
+company_Berry Global Group,Pearson,0.0067,Low
+Ticker_AVY,Pearson,0.0067,Low
+company_Skechers U.S.A.,Pearson,0.0067,Low
+Website_https://www.netapp.com,Pearson,0.0067,Low
+Ticker_BERY,Pearson,0.0067,Low
+CEO_Roger A. Krone,Pearson,0.0066,Low
+Website_https://www.edisoninvestor.com,Pearson,0.0066,Low
+city_Lowell,Pearson,0.0066,Low
+company_Hewlett Packard Enterprise,Pearson,0.0066,Low
+Ticker_KMX,Pearson,0.0066,Low
+company_Globe Life,Pearson,0.0066,Low
+CEO_Jonathan J. Mazelsky,Pearson,0.0066,Low
+Ticker_SNPS,Pearson,0.0066,Low
+Ticker_HPE,Pearson,0.0066,Low
+prev_rank_246.0,Pearson,0.0066,Low
+Ticker_IDXX,Pearson,0.0066,Low
+company_Goodyear Tire & Rubber,Pearson,0.0066,Low
+Website_https://www.nmrk.com,Pearson,0.0066,Low
+Ticker_GT,Pearson,0.0066,Low
+Ticker_LDOS,Pearson,0.0066,Low
+prev_rank_248.0,Pearson,0.0066,Low
+Website_https://www.textron.com,Pearson,0.0066,Low
+prev_rank_265.0,Pearson,0.0066,Low
+Ticker_GL,Pearson,0.0066,Low
+company_Illumina,Pearson,0.0066,Low
+company_McCormick,Pearson,0.0066,Low
+CEO_Scott C. Donnelly,Pearson,0.0066,Low
+CEO_Lawrence Kurzius,Pearson,0.0066,Low
+CEO_Richard J. Kramer,Pearson,0.0066,Low
+Website_https://www.goodyear.com,Pearson,0.0066,Low
+company_Leidos Holdings,Pearson,0.0066,Low
+prev_rank_315.0,Pearson,0.0066,Low
+Ticker_TXT,Pearson,0.0066,Low
+state_MN,Pearson,0.0066,Low
+prev_rank_136.0,Pearson,0.0066,Low
+company_Edison International,Pearson,0.0066,Low
+Ticker_MKC,Pearson,0.0066,Low
+Website_https://www.mccormickcorporation.com,Pearson,0.0066,Low
+company_IDEXX Laboratories,Pearson,0.0066,Low
+CEO_Francis A. deSouza,Pearson,0.0066,Low
+CEO_Barry M. Gosin,Pearson,0.0066,Low
+Website_https://www.illumina.com,Pearson,0.0066,Low
+CEO_Pedro J. Pizarro,Pearson,0.0066,Low
+city_Rosemead,Pearson,0.0066,Low
+Website_https://www.hpe.com,Pearson,0.0066,Low
+prev_rank_226.0,Pearson,0.0066,Low
+Website_https://www.jbhunt.com,Pearson,0.0066,Low
+Website_https://www.synopsys.com,Pearson,0.0066,Low
+Website_https://www.idexx.com,Pearson,0.0066,Low
+CEO_Aart J. de Geus,Pearson,0.0066,Low
+Ticker_NMRK,Pearson,0.0066,Low
+Ticker_EIX,Pearson,0.0066,Low
+company_CarMax,Pearson,0.0066,Low
+Website_www.carmax.com,Pearson,0.0066,Low
+Website_https://www.globelifeinsurance.com,Pearson,0.0066,Low
+CEO_William D. Nash,Pearson,0.0066,Low
+Ticker_JBHT,Pearson,0.0066,Low
+Ticker_ILMN,Pearson,0.0066,Low
+company_Textron,Pearson,0.0066,Low
+company_Newmark Group,Pearson,0.0066,Low
+company_Synopsys,Pearson,0.0066,Low
+company_J.B. Hunt Transport Services,Pearson,0.0066,Low
+city_Westbrook,Pearson,0.0066,Low
+CEO_Antonio F. Neri,Pearson,0.0066,Low
+Website_https://www.leidos.com,Pearson,0.0066,Low
+prev_rank_106.0,Pearson,0.0066,Low
+CEO_John N. Roberts III,Pearson,0.0066,Low
+Ticker_FBHS,Pearson,0.0065,Low
+company_Rithm Capital,Pearson,0.0065,Low
+CEO_Joseph M. Hogan,Pearson,0.0065,Low
+company_Fortune Brands Home & Security,Pearson,0.0065,Low
+Website_https://www.mt.com,Pearson,0.0065,Low
+Website_https://www.aligntech.com,Pearson,0.0065,Low
+Website_https://www.rithmcap.com,Pearson,0.0065,Low
+Website_https://www.fbhs.com,Pearson,0.0065,Low
+CEO_Nicholas I. Fink,Pearson,0.0065,Low
+Ticker_ALGN,Pearson,0.0065,Low
+Ticker_MTD,Pearson,0.0065,Low
+CEO_Michael Nierenberg,Pearson,0.0065,Low
+company_Align Technology,Pearson,0.0065,Low
+CEO_Patrick Kaltenbach,Pearson,0.0065,Low
+company_Mettler-Toledo International,Pearson,0.0065,Low
+Ticker_RITM,Pearson,0.0065,Low
+prev_rank_456.0,Pearson,0.0065,Low
+CEO_Eugene A. Hall,Pearson,0.0064,Low
+company_Bread Financial Holdings,Pearson,0.0064,Low
+company_Service Corp. International,Pearson,0.0064,Low
+Ticker_BFH,Pearson,0.0064,Low
+Ticker_SCI,Pearson,0.0064,Low
+city_Windsor,Pearson,0.0064,Low
+CEO_Thomas L. Ryan,Pearson,0.0064,Low
+company_Gartner,Pearson,0.0064,Low
+Website_https://www.breadfinancial.com,Pearson,0.0064,Low
+Ticker_SSNC,Pearson,0.0064,Low
+company_SS&C Technologies Holdings,Pearson,0.0064,Low
+state_OR,Pearson,0.0064,Low
+Website_https://www.sci-corp.com,Pearson,0.0064,Low
+Ticker_IT,Pearson,0.0064,Low
+Website_https://www.gartner.com,Pearson,0.0064,Low
+CEO_Ralph J. Andretta,Pearson,0.0064,Low
+Website_https://www.ssctech.com,Pearson,0.0064,Low
+CEO_William C. Stone,Pearson,0.0064,Low
+Ticker_WDC,Pearson,0.0063,Low
+city_Kenosha,Pearson,0.0063,Low
+Website_https://www.snapon.com,Pearson,0.0063,Low
+CEO_Devin B. McGranahan,Pearson,0.0063,Low
+CEO_Nicholas T. Pinchuk,Pearson,0.0063,Low
+company_Snap-on,Pearson,0.0063,Low
+company_Stifel Financial,Pearson,0.0063,Low
+CEO_David V. Goeckeler,Pearson,0.0063,Low
+company_Western Digital,Pearson,0.0063,Low
+company_Western Union,Pearson,0.0063,Low
+Website_https://www.unum.com,Pearson,0.0063,Low
+CEO_Ronald J. Kruszewski,Pearson,0.0063,Low
+Ticker_UNM,Pearson,0.0063,Low
+city_Chattanooga,Pearson,0.0063,Low
+Website_https://www.westerndigital.com,Pearson,0.0063,Low
+company_Unum Group,Pearson,0.0063,Low
+Ticker_SF,Pearson,0.0063,Low
+CEO_Richard P. McKenney,Pearson,0.0063,Low
+Website_https://www.stifel.com,Pearson,0.0063,Low
+Ticker_SNA,Pearson,0.0063,Low
+Ticker_WU,Pearson,0.0063,Low
+Website_https://www.westernunion.com,Pearson,0.0063,Low
+prev_rank_182.0,Pearson,0.0063,Low
+prev_rank_230.0,Pearson,0.0063,Low
+company_Progressive,Pearson,0.0062,Low
+Ticker_ANET,Pearson,0.0062,Low
+CEO_Robert C. Biesterfeld Jr.,Pearson,0.0062,Low
+Ticker_PGR,Pearson,0.0062,Low
+CEO_Matthew T. Farrell,Pearson,0.0062,Low
+CEO_Andrew Wilson,Pearson,0.0062,Low
+CEO_Jayshree V. Ullal,Pearson,0.0062,Low
+Ticker_NXST,Pearson,0.0062,Low
+Website_https://www.ea.com,Pearson,0.0062,Low
+company_WestRock,Pearson,0.0062,Low
+company_Arista Networks,Pearson,0.0062,Low
+city_Mayfield Village,Pearson,0.0062,Low
+Ticker_PKG,Pearson,0.0062,Low
+CEO_Mark W. Kowlzan,Pearson,0.0062,Low
+Ticker_TPR,Pearson,0.0062,Low
+company_Church & Dwight,Pearson,0.0062,Low
+Website_https://www.zebra.com,Pearson,0.0062,Low
+CEO_David B. Sewell,Pearson,0.0062,Low
+Ticker_WRK,Pearson,0.0062,Low
+prev_rank_411.0,Pearson,0.0062,Low
+prev_rank_433.0,Pearson,0.0062,Low
+Ticker_TOL,Pearson,0.0062,Low
+Website_https://www.fleetcor.com,Pearson,0.0062,Low
+CEO_Perry Sook,Pearson,0.0062,Low
+CEO_Anders Gustafsson,Pearson,0.0062,Low
+Ticker_EA,Pearson,0.0062,Low
+company_Zebra Technologies,Pearson,0.0062,Low
+Ticker_CHD,Pearson,0.0062,Low
+Ticker_CHRW,Pearson,0.0062,Low
+company_Packaging Corp. of America,Pearson,0.0062,Low
+Ticker_FLT,Pearson,0.0062,Low
+Website_https://www.maximintegrated.com,Pearson,0.0062,Low
+CEO_Joanne C. Crevoiserat,Pearson,0.0062,Low
+company_C.H. Robinson Worldwide,Pearson,0.0062,Low
+company_Electronic Arts,Pearson,0.0062,Low
+Website_https://www.chrobinson.com,Pearson,0.0062,Low
+Website_https://www.churchdwight.com,Pearson,0.0062,Low
+CEO_Ronald F. Clarke,Pearson,0.0062,Low
+company_Maxim Integrated Products,Pearson,0.0062,Low
+Website_https://www.tapestry.com,Pearson,0.0062,Low
+Website_https://www.tollbrothers.com,Pearson,0.0062,Low
+Website_www.progressive.com,Pearson,0.0062,Low
+Ticker_MXIM,Pearson,0.0062,Low
+Website_https://www.arista.com,Pearson,0.0062,Low
+city_Fort Washington,Pearson,0.0062,Low
+Website_https://www.nexstar.tv,Pearson,0.0062,Low
+prev_rank_191.0,Pearson,0.0062,Low
+CEO_Susan Patricia Griffith,Pearson,0.0062,Low
+prev_rank_170.0,Pearson,0.0062,Low
+company_Toll Brothers,Pearson,0.0062,Low
+city_Ewing,Pearson,0.0062,Low
+company_Nexstar Media Group,Pearson,0.0062,Low
+Website_https://www.packagingcorp.com,Pearson,0.0062,Low
+CEO_Douglas C. Yearley Jr.,Pearson,0.0062,Low
+Website_https://www.westrock.com,Pearson,0.0062,Low
+prev_rank_74.0,Pearson,0.0062,Low
+company_Fleetcor Technologies,Pearson,0.0062,Low
+company_Tapestry,Pearson,0.0062,Low
+Ticker_ZBRA,Pearson,0.0062,Low
+CEO_William T. Dillard II,Pearson,0.0061,Low
+Website_https://www.mcafee.com,Pearson,0.0061,Low
+city_Little Rock,Pearson,0.0061,Low
+CEO_Mark J. Costa,Pearson,0.0061,Low
+company_McAfee,Pearson,0.0061,Low
+city_Kingsport,Pearson,0.0061,Low
+Ticker_EMN,Pearson,0.0061,Low
+Website_https://www.dillards.com,Pearson,0.0061,Low
+company_Dillard&#8217;s,Pearson,0.0061,Low
+Ticker_ACI,Pearson,0.0061,Low
+Ticker_DDS,Pearson,0.0061,Low
+Website_https://www.eastman.com,Pearson,0.0061,Low
+prev_rank_355.0,Pearson,0.0061,Low
+CEO_Greg Johnson,Pearson,0.0061,Low
+company_Albertsons,Pearson,0.0061,Low
+Ticker_MCFE,Pearson,0.0061,Low
+Website_www.albertsonscompanies.com,Pearson,0.0061,Low
+prev_rank_52.0,Pearson,0.0061,Low
+company_Eastman Chemical,Pearson,0.0061,Low
+CEO_Vivek Sankaran,Pearson,0.0061,Low
+prev_rank_260.0,Pearson,0.006,Low
+company_Evergy,Pearson,0.006,Low
+CEO_Mark T. Smucker,Pearson,0.006,Low
+city_Orrville,Pearson,0.006,Low
+city_King of Prussia,Pearson,0.006,Low
+Website_https://www.jmsmucker.com,Pearson,0.006,Low
+Website_https://http://investors.evergy.com,Pearson,0.006,Low
+company_Ball,Pearson,0.006,Low
+Ticker_BLL,Pearson,0.006,Low
+CEO_David A. Campbell,Pearson,0.006,Low
+CEO_Daniel W. Fisher,Pearson,0.006,Low
+Ticker_SJM,Pearson,0.006,Low
+Ticker_EVRG,Pearson,0.006,Low
+Website_https://www.ball.com,Pearson,0.006,Low
+company_J.M. Smucker,Pearson,0.006,Low
+city_Westminster,Pearson,0.006,Low
+prev_rank_378.0,Pearson,0.006,Low
+Ticker_AGCO,Pearson,0.0059,Low
+prev_rank_385.0,Pearson,0.0059,Low
+Ticker_GPC,Pearson,0.0059,Low
+CEO_Paul D. Donahue,Pearson,0.0059,Low
+CEO_Thomas J. McInerney,Pearson,0.0059,Low
+Ticker_GNW,Pearson,0.0059,Low
+prev_rank_348.0,Pearson,0.0059,Low
+city_Santa Rosa,Pearson,0.0059,Low
+company_TJX,Pearson,0.0059,Low
+company_Dominion Energy,Pearson,0.0059,Low
+Ticker_MAT,Pearson,0.0059,Low
+Ticker_FL,Pearson,0.0059,Low
+Ticker_BFB,Pearson,0.0059,Low
+company_Foot Locker,Pearson,0.0059,Low
+CEO_Lawson E. Whiting,Pearson,0.0059,Low
+prev_rank_97.0,Pearson,0.0059,Low
+CEO_Satish Dhanasekaran,Pearson,0.0059,Low
+Website_www.tjx.com,Pearson,0.0059,Low
+company_Keysight Technologies,Pearson,0.0059,Low
+Website_https://www.footlocker.com/corp,Pearson,0.0059,Low
+CEO_Ernie L. Herrman,Pearson,0.0059,Low
+Website_https://www.brown-forman.com,Pearson,0.0059,Low
+CEO_Robert M. Blue,Pearson,0.0059,Low
+prev_rank_331.0,Pearson,0.0059,Low
+Website_https://www.genworth.com,Pearson,0.0059,Low
+Website_https://www.genpt.com,Pearson,0.0059,Low
+Website_https://www.dominionenergy.com,Pearson,0.0059,Low
+Ticker_D,Pearson,0.0059,Low
+CEO_Eric P. Hansotia,Pearson,0.0059,Low
+company_Genworth Financial,Pearson,0.0059,Low
+Website_https://www.agcocorp.com,Pearson,0.0059,Low
+company_Genuine Parts,Pearson,0.0059,Low
+city_Framingham,Pearson,0.0059,Low
+Website_https://www.mattel.com,Pearson,0.0059,Low
+Website_https://www.keysight.com,Pearson,0.0059,Low
+company_Brown-Forman,Pearson,0.0059,Low
+company_AGCO,Pearson,0.0059,Low
+CEO_Ynon Kreiz,Pearson,0.0059,Low
+prev_rank_173.0,Pearson,0.0059,Low
+Ticker_TJX,Pearson,0.0059,Low
+prev_rank_193.0,Pearson,0.0059,Low
+company_Mattel,Pearson,0.0059,Low
+CEO_Mary N. Dillon,Pearson,0.0059,Low
+Ticker_KEYS,Pearson,0.0059,Low
+Ticker_WES,Pearson,0.0058,Low
+company_Signature Bank,Pearson,0.0058,Low
+Website_https://www.ajg.com,Pearson,0.0058,Low
+company_CF Industries Holdings,Pearson,0.0058,Low
+Ticker_CF,Pearson,0.0058,Low
+prev_rank_84.0,Pearson,0.0058,Low
+Ticker_HRL,Pearson,0.0058,Low
+CEO_Daniel L. Florness,Pearson,0.0058,Low
+company_Fastenal,Pearson,0.0058,Low
+Website_www.gd.com,Pearson,0.0058,Low
+company_Arthur J. Gallagher,Pearson,0.0058,Low
+Ticker_SBNY,Pearson,0.0058,Low
+company_Tenet Healthcare,Pearson,0.0058,Low
+CEO_Joseph J. DePaolo,Pearson,0.0058,Low
+CEO_W. Anthony Will,Pearson,0.0058,Low
+CEO_Gerardo Norcia,Pearson,0.0058,Low
+CEO_Saumya Sutaria,Pearson,0.0058,Low
+Ticker_GD,Pearson,0.0058,Low
+company_Hormel Foods,Pearson,0.0058,Low
+Website_https://www.tenethealth.com,Pearson,0.0058,Low
+prev_rank_167.0,Pearson,0.0058,Low
+Website_https://www.dteenergy.com,Pearson,0.0058,Low
+city_Rolling Meadows,Pearson,0.0058,Low
+company_General Dynamics,Pearson,0.0058,Low
+Website_https://www.westernmidstream.com,Pearson,0.0058,Low
+CEO_MIchael P. Ure,Pearson,0.0058,Low
+Website_https://www.hormelfoods.com,Pearson,0.0058,Low
+Ticker_AJG,Pearson,0.0058,Low
+company_DTE Energy,Pearson,0.0058,Low
+Ticker_DTE,Pearson,0.0058,Low
+Website_https://www.cfindustries.com,Pearson,0.0058,Low
+city_Winona,Pearson,0.0058,Low
+company_Western Midstream Partners,Pearson,0.0058,Low
+prev_rank_317.0,Pearson,0.0058,Low
+Ticker_FAST,Pearson,0.0058,Low
+CEO_Phebe N. Novakovic,Pearson,0.0058,Low
+prev_rank_250.0,Pearson,0.0058,Low
+CEO_J. Patrick Gallagher Jr.,Pearson,0.0058,Low
+Website_https://www.signatureny.com,Pearson,0.0058,Low
+Ticker_THC,Pearson,0.0058,Low
+CEO_James P. Snee,Pearson,0.0058,Low
+prev_rank_416.0,Pearson,0.0058,Low
+Website_https://www.fastenal.com,Pearson,0.0058,Low
+company_Valero Energy,Pearson,0.0057,Low
+Website_https://www.kohls.com,Pearson,0.0057,Low
+prev_rank_195.0,Pearson,0.0057,Low
+Ticker_CPRT,Pearson,0.0057,Low
+Website_https://www.perkinelmer.com,Pearson,0.0057,Low
+CEO_Lee M. Tillman,Pearson,0.0057,Low
+city_Hato Rey,Pearson,0.0057,Low
+Website_https://www.marathonoil.com,Pearson,0.0057,Low
+Website_https://www.matson.com,Pearson,0.0057,Low
+company_Matson,Pearson,0.0057,Low
+Website_https://www.popular.com,Pearson,0.0057,Low
+state_PR,Pearson,0.0057,Low
+Ticker_VLO,Pearson,0.0057,Low
+CEO_Joseph W. Gorder,Pearson,0.0057,Low
+prev_rank_53.0,Pearson,0.0057,Low
+Ticker_MATX,Pearson,0.0057,Low
+Ticker_BPOP,Pearson,0.0057,Low
+CEO_Prahlad Singh,Pearson,0.0057,Low
+company_PerkinElmer,Pearson,0.0057,Low
+company_Copart,Pearson,0.0057,Low
+Ticker_PKI,Pearson,0.0057,Low
+Website_https://www.copart.com,Pearson,0.0057,Low
+company_Kohl's,Pearson,0.0057,Low
+CEO_Ignacio Alvarez,Pearson,0.0057,Low
+Ticker_KSS,Pearson,0.0057,Low
+Website_www.valero.com,Pearson,0.0057,Low
+Ticker_MRO,Pearson,0.0057,Low
+city_Menomonee Falls,Pearson,0.0057,Low
+CEO_Michelle D. Gass,Pearson,0.0057,Low
+CEO_Matthew J. Cox,Pearson,0.0057,Low
+company_Marathon Oil,Pearson,0.0057,Low
+company_Popular,Pearson,0.0057,Low
+company_Global Payments,Pearson,0.0056,Low
+company_IQVIA Holdings,Pearson,0.0056,Low
+Ticker_IPG,Pearson,0.0056,Low
+CEO_Daryl Lee,Pearson,0.0056,Low
+Ticker_INCY,Pearson,0.0056,Low
+company_Steel Dynamics,Pearson,0.0056,Low
+Ticker_IQV,Pearson,0.0056,Low
+CEO_Stefan Larsson,Pearson,0.0056,Low
+prev_rank_319.0,Pearson,0.0056,Low
+prev_rank_334.0,Pearson,0.0056,Low
+Website_https://www.steeldynamics.com,Pearson,0.0056,Low
+prev_rank_275.0,Pearson,0.0056,Low
+Website_https://www.iqvia.com,Pearson,0.0056,Low
+CEO_Jeffrey S. Sloan,Pearson,0.0056,Low
+Ticker_GPN,Pearson,0.0056,Low
+prev_rank_404.0,Pearson,0.0056,Low
+Ticker_PVH,Pearson,0.0056,Low
+CEO_Mark D. Millett,Pearson,0.0056,Low
+Website_https://www.jll.com,Pearson,0.0056,Low
+Website_https://www.interpublic.com,Pearson,0.0056,Low
+Website_https://www.pvh.com,Pearson,0.0056,Low
+Ticker_STLD,Pearson,0.0056,Low
+city_Fort Wayne,Pearson,0.0056,Low
+company_PVH,Pearson,0.0056,Low
+Website_https://www.incyte.com,Pearson,0.0056,Low
+Ticker_JLL,Pearson,0.0056,Low
+prev_rank_186.0,Pearson,0.0056,Low
+Website_https://www.globalpayments.com,Pearson,0.0056,Low
+city_Newark,Pearson,0.0056,Low
+prev_rank_394.0,Pearson,0.0056,Low
+CEO_Christian Ulbrich,Pearson,0.0056,Low
+CEO_Ari Bousbib,Pearson,0.0056,Low
+CEO_Hervé Hoppenot,Pearson,0.0056,Low
+company_Incyte,Pearson,0.0056,Low
+company_Interpublic Group,Pearson,0.0056,Low
+company_Jones Lang LaSalle,Pearson,0.0056,Low
+Ticker_APA,Pearson,0.0055,Low
+CEO_Javier J. Rodriguez,Pearson,0.0055,Low
+company_Lululemon athletica,Pearson,0.0055,Low
+CEO_Aaron L. Milford,Pearson,0.0055,Low
+city_Bolingbrook,Pearson,0.0055,Low
+Website_https://www.lululemon.com,Pearson,0.0055,Low
+Website_https://www.magellanlp.com,Pearson,0.0055,Low
+CEO_David C. Kimbell,Pearson,0.0055,Low
+prev_rank_451.0,Pearson,0.0055,Low
+company_Magellan Midstream Partners,Pearson,0.0055,Low
+CEO_John J. Christmann IV,Pearson,0.0055,Low
+company_Ulta Beauty,Pearson,0.0055,Low
+prev_rank_271.0,Pearson,0.0055,Low
+CEO_Robert E. Jordan,Pearson,0.0055,Low
+Website_https://www.southwest.com,Pearson,0.0055,Low
+Website_https://www.apacorp.com,Pearson,0.0055,Low
+Website_https://www.davita.com,Pearson,0.0055,Low
+Ticker_DVA,Pearson,0.0055,Low
+company_DaVita,Pearson,0.0055,Low
+city_Sumner,Pearson,0.0055,Low
+prev_rank_336.0,Pearson,0.0055,Low
+Ticker_LUV,Pearson,0.0055,Low
+Ticker_LULU,Pearson,0.0055,Low
+Website_https://www.ulta.com,Pearson,0.0055,Low
+CEO_Calvin McDonald,Pearson,0.0055,Low
+Ticker_MMP,Pearson,0.0055,Low
+Ticker_ULTA,Pearson,0.0055,Low
+company_APA,Pearson,0.0055,Low
+company_Southwest Airlines,Pearson,0.0055,Low
+Website_https://www.owenscorning.com,Pearson,0.0054,Low
+Ticker_AVB,Pearson,0.0054,Low
+company_First Horizon,Pearson,0.0054,Low
+CEO_David A. Zapico,Pearson,0.0054,Low
+CEO_D. Bryan Jordan,Pearson,0.0054,Low
+Ticker_WBD,Pearson,0.0054,Low
+Ticker_YUMC,Pearson,0.0054,Low
+company_Jackson Financial,Pearson,0.0054,Low
+Ticker_FHN,Pearson,0.0054,Low
+company_Ametek,Pearson,0.0054,Low
+CEO_Brian D. Chambers,Pearson,0.0054,Low
+CEO_Gavin D.K. Hattersley,Pearson,0.0054,Low
+Website_https://www.avalonbay.com,Pearson,0.0054,Low
+prev_rank_306.0,Pearson,0.0054,Low
+prev_rank_291.0,Pearson,0.0054,Low
+prev_rank_290.0,Pearson,0.0054,Low
+company_Altice USA,Pearson,0.0054,Low
+Website_https://www.ametek.com,Pearson,0.0054,Low
+Website_https://www.ameren.com,Pearson,0.0054,Low
+prev_rank_161.0,Pearson,0.0054,Low
+prev_rank_314.0,Pearson,0.0054,Low
+CEO_Benjamin W. Schall,Pearson,0.0054,Low
+Website_https://www.tractorsupply.com,Pearson,0.0054,Low
+Ticker_UHS,Pearson,0.0054,Low
+Website_https://www.campbellsoupcompany.com,Pearson,0.0054,Low
+prev_rank_335.0,Pearson,0.0054,Low
+company_Warner Bros. Discovery,Pearson,0.0054,Low
+CEO_Harry A. Lawton III,Pearson,0.0054,Low
+Website_https://www.cdw.com,Pearson,0.0054,Low
+prev_rank_363.0,Pearson,0.0054,Low
+Ticker_TSCO,Pearson,0.0054,Low
+city_Westlake Village,Pearson,0.0054,Low
+Ticker_OC,Pearson,0.0054,Low
+company_Yum China Holdings,Pearson,0.0054,Low
+prev_rank_270.0,Pearson,0.0054,Low
+company_Universal Health Services,Pearson,0.0054,Low
+Website_https://www.uhsinc.com,Pearson,0.0054,Low
+CEO_Christine A. Leahy,Pearson,0.0054,Low
+Ticker_PFSI,Pearson,0.0054,Low
+prev_rank_413.0,Pearson,0.0054,Low
+company_Campbell Soup,Pearson,0.0054,Low
+Ticker_AEE,Pearson,0.0054,Low
+Website_https://www.firsthorizon.com,Pearson,0.0054,Low
+Ticker_CPB,Pearson,0.0054,Low
+CEO_Joey Wat,Pearson,0.0054,Low
+company_PennyMac Financial Services,Pearson,0.0054,Low
+Website_https://www.alticeusa.com,Pearson,0.0054,Low
+company_Tractor Supply,Pearson,0.0054,Low
+company_Ameren,Pearson,0.0054,Low
+Website_https://www.jackson.com,Pearson,0.0054,Low
+city_Lansing,Pearson,0.0054,Low
+company_Owens Corning,Pearson,0.0054,Low
+Ticker_TAP,Pearson,0.0054,Low
+company_AvalonBay Communities,Pearson,0.0054,Low
+CEO_Martin J. Lyons Jr.,Pearson,0.0054,Low
+Ticker_CDW,Pearson,0.0054,Low
+CEO_Mark A. Clouse,Pearson,0.0054,Low
+CEO_Marc D. Miller,Pearson,0.0054,Low
+city_Berwyn,Pearson,0.0054,Low
+Ticker_AME,Pearson,0.0054,Low
+CEO_Laura L. Prieskorn,Pearson,0.0054,Low
+company_CDW,Pearson,0.0054,Low
+company_Molson Coors Beverage,Pearson,0.0054,Low
+Ticker_ATUS,Pearson,0.0054,Low
+Website_https://www.molsoncoors.com,Pearson,0.0054,Low
+Website_https://ir.yumchina.com,Pearson,0.0054,Low
+Website_https://ir.pennymacfinancial.com,Pearson,0.0054,Low
+Website_https://https://wbd.com,Pearson,0.0054,Low
+CEO_David Spector,Pearson,0.0054,Low
+Ticker_JXN,Pearson,0.0054,Low
+CEO_Dennis Mathew,Pearson,0.0054,Low
+CEO_David M. Zaslav,Pearson,0.0054,Low
+CEO_Hassane S. El-Khoury,Pearson,0.0053,Low
+city_San Francisco,Pearson,0.0053,Low
+prev_rank_110.0,Pearson,0.0053,Low
+Website_https://www.berkley.com,Pearson,0.0053,Low
+Website_https://www.kraftheinzcompany.com,Pearson,0.0053,Low
+company_Kraft Heinz,Pearson,0.0053,Low
+Website_https://www.amd.com,Pearson,0.0053,Low
+CEO_W. Robert Berkley Jr.,Pearson,0.0053,Low
+Ticker_TER,Pearson,0.0053,Low
+prev_rank_309.0,Pearson,0.0053,Low
+Website_https://www.teradyne.com,Pearson,0.0053,Low
+company_W.R. Berkley,Pearson,0.0053,Low
+Website_https://www.onsemi.com,Pearson,0.0053,Low
+Ticker_KHC,Pearson,0.0053,Low
+Ticker_ON,Pearson,0.0053,Low
+prev_rank_372.0,Pearson,0.0053,Low
+CEO_Mark Jagiela,Pearson,0.0053,Low
+CEO_Lisa Su,Pearson,0.0053,Low
+CEO_Miguel Patricio,Pearson,0.0053,Low
+company_Teradyne,Pearson,0.0053,Low
+Ticker_WRB,Pearson,0.0053,Low
+company_Advanced Micro Devices,Pearson,0.0053,Low
+city_North Reading,Pearson,0.0053,Low
+company_ON Semiconductor,Pearson,0.0053,Low
+Ticker_AMD,Pearson,0.0053,Low
+company_Marsh & McLennan,Pearson,0.0052,Low
+state_MI,Pearson,0.0052,Low
+CEO_Greg C. Gantt,Pearson,0.0052,Low
+Website_https://www.huntsman.com,Pearson,0.0052,Low
+Website_https://www.grainger.com,Pearson,0.0052,Low
+prev_rank_258.0,Pearson,0.0052,Low
+Website_https://www.odfl.com,Pearson,0.0052,Low
+Ticker_HUN,Pearson,0.0052,Low
+Ticker_GWW,Pearson,0.0052,Low
+prev_rank_175.0,Pearson,0.0052,Low
+city_Glendale,Pearson,0.0052,Low
+CEO_Jeffrey S. Lorberbaum,Pearson,0.0052,Low
+CEO_Joseph P. Brandon,Pearson,0.0052,Low
+Website_https://www.mohawkind.com,Pearson,0.0052,Low
+Website_https://www.alleghany.com,Pearson,0.0052,Low
+Website_https://www.marshmclennan.com,Pearson,0.0052,Low
+company_Huntsman,Pearson,0.0052,Low
+company_Mohawk Industries,Pearson,0.0052,Low
+city_Stamford,Pearson,0.0052,Low
+Website_https://www.bostonscientific.com,Pearson,0.0052,Low
+Ticker_BSX,Pearson,0.0052,Low
+Ticker_ODFL,Pearson,0.0052,Low
+prev_rank_339.0,Pearson,0.0052,Low
+prev_rank_321.0,Pearson,0.0052,Low
+Ticker_MMC,Pearson,0.0052,Low
+Ticker_MHK,Pearson,0.0052,Low
+company_Old Dominion Freight Line,Pearson,0.0052,Low
+company_W.W. Grainger,Pearson,0.0052,Low
+prev_rank_305.0,Pearson,0.0052,Low
+company_Boston Scientific,Pearson,0.0052,Low
+CEO_Michael F. Mahoney,Pearson,0.0052,Low
+CEO_Peter R. Huntsman,Pearson,0.0052,Low
+prev_rank_460.0,Pearson,0.0052,Low
+CEO_D.G. Macpherson,Pearson,0.0052,Low
+CEO_Daniel S. Glaser,Pearson,0.0052,Low
+company_Alleghany,Pearson,0.0052,Low
+Ticker_Y,Pearson,0.0052,Low
+CEO_Bryan DeBoer,Pearson,0.0051,Low
+Ticker_LAD,Pearson,0.0051,Low
+Website_https://www.lithiainvestorrelations.com,Pearson,0.0051,Low
+company_Lithia Motors,Pearson,0.0051,Low
+prev_rank_231.0,Pearson,0.0051,Low
+city_Medford,Pearson,0.0051,Low
+prev_rank_447.0,Pearson,0.0049,Low
+company_T. Rowe Price,Pearson,0.0049,Low
+Website_www.arrow.com,Pearson,0.0049,Low
+Ticker_MAR,Pearson,0.0049,Low
+CEO_Sean J. Kerins,Pearson,0.0049,Low
+prev_rank_293.0,Pearson,0.0049,Low
+prev_rank_266.0,Pearson,0.0049,Low
+company_Crown Castle International,Pearson,0.0049,Low
+CEO_Robert W. Sharps,Pearson,0.0049,Low
+Ticker_ARW,Pearson,0.0049,Low
+Website_https://www.paychex.com,Pearson,0.0049,Low
+CEO_Dominick P. Zarcone,Pearson,0.0049,Low
+CEO_Anthony G. Capuano,Pearson,0.0049,Low
+Website_https://www.troweprice.com,Pearson,0.0049,Low
+Website_https://www.marriott.com,Pearson,0.0049,Low
+Ticker_CCI,Pearson,0.0049,Low
+Website_https://www.crowncastle.com,Pearson,0.0049,Low
+company_Marriott International,Pearson,0.0049,Low
+Website_https://www.lkqcorp.com,Pearson,0.0049,Low
+prev_rank_102.0,Pearson,0.0049,Low
+city_Centennial,Pearson,0.0049,Low
+Ticker_LKQ,Pearson,0.0049,Low
+CEO_John B. Gibson,Pearson,0.0049,Low
+Ticker_TROW,Pearson,0.0049,Low
+company_LKQ,Pearson,0.0049,Low
+company_Arrow Electronics,Pearson,0.0049,Low
+city_Rochester,Pearson,0.0049,Low
+CEO_Jay A. Brown,Pearson,0.0049,Low
+company_Paychex,Pearson,0.0049,Low
+Ticker_PAYX,Pearson,0.0049,Low
+CEO_Richard J. Tobin,Pearson,0.0048,Low
+prev_rank_425.0,Pearson,0.0048,Low
+company_Dover,Pearson,0.0048,Low
+prev_rank_300.0,Pearson,0.0048,Low
+Website_https://www.zionsbancorporation.com,Pearson,0.0048,Low
+CEO_Laura J. Alber,Pearson,0.0048,Low
+Ticker_WSM,Pearson,0.0048,Low
+company_Cintas,Pearson,0.0048,Low
+company_Williams-Sonoma,Pearson,0.0048,Low
+Ticker_ALLY,Pearson,0.0048,Low
+prev_rank_287.0,Pearson,0.0048,Low
+Website_https://www.williams-sonomainc.com,Pearson,0.0048,Low
+city_New Orleans,Pearson,0.0048,Low
+company_Ally Financial,Pearson,0.0048,Low
+CEO_Andrew S. Marsh,Pearson,0.0048,Low
+Ticker_ETR,Pearson,0.0048,Low
+Website_https://www.dovercorporation.com,Pearson,0.0048,Low
+CEO_Harris H. Simmons,Pearson,0.0048,Low
+Ticker_CTAS,Pearson,0.0048,Low
+Website_https://www.ally.com,Pearson,0.0048,Low
+company_Entergy,Pearson,0.0048,Low
+CEO_Jeffrey J. Brown,Pearson,0.0048,Low
+CEO_Todd M. Schneider,Pearson,0.0048,Low
+Website_https://www.cintas.com,Pearson,0.0048,Low
+Ticker_DOV,Pearson,0.0048,Low
+prev_rank_410.0,Pearson,0.0048,Low
+company_Zions Bancorp.,Pearson,0.0048,Low
+prev_rank_429.0,Pearson,0.0048,Low
+Ticker_ZION,Pearson,0.0048,Low
+city_Salt Lake City,Pearson,0.0048,Low
+Website_https://www.entergy.com,Pearson,0.0048,Low
+CEO_Donnie D. King,Pearson,0.0047,Low
+CEO_Christophe Beck,Pearson,0.0047,Low
+Ticker_TSN,Pearson,0.0047,Low
+city_Glen Allen,Pearson,0.0047,Low
+city_Springdale,Pearson,0.0047,Low
+Website_www.tysonfoods.com,Pearson,0.0047,Low
+prev_rank_237.0,Pearson,0.0047,Low
+Website_https://www.ecolab.com,Pearson,0.0047,Low
+company_Tyson Foods,Pearson,0.0047,Low
+Ticker_ECL,Pearson,0.0047,Low
+company_Ecolab,Pearson,0.0047,Low
+prev_rank_73.0,Pearson,0.0047,Low
+Website_https://www.comerica.com,Pearson,0.0046,Low
+Ticker_CMA,Pearson,0.0046,Low
+Website_https://www.coterra.com,Pearson,0.0046,Low
+company_Comerica,Pearson,0.0046,Low
+company_Coterra Energy,Pearson,0.0046,Low
+prev_rank_393.0,Pearson,0.0046,Low
+CEO_Curtis C. Farmer,Pearson,0.0046,Low
+city_Sarasota,Pearson,0.0046,Low
+company_SLM,Pearson,0.0046,Low
+Ticker_CTRA,Pearson,0.0046,Low
+company_S&P Global,Pearson,0.0046,Low
+company_Roper Technologies,Pearson,0.0046,Low
+Ticker_SPGI,Pearson,0.0046,Low
+CEO_Jonathan W. Witter,Pearson,0.0046,Low
+CEO_Thomas R. Palmer,Pearson,0.0046,Low
+prev_rank_488.0,Pearson,0.0046,Low
+prev_rank_273.0,Pearson,0.0046,Low
+Ticker_BKNG,Pearson,0.0046,Low
+Website_https://www.newmont.com,Pearson,0.0046,Low
+city_Dallas,Pearson,0.0046,Low
+CEO_Thomas E. Jorden,Pearson,0.0046,Low
+Website_https://www.bookingholdings.com,Pearson,0.0046,Low
+Ticker_SLM,Pearson,0.0046,Low
+Ticker_ROP,Pearson,0.0046,Low
+prev_rank_424.0,Pearson,0.0046,Low
+Website_https://www.spglobal.com,Pearson,0.0046,Low
+CEO_L. Neil Hunn,Pearson,0.0046,Low
+CEO_Glenn D. Fogel,Pearson,0.0046,Low
+company_Newmont,Pearson,0.0046,Low
+company_Booking Holdings,Pearson,0.0046,Low
+CEO_Douglas L. Peterson,Pearson,0.0046,Low
+Ticker_NEM,Pearson,0.0046,Low
+Website_https://www.ropertech.com,Pearson,0.0046,Low
+Website_https://www.salliemae.com,Pearson,0.0046,Low
+Ticker_NDAQ,Pearson,0.0045,Low
+prev_rank_143.0,Pearson,0.0045,Low
+Website_https://www.norfolksouthern.com,Pearson,0.0045,Low
+company_Norfolk Southern,Pearson,0.0045,Low
+city_Fremont,Pearson,0.0045,Low
+state_GA,Pearson,0.0045,Low
+Ticker_PAG,Pearson,0.0045,Low
+company_Penske Automotive Group,Pearson,0.0045,Low
+prev_rank_307.0,Pearson,0.0045,Low
+city_Bloomfield Hills,Pearson,0.0045,Low
+Ticker_NSC,Pearson,0.0045,Low
+CEO_Roger S. Penske,Pearson,0.0045,Low
+Website_https://www.penskeautomotive.com,Pearson,0.0045,Low
+Website_https://www.nasdaq.com,Pearson,0.0045,Low
+company_Nasdaq,Pearson,0.0045,Low
+CEO_Alan H. Shaw,Pearson,0.0045,Low
+CEO_Adena T. Friedman,Pearson,0.0045,Low
+Website_https://www.clevelandcliffs.com,Pearson,0.0044,Low
+Ticker_CLF,Pearson,0.0044,Low
+company_Carlyle Group,Pearson,0.0044,Low
+CEO_C. Lourenco Goncalves,Pearson,0.0044,Low
+company_Cleveland-Cliffs,Pearson,0.0044,Low
+city_Marlborough,Pearson,0.0044,Low
+Ticker_CG,Pearson,0.0044,Low
+city_Memphis,Pearson,0.0044,Low
+Website_https://www.carlyle.com,Pearson,0.0044,Low
+CEO_William Conway Jr.,Pearson,0.0044,Low
+CEO_Joseph R. Nolan Jr.,Pearson,0.0043,Low
+prev_rank_338.0,Pearson,0.0043,Low
+Website_https://www.eversource.com,Pearson,0.0043,Low
+company_Eversource Energy,Pearson,0.0043,Low
+Website_https://www.agilent.com,Pearson,0.0043,Low
+Ticker_ES,Pearson,0.0043,Low
+CEO_Michael R. McMullen,Pearson,0.0043,Low
+company_Agilent Technologies,Pearson,0.0043,Low
+prev_rank_386.0,Pearson,0.0042,Low
+company_Cincinnati Financial,Pearson,0.0042,Low
+CEO_Eugene J. Bredow,Pearson,0.0042,Low
+Ticker_PLD,Pearson,0.0042,Low
+company_Prologis,Pearson,0.0042,Low
+CEO_Hamid R. Moghadam,Pearson,0.0042,Low
+prev_rank_395.0,Pearson,0.0042,Low
+company_Otis Worldwide,Pearson,0.0042,Low
+prev_rank_383.0,Pearson,0.0042,Low
+Ticker_OTIS,Pearson,0.0042,Low
+Website_https://www.firstam.com,Pearson,0.0042,Low
+CEO_Bruce D. Broussard,Pearson,0.0042,Low
+prev_rank_41.0,Pearson,0.0042,Low
+prev_rank_409.0,Pearson,0.0042,Low
+Ticker_COO,Pearson,0.0042,Low
+company_First American Financial,Pearson,0.0042,Low
+Ticker_HUM,Pearson,0.0042,Low
+prev_rank_236.0,Pearson,0.0042,Low
+CEO_Steven J. Johnston,Pearson,0.0042,Low
+Website_https://www.otis.com,Pearson,0.0042,Low
+Website_https://www.nvrinc.com,Pearson,0.0042,Low
+company_NVR,Pearson,0.0042,Low
+company_Humana,Pearson,0.0042,Low
+city_Fairfield,Pearson,0.0042,Low
+Ticker_MSI,Pearson,0.0042,Low
+CEO_Kenneth D. DeGiorgio,Pearson,0.0042,Low
+Website_https://www.prologis.com,Pearson,0.0042,Low
+CEO_Judith F. Marks,Pearson,0.0042,Low
+company_Cooper Cos.,Pearson,0.0042,Low
+Ticker_NVR,Pearson,0.0042,Low
+Website_https://www.coopercos.com,Pearson,0.0042,Low
+Website_www.humana.com,Pearson,0.0042,Low
+CEO_Albert G. White III,Pearson,0.0042,Low
+CEO_Gregory Q. Brown,Pearson,0.0042,Low
+company_Motorola Solutions,Pearson,0.0042,Low
+Ticker_FAF,Pearson,0.0042,Low
+Website_https://www.cinfin.com,Pearson,0.0042,Low
+Ticker_CINF,Pearson,0.0042,Low
+Website_https://www.motorolasolutions.com,Pearson,0.0042,Low
+city_Farmington,Pearson,0.0042,Low
+Website_https://www.amwater.com,Pearson,0.0041,Low
+CEO_M. Susan Hardwick,Pearson,0.0041,Low
+CEO_William J. Hornbuckle,Pearson,0.0041,Low
+ceo_founder_yes,Pearson,0.0041,Low
+company_MGM Resorts International,Pearson,0.0041,Low
+Website_https://www.mgmresorts.com,Pearson,0.0041,Low
+company_American Water Works,Pearson,0.0041,Low
+Ticker_AWK,Pearson,0.0041,Low
+Ticker_MGM,Pearson,0.0041,Low
+company_Baxter International,Pearson,0.004,Low
+company_Avis Budget Group,Pearson,0.004,Low
+CEO_José E. Almeida,Pearson,0.004,Low
+prev_rank_297.0,Pearson,0.004,Low
+Ticker_RSG,Pearson,0.004,Low
+Website_https://www.republicservices.com,Pearson,0.004,Low
+company_FirstEnergy,Pearson,0.004,Low
+CEO_Jon Vander Ark,Pearson,0.004,Low
+Website_https://www.baxter.com,Pearson,0.004,Low
+CEO_John W. Somerhalder II,Pearson,0.004,Low
+prev_rank_294.0,Pearson,0.004,Low
+prev_rank_264.0,Pearson,0.004,Low
+prev_rank_498.0,Pearson,0.004,Low
+Website_https://www.firstenergycorp.com,Pearson,0.004,Low
+Ticker_FE,Pearson,0.004,Low
+CEO_Joseph A. Ferraro,Pearson,0.004,Low
+Ticker_CAR,Pearson,0.004,Low
+Ticker_BAX,Pearson,0.004,Low
+company_Republic Services,Pearson,0.004,Low
+Website_https://www.avisbudgetgroup.com,Pearson,0.004,Low
+CEO_Scott J. Lauber,Pearson,0.0039,Low
+Ticker_OLN,Pearson,0.0039,Low
+Ticker_WEC,Pearson,0.0039,Low
+prev_rank_472.0,Pearson,0.0039,Low
+prev_rank_400.0,Pearson,0.0039,Low
+CEO_Fabrizio Freda,Pearson,0.0039,Low
+prev_rank_283.0,Pearson,0.0039,Low
+CEO_Stephen D. Steinour,Pearson,0.0039,Low
+company_Conagra Brands,Pearson,0.0039,Low
+company_WEC Energy Group,Pearson,0.0039,Low
+city_Clayton,Pearson,0.0039,Low
+CEO_Sean M. Connolly,Pearson,0.0039,Low
+CEO_Scott M. Sutton,Pearson,0.0039,Low
+company_Estée Lauder,Pearson,0.0039,Low
+Ticker_HBAN,Pearson,0.0039,Low
+prev_rank_213.0,Pearson,0.0039,Low
+company_Olin,Pearson,0.0039,Low
+company_Huntington Bancshares,Pearson,0.0039,Low
+Website_https://www.olin.com,Pearson,0.0039,Low
+Ticker_CAG,Pearson,0.0039,Low
+Ticker_EL,Pearson,0.0039,Low
+Website_https://www.conagrabrands.com,Pearson,0.0039,Low
+Website_https://www.elcompanies.com,Pearson,0.0039,Low
+Website_https://www.wecenergygroup.com,Pearson,0.0039,Low
+Website_https://www.huntington.com,Pearson,0.0039,Low
+CEO_Douglas H. Shulman,Pearson,0.0038,Low
+company_Dollar Tree,Pearson,0.0038,Low
+CEO_Jeffrey W. Martin,Pearson,0.0038,Low
+Ticker_OMF,Pearson,0.0038,Low
+company_Sempra,Pearson,0.0038,Low
+Ticker_DLTR,Pearson,0.0038,Low
+Website_https://www.dollartree.com,Pearson,0.0038,Low
+city_Burlington,Pearson,0.0038,Low
+Website_https://www.omf.com,Pearson,0.0038,Low
+prev_rank_255.0,Pearson,0.0038,Low
+prev_rank_48.0,Pearson,0.0038,Low
+Website_www.phillips66.com,Pearson,0.0038,Low
+Ticker_SRE,Pearson,0.0038,Low
+prev_rank_111.0,Pearson,0.0038,Low
+company_OneMain Holdings,Pearson,0.0038,Low
+city_Chesapeake,Pearson,0.0038,Low
+Website_https://www.sempra.com,Pearson,0.0038,Low
+company_Phillips 66,Pearson,0.0038,Low
+Ticker_PSX,Pearson,0.0038,Low
+CEO_Michael A. Witynski,Pearson,0.0038,Low
+CEO_Mark E. Lashier,Pearson,0.0038,Low
+Ticker_FISV,Pearson,0.0037,Low
+Ticker_ED,Pearson,0.0037,Low
+Ticker_EQR,Pearson,0.0037,Low
+CEO_Frank J. Bisignano,Pearson,0.0037,Low
+Website_https://www.conedison.com,Pearson,0.0037,Low
+CEO_Sarah M. London,Pearson,0.0037,Low
+CEO_Sarah E. Nash,Pearson,0.0037,Low
+Ticker_CNC,Pearson,0.0037,Low
+Website_https://www.fiserv.com,Pearson,0.0037,Low
+Website_https://www.equityapartments.com,Pearson,0.0037,Low
+company_Consolidated Edison,Pearson,0.0037,Low
+company_Bath & Body Works,Pearson,0.0037,Low
+company_Equity Residential,Pearson,0.0037,Low
+prev_rank_249.0,Pearson,0.0037,Low
+Website_www.centene.com,Pearson,0.0037,Low
+company_Fiserv,Pearson,0.0037,Low
+prev_rank_257.0,Pearson,0.0037,Low
+company_Centene,Pearson,0.0037,Low
+Website_https://www.bbwinc.com,Pearson,0.0037,Low
+prev_rank_205.0,Pearson,0.0037,Low
+CEO_Timothy P. Cawley,Pearson,0.0037,Low
+prev_rank_24.0,Pearson,0.0037,Low
+Ticker_BBWI,Pearson,0.0037,Low
+CEO_Mark J. Parrell,Pearson,0.0037,Low
+prev_rank_440.0,Pearson,0.0036,Low
+prev_rank_430.0,Pearson,0.0036,Low
+company_CMS Energy,Pearson,0.0036,Low
+city_Jackson,Pearson,0.0036,Low
+company_Rockwell Automation,Pearson,0.0036,Low
+Website_https://www.rockwellautomation.com,Pearson,0.0036,Low
+Website_https://www.cmsenergy.com,Pearson,0.0036,Low
+CEO_Blake D. Moret,Pearson,0.0036,Low
+CEO_Richard E. Muncrief,Pearson,0.0036,Low
+Ticker_DVN,Pearson,0.0036,Low
+company_Devon Energy,Pearson,0.0036,Low
+Website_https://www.devonenergy.com,Pearson,0.0036,Low
+CEO_Garrick J. Rochow,Pearson,0.0036,Low
+Ticker_CMS,Pearson,0.0036,Low
+Ticker_ROK,Pearson,0.0036,Low
+company_Monster Beverage,Pearson,0.0035,Low
+Website_https://www.assurant.com,Pearson,0.0035,Low
+Website_https://www.autonation.com,Pearson,0.0035,Low
+Website_https://www.lpcorp.com,Pearson,0.0035,Low
+Ticker_AN,Pearson,0.0035,Low
+prev_rank_302.0,Pearson,0.0035,Low
+CEO_Christopher A. Cartwright,Pearson,0.0035,Low
+company_Analog Devices,Pearson,0.0035,Low
+Website_https://www.transunion.com,Pearson,0.0035,Low
+Website_https://www.unitedrentals.com,Pearson,0.0035,Low
+company_AutoNation,Pearson,0.0035,Low
+company_Assurant,Pearson,0.0035,Low
+Ticker_TRU,Pearson,0.0035,Low
+prev_rank_145.0,Pearson,0.0035,Low
+CEO_Keith W. Demmings,Pearson,0.0035,Low
+Website_https://www.analog.com,Pearson,0.0035,Low
+prev_rank_481.0,Pearson,0.0035,Low
+city_Corona,Pearson,0.0035,Low
+Ticker_AIZ,Pearson,0.0035,Low
+Ticker_LPX,Pearson,0.0035,Low
+Ticker_ADI,Pearson,0.0035,Low
+company_Zoom Video Communications,Pearson,0.0035,Low
+CEO_Michael M. Manley,Pearson,0.0035,Low
+CEO_W. Bradley Southern,Pearson,0.0035,Low
+Website_https://www.zoom.us,Pearson,0.0035,Low
+company_TransUnion,Pearson,0.0035,Low
+Ticker_URI,Pearson,0.0035,Low
+CEO_Eric Yuan,Pearson,0.0035,Low
+CEO_Matthew J. Flannery,Pearson,0.0035,Low
+Ticker_ZM,Pearson,0.0035,Low
+Website_https://www.monsterbevcorp.com,Pearson,0.0035,Low
+company_Louisiana-Pacific,Pearson,0.0035,Low
+Ticker_MNST,Pearson,0.0035,Low
+company_United Rentals,Pearson,0.0035,Low
+prev_rank_352.0,Pearson,0.0035,Low
+prev_rank_367.0,Pearson,0.0034,Low
+prev_rank_229.0,Pearson,0.0034,Low
+CEO_Ellen G. Cooper,Pearson,0.0034,Low
+company_Fifth Third Bancorp,Pearson,0.0034,Low
+Website_https://www.omnicomgroup.com,Pearson,0.0034,Low
+prev_rank_358.0,Pearson,0.0034,Low
+CEO_John D. Wren,Pearson,0.0034,Low
+Website_https://www.53.com,Pearson,0.0034,Low
+CEO_Timothy N. Spence,Pearson,0.0034,Low
+prev_rank_172.0,Pearson,0.0034,Low
+Ticker_RJF,Pearson,0.0034,Low
+city_Deerfield,Pearson,0.0034,Low
+Website_https://www.lfg.com,Pearson,0.0034,Low
+CEO_Paul C. Reilly,Pearson,0.0034,Low
+company_Raymond James Financial,Pearson,0.0034,Low
+Ticker_LNC,Pearson,0.0034,Low
+company_Omnicom Group,Pearson,0.0034,Low
+company_Lincoln National,Pearson,0.0034,Low
+Website_https://www.raymondjames.com,Pearson,0.0034,Low
+Ticker_FITB,Pearson,0.0034,Low
+Ticker_OMC,Pearson,0.0034,Low
+Ticker_RS,Pearson,0.0033,Low
+company_Expeditors Intl. of Washington,Pearson,0.0033,Low
+prev_rank_164.0,Pearson,0.0033,Low
+prev_rank_343.0,Pearson,0.0033,Low
+Ticker_OVV,Pearson,0.0033,Low
+Website_https://www.ovintiv.com,Pearson,0.0033,Low
+prev_rank_458.0,Pearson,0.0033,Low
+Website_https://www.ameriprise.com,Pearson,0.0033,Low
+Website_https://www.macysinc.com,Pearson,0.0033,Low
+prev_rank_253.0,Pearson,0.0033,Low
+Website_https://www.rsac.com,Pearson,0.0033,Low
+company_Reliance Steel & Aluminum,Pearson,0.0033,Low
+company_Ameriprise Financial,Pearson,0.0033,Low
+Website_https://www.expeditors.com,Pearson,0.0033,Low
+company_Ovintiv,Pearson,0.0033,Low
+CEO_James D. Hoffman,Pearson,0.0033,Low
+company_Macy's,Pearson,0.0033,Low
+Ticker_AMP,Pearson,0.0033,Low
+city_Boise,Pearson,0.0033,Low
+CEO_James M. Cracchiolo,Pearson,0.0033,Low
+CEO_Jeffrey Gennette,Pearson,0.0033,Low
+CEO_Brendan M. McCracken,Pearson,0.0033,Low
+prev_rank_299.0,Pearson,0.0033,Low
+Ticker_M,Pearson,0.0033,Low
+Ticker_EXPD,Pearson,0.0033,Low
+CEO_Jeffrey Musser,Pearson,0.0033,Low
+city_Bethesda,Pearson,0.0032,Low
+prev_rank_220.0,Pearson,0.0032,Low
+CEO_Michael H. McGarry,Pearson,0.0032,Low
+CEO_Marc R. Benioff/Bret Taylor,Pearson,0.0032,Low
+Website_https://www.salesforce.com,Pearson,0.0032,Low
+Ticker_CRM,Pearson,0.0032,Low
+Ticker_PPG,Pearson,0.0032,Low
+prev_rank_137.0,Pearson,0.0032,Low
+company_PPG Industries,Pearson,0.0032,Low
+Website_https://www.ppg.com,Pearson,0.0032,Low
+company_Salesforce,Pearson,0.0032,Low
+Ticker_UGI,Pearson,0.0031,Low
+CEO_Jeffrey A. Miller,Pearson,0.0031,Low
+company_UGI,Pearson,0.0031,Low
+CEO_Jay Bray,Pearson,0.0031,Low
+company_Archer Daniels Midland,Pearson,0.0031,Low
+Ticker_COOP,Pearson,0.0031,Low
+CEO_Roger Perreault,Pearson,0.0031,Low
+prev_rank_436.0,Pearson,0.0031,Low
+Website_https://www.mrcoopergroup.com,Pearson,0.0031,Low
+Ticker_HAL,Pearson,0.0031,Low
+Website_www.adm.com,Pearson,0.0031,Low
+prev_rank_211.0,Pearson,0.0031,Low
+Website_https://www.halliburton.com,Pearson,0.0031,Low
+CEO_Juan R. Luciano,Pearson,0.0031,Low
+Website_https://www.ugicorp.com,Pearson,0.0031,Low
+company_Mr. Cooper Group,Pearson,0.0031,Low
+prev_rank_51.0,Pearson,0.0031,Low
+city_Coppell,Pearson,0.0031,Low
+company_Halliburton,Pearson,0.0031,Low
+Ticker_ADM,Pearson,0.0031,Low
+company_Illinois Tool Works,Pearson,0.003,Low
+company_State Street,Pearson,0.003,Low
+city_Glenview,Pearson,0.003,Low
+CEO_Ronald P. O&#039;Hanley,Pearson,0.003,Low
+CEO_David J. Lesar,Pearson,0.003,Low
+company_Activision Blizzard,Pearson,0.003,Low
+city_Oklahoma City,Pearson,0.003,Low
+CEO_E. Scott Santi,Pearson,0.003,Low
+city_Hershey,Pearson,0.003,Low
+company_Kellogg,Pearson,0.003,Low
+Website_https://www.kelloggcompany.com,Pearson,0.003,Low
+CEO_Steven A. Cahillane,Pearson,0.003,Low
+Ticker_ATVI,Pearson,0.003,Low
+prev_rank_342.0,Pearson,0.003,Low
+CEO_Robert A. Kotick,Pearson,0.003,Low
+Ticker_CNP,Pearson,0.003,Low
+Website_https://www.firstrepublic.com,Pearson,0.003,Low
+Website_https://www.itw.com,Pearson,0.003,Low
+Website_https://www.centerpointenergy.com,Pearson,0.003,Low
+Ticker_HSY,Pearson,0.003,Low
+company_First Republic Bank,Pearson,0.003,Low
+prev_rank_222.0,Pearson,0.003,Low
+Website_https://www.activisionblizzard.com,Pearson,0.003,Low
+Website_https://www.statestreet.com,Pearson,0.003,Low
+company_CenterPoint Energy,Pearson,0.003,Low
+CEO_Michele G. Buck,Pearson,0.003,Low
+CEO_Michael J. Roffler,Pearson,0.003,Low
+prev_rank_373.0,Pearson,0.003,Low
+prev_rank_370.0,Pearson,0.003,Low
+Ticker_STT,Pearson,0.003,Low
+prev_rank_252.0,Pearson,0.003,Low
+Website_https://www.thehersheycompany.com,Pearson,0.003,Low
+city_Battle Creek,Pearson,0.003,Low
+Ticker_FRC,Pearson,0.003,Low
+company_Hershey,Pearson,0.003,Low
+Ticker_K,Pearson,0.003,Low
+prev_rank_240.0,Pearson,0.003,Low
+Ticker_ITW,Pearson,0.003,Low
+Ticker_EW,Pearson,0.0029,Low
+Website_https://www.edwards.com,Pearson,0.0029,Low
+Ticker_OKE,Pearson,0.0029,Low
+company_Edwards Lifesciences,Pearson,0.0029,Low
+company_Oneok,Pearson,0.0029,Low
+CEO_Pierce H. Norton II,Pearson,0.0029,Low
+Website_https://www.oneok.com,Pearson,0.0029,Low
+CEO_Liam K. Griffin,Pearson,0.0029,Low
+Ticker_SWKS,Pearson,0.0029,Low
+CEO_Michael A. Mussallem,Pearson,0.0029,Low
+Website_https://www.skyworksinc.com,Pearson,0.0029,Low
+company_Skyworks Solutions,Pearson,0.0029,Low
+prev_rank_351.0,Pearson,0.0029,Low
+Website_https://www.williams.com,Pearson,0.0028,Low
+company_Dick's Sporting Goods,Pearson,0.0028,Low
+"sector_Food, Beverages & Tobacco",Pearson,0.0028,Low
+Ticker_WMB,Pearson,0.0028,Low
+CEO_Lauren R. Hobart,Pearson,0.0028,Low
+city_Springfield,Pearson,0.0028,Low
+prev_rank_379.0,Pearson,0.0028,Low
+CEO_Alan S. Armstrong,Pearson,0.0028,Low
+Website_https://www.dickssportinggoods.com,Pearson,0.0028,Low
+prev_rank_320.0,Pearson,0.0028,Low
+Ticker_DKS,Pearson,0.0028,Low
+city_Coraopolis,Pearson,0.0028,Low
+company_Williams,Pearson,0.0028,Low
+Website_www.amerisourcebergen.com,Pearson,0.0027,Low
+prev_rank_443.0,Pearson,0.0027,Low
+Website_https://www.oldrepublic.com,Pearson,0.0027,Low
+company_CME Group,Pearson,0.0027,Low
+Website_https://www.northerntrust.com,Pearson,0.0027,Low
+CEO_Michael G. O&#039;Grady,Pearson,0.0027,Low
+CEO_Terrence A. Duffy,Pearson,0.0027,Low
+prev_rank_401.0,Pearson,0.0027,Low
+Ticker_ABC,Pearson,0.0027,Low
+Ticker_CME,Pearson,0.0027,Low
+Ticker_NTRS,Pearson,0.0027,Low
+CEO_Craig R. Smiddy,Pearson,0.0027,Low
+company_AmerisourceBergen,Pearson,0.0027,Low
+CEO_Steven H. Collis,Pearson,0.0027,Low
+Website_https://www.cmegroup.com,Pearson,0.0027,Low
+Ticker_ORI,Pearson,0.0027,Low
+company_Old Republic International,Pearson,0.0027,Low
+prev_rank_8.0,Pearson,0.0027,Low
+company_Northern Trust,Pearson,0.0027,Low
+city_Conshohocken,Pearson,0.0027,Low
+Website_https://www.key.com,Pearson,0.0026,Low
+prev_rank_396.0,Pearson,0.0026,Low
+Website_https://www.biogen.com,Pearson,0.0026,Low
+CEO_Devin W. Stockfish,Pearson,0.0026,Low
+Ticker_WY,Pearson,0.0026,Low
+city_Baltimore,Pearson,0.0026,Low
+company_KeyCorp,Pearson,0.0026,Low
+Ticker_BIIB,Pearson,0.0026,Low
+Ticker_KEY,Pearson,0.0026,Low
+company_Biogen,Pearson,0.0026,Low
+prev_rank_387.0,Pearson,0.0026,Low
+company_Weyerhaeuser,Pearson,0.0026,Low
+CEO_Michel Vounatsos,Pearson,0.0026,Low
+Website_https://www.weyerhaeuser.com,Pearson,0.0026,Low
+CEO_Christopher M. Gorman,Pearson,0.0026,Low
+prev_rank_228.0,Pearson,0.0026,Low
+Ticker_YUM,Pearson,0.0025,Low
+Ticker_ADP,Pearson,0.0025,Low
+Website_https://www.yum.com,Pearson,0.0025,Low
+Website_https://www.loews.com,Pearson,0.0025,Low
+prev_rank_349.0,Pearson,0.0025,Low
+city_Irving,Pearson,0.0025,Low
+Ticker_APH,Pearson,0.0025,Low
+CEO_David W. Gibbs,Pearson,0.0025,Low
+city_St. Paul,Pearson,0.0025,Low
+CEO_Carlos A. Rodriguez,Pearson,0.0025,Low
+city_Roseland,Pearson,0.0025,Low
+city_Wallingford,Pearson,0.0025,Low
+company_Loews,Pearson,0.0025,Low
+prev_rank_239.0,Pearson,0.0025,Low
+Website_https://www.amphenol.com,Pearson,0.0025,Low
+CEO_R. Adam Norwitt,Pearson,0.0025,Low
+company_Automatic Data Processing,Pearson,0.0025,Low
+CEO_James S. Tisch,Pearson,0.0025,Low
+company_Amphenol,Pearson,0.0025,Low
+Ticker_L,Pearson,0.0025,Low
+prev_rank_478.0,Pearson,0.0025,Low
+Website_https://www.adp.com,Pearson,0.0025,Low
+prev_rank_208.0,Pearson,0.0025,Low
+company_Yum Brands,Pearson,0.0025,Low
+Ticker_AMT,Pearson,0.0024,Low
+state_RI,Pearson,0.0024,Low
+CEO_Robert C. Frenzel,Pearson,0.0024,Low
+company_Xcel Energy,Pearson,0.0024,Low
+Website_www.allstate.com,Pearson,0.0024,Low
+company_Allstate,Pearson,0.0024,Low
+Ticker_XEL,Pearson,0.0024,Low
+Website_https://www.xcelenergy.com,Pearson,0.0024,Low
+company_American Tower,Pearson,0.0024,Low
+prev_rank_272.0,Pearson,0.0024,Low
+prev_rank_375.0,Pearson,0.0024,Low
+prev_rank_70.0,Pearson,0.0024,Low
+Ticker_ALL,Pearson,0.0024,Low
+Website_https://www.americantower.com,Pearson,0.0024,Low
+CEO_Thomas J. Wilson,Pearson,0.0024,Low
+CEO_Thomas A. Bartlett,Pearson,0.0024,Low
+CEO_James C. O&#039;Rourke,Pearson,0.0023,Low
+Ticker_MOS,Pearson,0.0023,Low
+prev_rank_346.0,Pearson,0.0023,Low
+company_Mosaic,Pearson,0.0023,Low
+Website_https://www.mosaicco.com,Pearson,0.0023,Low
+prev_rank_16.0,Pearson,0.0022,Low
+company_Walgreens Boots Alliance,Pearson,0.0022,Low
+Website_www.walgreensbootsalliance.com,Pearson,0.0022,Low
+CEO_Roz Brewer,Pearson,0.0022,Low
+Ticker_WBA,Pearson,0.0022,Low
+Ticker_CLR,Pearson,0.0021,Low
+Website_https://www.regions.com,Pearson,0.0021,Low
+CEO_Richard Handler,Pearson,0.0021,Low
+Website_https://www.clr.com,Pearson,0.0021,Low
+company_Jefferies Financial Group,Pearson,0.0021,Low
+CEO_William B. Berry,Pearson,0.0021,Low
+CEO_W. Rodney McMullen,Pearson,0.0021,Low
+Website_https://www.jefferies.com,Pearson,0.0021,Low
+company_Kroger,Pearson,0.0021,Low
+company_Continental Resources,Pearson,0.0021,Low
+prev_rank_434.0,Pearson,0.0021,Low
+CEO_David L. Gitlin,Pearson,0.0021,Low
+prev_rank_171.0,Pearson,0.0021,Low
+Ticker_JEF,Pearson,0.0021,Low
+Ticker_KR,Pearson,0.0021,Low
+company_Carrier Global,Pearson,0.0021,Low
+prev_rank_419.0,Pearson,0.0021,Low
+Ticker_RF,Pearson,0.0021,Low
+CEO_John M. Turner Jr.,Pearson,0.0021,Low
+Ticker_CARR,Pearson,0.0021,Low
+Website_www.thekrogerco.com,Pearson,0.0021,Low
+Website_https://www.corporate.carrier.com,Pearson,0.0021,Low
+prev_rank_17.0,Pearson,0.0021,Low
+company_Regions Financial,Pearson,0.0021,Low
+company_American Electric Power,Pearson,0.002,Low
+company_Stanley Black & Decker,Pearson,0.002,Low
+prev_rank_204.0,Pearson,0.002,Low
+prev_rank_209.0,Pearson,0.002,Low
+Website_https://www.aep.com,Pearson,0.002,Low
+Website_https://www.stanleyblackanddecker.com,Pearson,0.002,Low
+CEO_Donald Allan Jr.,Pearson,0.002,Low
+Ticker_SWK,Pearson,0.002,Low
+CEO_Nicholas K. Akins,Pearson,0.002,Low
+city_New Britain,Pearson,0.002,Low
+Ticker_AEP,Pearson,0.002,Low
+Ticker_ISRG,Pearson,0.0019,Low
+CEO_William F. Gifford Jr.,Pearson,0.0019,Low
+company_Altria Group,Pearson,0.0019,Low
+prev_rank_206.0,Pearson,0.0019,Low
+CEO_Christopher M. Crane,Pearson,0.0019,Low
+company_Digital Realty Trust,Pearson,0.0019,Low
+Website_https://www.altria.com,Pearson,0.0019,Low
+city_Des Moines,Pearson,0.0019,Low
+prev_rank_138.0,Pearson,0.0019,Low
+prev_rank_92.0,Pearson,0.0019,Low
+company_Principal Financial,Pearson,0.0019,Low
+Ticker_PFG,Pearson,0.0019,Low
+company_Exelon,Pearson,0.0019,Low
+Ticker_EXC,Pearson,0.0019,Low
+CEO_A. William Stein,Pearson,0.0019,Low
+company_Intuitive Surgical,Pearson,0.0019,Low
+Website_https://www.digitalrealty.com,Pearson,0.0019,Low
+Website_www.exeloncorp.com,Pearson,0.0019,Low
+CEO_Gary S. Guthart,Pearson,0.0019,Low
+Website_https://www.intuitive.com,Pearson,0.0019,Low
+Ticker_DLR,Pearson,0.0019,Low
+Website_https://www.principal.com,Pearson,0.0019,Low
+Ticker_MO,Pearson,0.0019,Low
+CEO_Daniel J. Houston,Pearson,0.0019,Low
+city_Richfield,Pearson,0.0018,Low
+prev_rank_350.0,Pearson,0.0018,Low
+CEO_Barbara Rentler,Pearson,0.0018,Low
+Ticker_BBY,Pearson,0.0018,Low
+Website_https://www.rossstores.com,Pearson,0.0018,Low
+sector_Motor Vehicles & Parts,Pearson,0.0018,Low
+prev_rank_242.0,Pearson,0.0018,Low
+Ticker_BLDR,Pearson,0.0018,Low
+company_Best Buy,Pearson,0.0018,Low
+company_Builders FirstSource,Pearson,0.0018,Low
+CEO_David Flitman,Pearson,0.0018,Low
+CEO_Corie S. Barry,Pearson,0.0018,Low
+Ticker_ROST,Pearson,0.0018,Low
+company_Ross Stores,Pearson,0.0018,Low
+Website_https://www.bldr.com,Pearson,0.0018,Low
+Website_www.investors.bestbuy.com,Pearson,0.0018,Low
+prev_rank_66.0,Pearson,0.0018,Low
+Ticker_MKL,Pearson,0.0017,Low
+prev_rank_311.0,Pearson,0.0017,Low
+CEO_Thomas S. Gayner/Richard R. Whitt III,Pearson,0.0017,Low
+prev_rank_223.0,Pearson,0.0017,Low
+company_International Paper,Pearson,0.0017,Low
+Website_https://www.parker.com,Pearson,0.0017,Low
+Website_https://www.markel.com,Pearson,0.0017,Low
+Ticker_IP,Pearson,0.0017,Low
+company_Parker-Hannifin,Pearson,0.0017,Low
+CEO_Thomas L. Williams,Pearson,0.0017,Low
+company_Markel,Pearson,0.0017,Low
+Ticker_PH,Pearson,0.0017,Low
+prev_rank_141.0,Pearson,0.0017,Low
+CEO_Mark S. Sutton,Pearson,0.0017,Low
+Website_https://www.internationalpaper.com,Pearson,0.0017,Low
+Website_https://www.dish.com,Pearson,0.0016,Low
+Ticker_DISH,Pearson,0.0016,Low
+prev_rank_288.0,Pearson,0.0016,Low
+company_Corteva,Pearson,0.0016,Low
+company_DISH Network,Pearson,0.0016,Low
+prev_rank_214.0,Pearson,0.0016,Low
+Ticker_CTVA,Pearson,0.0016,Low
+CEO_Michael Nolan,Pearson,0.0016,Low
+CEO_Charles V. Magro,Pearson,0.0016,Low
+Website_https://www.fnf.com,Pearson,0.0016,Low
+Ticker_FNF,Pearson,0.0016,Low
+CEO_W. Erik Carlson,Pearson,0.0016,Low
+Website_https://www.corteva.com,Pearson,0.0016,Low
+company_Fidelity National Financial,Pearson,0.0016,Low
+prev_rank_197.0,Pearson,0.0016,Low
+Ticker_WHR,Pearson,0.0015,Low
+company_Southern,Pearson,0.0015,Low
+state_ID,Pearson,0.0015,Low
+prev_rank_154.0,Pearson,0.0015,Low
+Website_https://www.annaly.com,Pearson,0.0015,Low
+Ticker_KMI,Pearson,0.0015,Low
+city_Benton Harbor,Pearson,0.0015,Low
+CEO_Jeffery C. Owen,Pearson,0.0015,Low
+Website_https://www.kindermorgan.com,Pearson,0.0015,Low
+company_Annaly Capital Management,Pearson,0.0015,Low
+company_Kinder Morgan,Pearson,0.0015,Low
+Ticker_NLY,Pearson,0.0015,Low
+company_Dollar General,Pearson,0.0015,Low
+prev_rank_262.0,Pearson,0.0015,Low
+Ticker_DG,Pearson,0.0015,Low
+Website_www.dollargeneral.com,Pearson,0.0015,Low
+Website_https://www.whirlpoolcorp.com,Pearson,0.0015,Low
+CEO_David L. Finkelstein,Pearson,0.0015,Low
+prev_rank_146.0,Pearson,0.0015,Low
+Website_https://www.southerncompany.com,Pearson,0.0015,Low
+CEO_Marc R. Bitzer,Pearson,0.0015,Low
+company_Whirlpool,Pearson,0.0015,Low
+city_Goodlettsville,Pearson,0.0015,Low
+Ticker_SO,Pearson,0.0015,Low
+prev_rank_91.0,Pearson,0.0015,Low
+CEO_Thomas A. Fanning,Pearson,0.0015,Low
+CEO_Steven J. Kean,Pearson,0.0015,Low
+CEO_Christopher J. Swift,Pearson,0.0014,Low
+Ticker_WM,Pearson,0.0014,Low
+prev_rank_158.0,Pearson,0.0014,Low
+CEO_Michael D. Hsu,Pearson,0.0014,Low
+Website_https://www.kimberly-clark.com,Pearson,0.0014,Low
+Ticker_HIG,Pearson,0.0014,Low
+city_Hartford,Pearson,0.0014,Low
+Ticker_KMB,Pearson,0.0014,Low
+company_Waste Management,Pearson,0.0014,Low
+Website_https://www.thehartford.com,Pearson,0.0014,Low
+Ticker_LH,Pearson,0.0014,Low
+CEO_Adam H. Schechter,Pearson,0.0014,Low
+company_Kimberly-Clark,Pearson,0.0014,Low
+CEO_James C. Fish Jr.,Pearson,0.0014,Low
+Website_https://www.wm.com,Pearson,0.0014,Low
+company_Hartford Financial Services Group,Pearson,0.0014,Low
+prev_rank_142.0,Pearson,0.0014,Low
+prev_rank_218.0,Pearson,0.0014,Low
+prev_rank_202.0,Pearson,0.0014,Low
+Website_https://www.labcorp.com,Pearson,0.0014,Low
+company_Laboratory Corp. of America,Pearson,0.0014,Low
+Website_https://www.franklinresources.com,Pearson,0.0013,Low
+company_Franklin Resources,Pearson,0.0013,Low
+company_CBRE Group,Pearson,0.0013,Low
+CEO_Gregory W. Becker,Pearson,0.0013,Low
+city_San Mateo,Pearson,0.0013,Low
+CEO_Robert E. Sulentic,Pearson,0.0013,Low
+prev_rank_122.0,Pearson,0.0013,Low
+Website_https://www.svb.com,Pearson,0.0013,Low
+CEO_Jennifer M. Johnson,Pearson,0.0013,Low
+Ticker_CBRE,Pearson,0.0013,Low
+company_SVB Financial Group,Pearson,0.0013,Low
+Website_https://www.cbre.com,Pearson,0.0013,Low
+Ticker_BEN,Pearson,0.0013,Low
+Ticker_SIVB,Pearson,0.0013,Low
+prev_rank_484.0,Pearson,0.0013,Low
+company_Apollo Global Management,Pearson,0.0012,Low
+company_L3Harris Technologies,Pearson,0.0012,Low
+Website_https://www.vrtx.com,Pearson,0.0012,Low
+company_Paccar,Pearson,0.0012,Low
+CEO_Christopher E. Kubasik,Pearson,0.0012,Low
+Ticker_GIS,Pearson,0.0012,Low
+Ticker_APO,Pearson,0.0012,Low
+Ticker_VRTX,Pearson,0.0012,Low
+company_General Mills,Pearson,0.0012,Low
+prev_rank_448.0,Pearson,0.0012,Low
+prev_rank_163.0,Pearson,0.0012,Low
+CEO_Marc Rowan,Pearson,0.0012,Low
+prev_rank_169.0,Pearson,0.0012,Low
+CEO_Jeffrey L. Harmening,Pearson,0.0012,Low
+Website_https://www.paccar.com,Pearson,0.0012,Low
+Ticker_LHX,Pearson,0.0012,Low
+CEO_Reshma Kewalramani,Pearson,0.0012,Low
+Website_https://www.generalmills.com,Pearson,0.0012,Low
+Website_https://www.l3harris.com,Pearson,0.0012,Low
+company_Vertex Pharmaceuticals,Pearson,0.0012,Low
+CEO_R. Preston Feight,Pearson,0.0012,Low
+Ticker_PCAR,Pearson,0.0012,Low
+city_Bellevue,Pearson,0.0012,Low
+Website_https://www.apollo.com,Pearson,0.0012,Low
+prev_rank_159.0,Pearson,0.0012,Low
+city_Melbourne,Pearson,0.0012,Low
+CEO_Stephen MacMillan,Pearson,0.0011,Low
+CEO_S. L. Karsanbhai,Pearson,0.0011,Low
+CEO_Bruce W. Van Saun,Pearson,0.0011,Low
+Website_https://www.emerson.com,Pearson,0.0011,Low
+company_Occidental Petroleum,Pearson,0.0011,Low
+company_Sherwin-Williams,Pearson,0.0011,Low
+city_Buffalo,Pearson,0.0011,Low
+company_Emerson Electric,Pearson,0.0011,Low
+Ticker_EMR,Pearson,0.0011,Low
+Website_https://www.citizensbank.com,Pearson,0.0011,Low
+CEO_John G. Morikis,Pearson,0.0011,Low
+Website_https://www.oxy.com,Pearson,0.0011,Low
+Ticker_CFG,Pearson,0.0011,Low
+CEO_Vicki A. Hollub,Pearson,0.0011,Low
+company_Citizens Financial Group,Pearson,0.0011,Low
+prev_rank_381.0,Pearson,0.0011,Low
+CEO_René F. Jones,Pearson,0.0011,Low
+Ticker_OXY,Pearson,0.0011,Low
+Website_https://www.sherwin-williams.com,Pearson,0.0011,Low
+company_Hologic,Pearson,0.0011,Low
+Ticker_SHW,Pearson,0.0011,Low
+Ticker_HOLX,Pearson,0.0011,Low
+prev_rank_183.0,Pearson,0.0011,Low
+prev_rank_181.0,Pearson,0.0011,Low
+prev_rank_162.0,Pearson,0.0011,Low
+Website_https://www.mtb.com,Pearson,0.0011,Low
+Website_https://www.hologic.com,Pearson,0.0011,Low
+Ticker_MTB,Pearson,0.0011,Low
+company_M&T Bank,Pearson,0.0011,Low
+Website_https://www.celanese.com,Pearson,0.001,Low
+prev_rank_477.0,Pearson,0.001,Low
+CEO_Lori J. Ryerkerk,Pearson,0.001,Low
+company_Celanese,Pearson,0.001,Low
+Ticker_CE,Pearson,0.001,Low
+CEO_Wendell P. Weeks,Pearson,0.0009,Low
+company_Corning,Pearson,0.0009,Low
+city_Corning,Pearson,0.0009,Low
+Ticker_GLW,Pearson,0.0009,Low
+Website_https://www.corning.com,Pearson,0.0009,Low
+prev_rank_277.0,Pearson,0.0009,Low
+company_Simon Property Group,Pearson,0.0008,Low
+Ticker_SPG,Pearson,0.0008,Low
+CEO_David E. Simon,Pearson,0.0008,Low
+Website_https://www.simon.com,Pearson,0.0008,Low
+CEO_Joseph D. Russell Jr.,Pearson,0.0007,Low
+Ticker_PSA,Pearson,0.0007,Low
+Ticker_PHM,Pearson,0.0007,Low
+company_Public Storage,Pearson,0.0007,Low
+company_PulteGroup,Pearson,0.0007,Low
+Website_https://www.pultegroupinc.com,Pearson,0.0007,Low
+prev_rank_284.0,Pearson,0.0007,Low
+Website_https://www.publicstorage.com,Pearson,0.0007,Low
+CEO_Ryan R. Marshall,Pearson,0.0007,Low
+Ticker_MCO,Pearson,0.0006,Low
+CEO_Robert S. Fauber,Pearson,0.0006,Low
+Website_https://www.moodys.com,Pearson,0.0006,Low
+company_Moody's,Pearson,0.0006,Low
+prev_rank_359.0,Pearson,0.0005,Low
+Ticker_NRG,Pearson,0.0005,Low
+company_Constellation Brands,Pearson,0.0005,Low
+Ticker_DIS,Pearson,0.0005,Low
+CEO_James E. Davis,Pearson,0.0005,Low
+Ticker_TPG,Pearson,0.0005,Low
+company_Stryker,Pearson,0.0005,Low
+Website_https://www.questdiagnostics.com,Pearson,0.0005,Low
+Website_https://www.diamondbackenergy.com,Pearson,0.0005,Low
+CEO_Carl H. Lindner lll/S. Craig Lindner,Pearson,0.0005,Low
+prev_rank_324.0,Pearson,0.0005,Low
+prev_rank_333.0,Pearson,0.0005,Low
+company_American Financial Group,Pearson,0.0005,Low
+city_Secaucus,Pearson,0.0005,Low
+Ticker_DGX,Pearson,0.0005,Low
+CEO_Travis D. Stice,Pearson,0.0005,Low
+company_NRG Energy,Pearson,0.0005,Low
+CEO_Mauricio Gutierrez,Pearson,0.0005,Low
+company_Diamondback Energy,Pearson,0.0005,Low
+Website_https://www.stryker.com,Pearson,0.0005,Low
+prev_rank_212.0,Pearson,0.0005,Low
+company_TPG,Pearson,0.0005,Low
+city_Burbank,Pearson,0.0005,Low
+Website_https://www.nrg.com,Pearson,0.0005,Low
+prev_rank_376.0,Pearson,0.0005,Low
+Ticker_SYK,Pearson,0.0005,Low
+Ticker_FANG,Pearson,0.0005,Low
+prev_rank_50.0,Pearson,0.0005,Low
+company_Quest Diagnostics,Pearson,0.0005,Low
+CEO_William A. Newlands,Pearson,0.0005,Low
+Website_https://www.afginc.com,Pearson,0.0005,Low
+CEO_Kevin A. Lobo,Pearson,0.0005,Low
+Website_https://www.tpg.com,Pearson,0.0005,Low
+Website_www.thewaltdisneycompany.com,Pearson,0.0005,Low
+CEO_Robert A. Chapek,Pearson,0.0005,Low
+city_Victor,Pearson,0.0005,Low
+CEO_Jon Winkelried,Pearson,0.0005,Low
+Website_https://www.cbrands.com,Pearson,0.0005,Low
+Ticker_STZ,Pearson,0.0005,Low
+city_Kalamazoo,Pearson,0.0005,Low
+company_Walt Disney,Pearson,0.0005,Low
+Ticker_AFG,Pearson,0.0005,Low
+company_O'Reilly Automotive,Pearson,0.0004,Low
+Ticker_AZO,Pearson,0.0004,Low
+Website_https://www.oreillyauto.com,Pearson,0.0004,Low
+prev_rank_238.0,Pearson,0.0004,Low
+prev_rank_188.0,Pearson,0.0004,Low
+Ticker_WLK,Pearson,0.0004,Low
+company_Westlake,Pearson,0.0004,Low
+Ticker_CL,Pearson,0.0004,Low
+CEO_Gregory D. Johnson,Pearson,0.0004,Low
+Website_https://www.westlake.com,Pearson,0.0004,Low
+prev_rank_268.0,Pearson,0.0004,Low
+CEO_Albert Yuan Chao,Pearson,0.0004,Low
+Website_https://www.colgatepalmolive.com,Pearson,0.0004,Low
+company_Colgate-Palmolive,Pearson,0.0004,Low
+CEO_Noel R. Wallace,Pearson,0.0004,Low
+CEO_William C. Rhodes III,Pearson,0.0004,Low
+Ticker_ORLY,Pearson,0.0004,Low
+company_AutoZone,Pearson,0.0004,Low
+prev_rank_388.0,Pearson,0.0004,Low
+Website_https://www.autozone.com,Pearson,0.0004,Low
+prev_rank_431.0,Pearson,0.0003,Low
+Website_https://www.keurigdrpepper.com,Pearson,0.0003,Low
+Ticker_KDP,Pearson,0.0003,Low
+CEO_Kristin Peck,Pearson,0.0003,Low
+Website_https://www.lumen.com,Pearson,0.0003,Low
+prev_rank_139.0,Pearson,0.0003,Low
+CEO_Lachlan K. Murdoch,Pearson,0.0003,Low
+company_Zoetis,Pearson,0.0003,Low
+Ticker_FOXA,Pearson,0.0003,Low
+company_Lumen Technologies,Pearson,0.0003,Low
+Website_https://www.zoetis.com,Pearson,0.0003,Low
+city_Monroe,Pearson,0.0003,Low
+Website_https://www.foxcorporation.com,Pearson,0.0003,Low
+company_Fox,Pearson,0.0003,Low
+Ticker_ZTS,Pearson,0.0003,Low
+prev_rank_267.0,Pearson,0.0003,Low
+city_Westlake,Pearson,0.0003,Low
+prev_rank_247.0,Pearson,0.0003,Low
+Ticker_LUMN,Pearson,0.0003,Low
+CEO_Jeffrey K. Storey,Pearson,0.0003,Low
+company_Keurig Dr Pepper,Pearson,0.0003,Low
+CEO_Ozan Dokmecioglu,Pearson,0.0003,Low
+Ticker_CTSH,Pearson,0.0002,Low
+Ticker_VOYA,Pearson,0.0002,Low
+prev_rank_185.0,Pearson,0.0002,Low
+CEO_Rodney O. Martin Jr.,Pearson,0.0002,Low
+CEO_Brian Humphries,Pearson,0.0002,Low
+city_Teaneck,Pearson,0.0002,Low
+company_Cummins,Pearson,0.0002,Low
+Ticker_CMI,Pearson,0.0002,Low
+company_Voya Financial,Pearson,0.0002,Low
+prev_rank_150.0,Pearson,0.0002,Low
+company_Cognizant Technology Solutions,Pearson,0.0002,Low
+CEO_Jennifer Rumsey,Pearson,0.0002,Low
+Website_https://www.cognizant.com,Pearson,0.0002,Low
+Website_https://www.voya.com,Pearson,0.0002,Low
+Website_https://www.cummins.com,Pearson,0.0002,Low
+city_Milpitas,Pearson,0.0001,Low
+company_Intuit,Pearson,0.0001,Low
+CEO_Richard P. Wallace,Pearson,0.0001,Low
+Ticker_PXD,Pearson,0.0001,Low
+Website_https://www.pxd.com,Pearson,0.0001,Low
+Ticker_INTU,Pearson,0.0001,Low
+prev_rank_468.0,Pearson,0.0001,Low
+company_Pioneer Natural Resources,Pearson,0.0001,Low
+prev_rank_428.0,Pearson,0.0001,Low
+prev_rank_380.0,Pearson,0.0001,Low
+Ticker_KLAC,Pearson,0.0001,Low
+Website_https://www.kla.com,Pearson,0.0001,Low
+CEO_Sasan K. Goodarzi,Pearson,0.0001,Low
+CEO_Scott D. Sheffield,Pearson,0.0001,Low
+company_KLA,Pearson,0.0001,Low
+Website_https://www.intuit.com,Pearson,0.0001,Low
+prev_rank_177.0,Pearson,0.0,Low
+company_Air Products & Chemicals,Pearson,0.0,Low
+city_Nashville,Pearson,0.0,Low
+city_Franklin Lakes,Pearson,0.0,Low
+CEO_Thomas E. Polen,Pearson,0.0,Low
+Ticker_BDX,Pearson,0.0,Low
+Website_https://www.bd.com,Pearson,0.0,Low
+company_Becton Dickinson,Pearson,0.0,Low
+Website_https://www.airproducts.com,Pearson,0.0,Low
+Ticker_APD,Pearson,0.0,Low
+CEO_Seifi Ghasemi,Pearson,0.0,Low
+prev_rank_340.0,Pearson,0.0,Low

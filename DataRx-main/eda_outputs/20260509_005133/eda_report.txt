@@ -1,0 +1,145 @@
+# Basic Dataset Summary for: 1000_companies.csv
+============================================================
+
+Shape: 1000 rows x 18 columns
+
+Column Info:
+company                  str
+rank                   int64
+rank_change          float64
+revenue              float64
+profit               float64
+num. of employees    float64
+sector                   str
+city                     str
+state                    str
+newcomer                 str
+ceo_founder              str
+ceo_woman                str
+profitable               str
+prev_rank                str
+CEO                      str
+Website                  str
+Ticker                   str
+Market Cap               str
+
+Missing Values:
+profit                3
+num. of employees     1
+Ticker               49
+Market Cap           31
+
+Unique Values:
+company: 1000 unique
+rank: 997 unique
+rank_change: 151 unique
+revenue: 993 unique
+profit: 964 unique
+num. of employees: 762 unique
+sector: 21 unique
+city: 400 unique
+state: 46 unique
+newcomer: 2 unique
+ceo_founder: 2 unique
+ceo_woman: 2 unique
+profitable: 2 unique
+prev_rank: 469 unique
+CEO: 994 unique
+Website: 1000 unique
+Ticker: 951 unique
+Market Cap: 959 unique
+
+Duplicate Rows: 0
+
+Descriptive Statistics (Numerical Columns):
+
+Column: rank
+  Count : 1000
+  Mean  : 500.5
+  Std   : 288.82
+  Min   : 1.0
+  25%   : 250.75
+  Median: 500.5
+  75%   : 750.25
+  Max   : 1000.0
+
+Column: rank_change
+  Count : 1000
+  Mean  : -0.7
+  Std   : 31.82
+  Min   : -178.0
+  25%   : -3.0
+  Median: 0.0
+  75%   : 0.0
+  Max   : 295.0
+
+Column: revenue
+  Count : 1000
+  Mean  : 17986.8
+  Std   : 40813.28
+  Min   : 2107.2
+  25%   : 3500.75
+  Median: 6375.5
+  75%   : 14615.48
+  Max   : 572754.0
+
+Column: profit
+  Count : 997
+  Mean  : 2026.48
+  Std   : 6421.58
+  Min   : -6520.0
+  25%   : 195.4
+  Median: 572.0
+  75%   : 1498.3
+  Max   : 94680.0
+
+Column: num. of employees
+  Count : 999
+  Mean  : 35788.67
+  Std   : 104654.65
+  Min   : 160.0
+  25%   : 6500.0
+  Median: 13530.0
+  75%   : 28900.0
+  Max   : 2300000.0
+============================================================
+
+--- Target Insights: 'profit' ---
+Target is numeric.
+Mean: 2026.4763
+Median: 572.0
+Std Deviation: 6421.5781
+Min: -6520.0, Max: 94680.0
+Warning: Target column has 3 missing values.
+
+=== Graphs Generated ===
+Distribution graph saved: eda_outputs\20260509_005133\graphs\distribution_rank.png
+Distribution graph saved: eda_outputs\20260509_005133\graphs\distribution_rank_change.png
+Distribution graph saved: eda_outputs\20260509_005133\graphs\distribution_revenue.png
+Distribution graph saved: eda_outputs\20260509_005133\graphs\distribution_profit.png
+Distribution graph saved: eda_outputs\20260509_005133\graphs\distribution_num. of employees.png
+Count plot saved: eda_outputs\20260509_005133\graphs\countplot_company.png
+Count plot saved: eda_outputs\20260509_005133\graphs\countplot_sector.png
+Count plot saved: eda_outputs\20260509_005133\graphs\countplot_city.png
+Count plot saved: eda_outputs\20260509_005133\graphs\countplot_state.png
+Count plot saved: eda_outputs\20260509_005133\graphs\countplot_newcomer.png
+
+Correlation heatmap saved to eda_outputs\20260509_005133\graphs\correlation_heatmap.png
+
+=== Automatic Warnings ===
+No red flags detected.
+==========================
+
+Target-specific Insights
+Target 'profit' is numeric.
+IQR-based Outlier Detection:
+- Lower Bound: -1758.95
+- Upper Bound: 3452.65
+- Outliers detected: 128 / 1000 (12.80%)
+
+Feature Variance
+→ Variance calculated for 5 numerical features.
+→ No low-variance features detected.
+
+= SUGGESTIONS & NEXT STEPS ===
+- Consider imputing missing values.
