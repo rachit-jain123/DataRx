@@ -2,7 +2,6 @@
 ### A Command-Line Tool for Data Cleaning and Preprocessing
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
