@@ -68,10 +68,10 @@ pip install datarx
 
 ```bash
 # Step 1: Explore your data first
-datarx eda yourdata.csv --output eda_report
+datarx eda yourdata.csv --target targetcolumn --output eda_report.txt
 
 # Step 2: Clean missing values and duplicates
-datarx clean yourdata.csv --dropna --drop-duplicates --output cleaned.csv
+datarx clean yourdata.csv --dropna --dropdupe --output cleaned.csv
 
 # Step 3: Encode categorical columns
 datarx encode cleaned.csv --method onehot --output encoded.csv
@@ -80,10 +80,10 @@ datarx encode cleaned.csv --method onehot --output encoded.csv
 datarx scale encoded.csv --method standard --output scaled.csv
 
 # Step 5: Apply PCA (retain 95% variance)
-datarx pca scaled.csv --retain 0.95 --output pca.csv
+datarx pca scaled.csv --retain 0.95 --target targetcolumn --output pca.csv
 
 # Step 6: Check for data leakage
-datarx detect-leakage pca.csv --target YourTargetColumn
+datarx leakage pca.csv --target targetcolumn --output leakage_report.csv
 ```
 
 ---
@@ -96,7 +96,7 @@ datarx detect-leakage pca.csv --target YourTargetColumn
 | `encode` | Encode categorical columns |
 | `scale` | Normalize or standardize numerical features |
 | `pca` | Apply dimensionality reduction |
-| `detect-leakage` | Identify potential data leakage |
+| `leakage` | Identify potential data leakage |
 | `eda` | Generate visual EDA reports |
 
 ```bash
@@ -110,10 +110,10 @@ datarx <command> --help
 
 ### 🧹 clean
 ```bash
-datarx clean input.csv --dropna --drop-duplicates --output cleaned.csv
+datarx clean input.csv --dropna --dropdupe --output cleaned.csv
 datarx clean input.csv --fillna mean --output cleaned.csv
 ```
-Options: `--dropna`, `--fillna [mean/median/mode/constant]`, `--drop-duplicates`
+Options: `--dropna`, `--fillna [mean/median/mode/constant]`, `--dropdupe`
 
 ---
 
@@ -131,33 +131,33 @@ Options: `--method [label/onehot]`, `--columns`
 datarx scale encoded.csv --method standard --output scaled.csv
 datarx scale encoded.csv --method minmax --columns col1 col2 --output scaled.csv
 ```
-Options: `--method [standard/minmax/robust]`, `--columns`
+Options: `--method [standard/minmax]`, `--columns`
 
 ---
 
 ### 📉 pca
 ```bash
-datarx pca scaled.csv --retain 0.95 --output pca.csv
-datarx pca scaled.csv --components 5 --output pca.csv
+datarx pca scaled.csv --retain 0.95 --target profit --output pca.csv
+datarx pca scaled.csv --components 5 --target profit --output pca.csv
 ```
-Options: `--retain [0.0-1.0]`, `--components [int]`
+Options: `--retain [0.0-1.0]`, `--components [int]`, `--target`
 
 ---
 
-### 🔍 detect-leakage
+### 🔍 leakage
 ```bash
-datarx detect-leakage pca.csv --target Profit --threshold 0.9
+datarx leakage pca.csv --target profit --threshold 0.85 --output leakage_report.csv
 ```
-Options: `--target`, `--threshold [default: 0.9]`
+Options: `--target`, `--threshold [default: 0.85]`
 
 ---
 
 ### 📊 eda
 ```bash
-datarx eda cleaned.csv --output eda_report
-datarx eda cleaned.csv --output eda_report --skip_graphs
+datarx eda data.csv --target profit --output eda_report.txt
+datarx eda data.csv --target profit --output eda_report.txt --skip_graphs
 ```
-Options: `--output`, `--skip_graphs`
+Options: `--output`, `--target`, `--skip_graphs`
 
 ---
 
@@ -182,11 +182,36 @@ Raw CSV
 [ PCA ]  ───────────────────► pca.csv
    │
    ▼
-[ DETECT LEAKAGE ]  ────────► Leakage Report
+[ LEAKAGE ]  ───────────────► leakage_report.csv
    │
    ▼
-Model-Ready Data ✅
+Model-Ready Data
 ```
+
+---
+
+## 📸 Screenshots
+
+### Help Menu
+![Help](screenshots/help.png)
+
+### Clean Output
+![Clean](screenshots/clean.png)
+
+### Encode Output
+![Encode](screenshots/encode.png)
+
+### Scale Output
+![Scale](screenshots/scale.png)
+
+### PCA Output
+![PCA](screenshots/pca.png)
+
+### Leakage Report
+![Leakage](screenshots/leakage.png)
+
+### EDA Graphs
+![EDA](screenshots/eda_graphs.png)
 
 ---
 
@@ -221,7 +246,7 @@ Please open an issue first for major feature additions.
 ## ❓ FAQ
 
 **Q: Do I need Python knowledge to use DataRx?**  
-A: No. It's a CLI tool — just run commands in your terminal.
+A: No. It is a CLI tool — just run commands in your terminal.
 
 **Q: Which file formats are supported?**  
 A: Currently `.csv` only. Excel and JSON support coming soon.
@@ -232,15 +257,15 @@ A: Never. DataRx always creates new output files and backs up inputs.
 **Q: Can I automate the full pipeline?**  
 A: Yes! Chain commands or write a shell script for full automation.
 
+**Q: What if I pass conflicting flags?**  
+A: DataRx detects conflicts like --dropna and --fillna together and shows a clear error.
+
 ---
 
 ## 📄 License
 
-MIT License — Copyright (c) 2025 Ansh Malik  
-Modified and maintained by Rachit Jain (2025)
-
-See [LICENSE](LICENSE) for full details.
-
+MIT License — Copyright (c) 2025 Rachit Jain
+See LICENSE for full details.
 ---
 
 ## 📬 Contact
